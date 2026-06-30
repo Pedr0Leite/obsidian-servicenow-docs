@@ -1,0 +1,46 @@
+---
+title: Add map to Security Incident Response overview
+description: You can add the map to the Security Incident Response overview to view security incident data by geographical location. A map allows you to drill down to security incident information by location.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/security-incident-response/t\_AddGeoHeatmapToSIROverview.html
+release: australia
+product: Security Incident Response
+classification: security-incident-response
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Security incident map, Security Incident Response Overview dashboard, Visual representation of Security Incident Response reporting, Security Incident Response, Enterprise security case management applications, Security Operations]
+---
+
+# Add map to Security Incident Response overview
+
+You can add the map to the [[sir-landing-page|Security Incident Response]] overview to view security incident data by geographical [[location|location]]. A map allows you to drill down to security incident information by location.
+
+## Before you begin
+
+Role required: sn\_si.admin
+
+## Procedure
+
+1.  Navigate to **All** &gt; **Security Incident** &gt; **Overview**.
+
+2.  Select **Add content** in the top left corner of the page to open the widget selection control.
+
+3.  In the first selection box, select **Reports**.
+
+4.  In the second selection box, select **Security Incident**.
+
+5.  In the third selection box, select **[[c_SecurityIncidentGeoHeatmap|Security Incident map]]**.
+
+6.  At the bottom of the screen, select the location on the screen you want to add to the report.
+
+7.  Close the **Add content** box.
+
+
+**Parent Topic:**[Security incident map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SecurityIncidentGeoHeatmap.md)
+
+## Related
+
+- [[sir-landing-page|Security Incident Response]]
+- [[location|Location]]
+- [[c_SecurityIncidentGeoHeatmap|Security incident map]]

@@ -1,0 +1,49 @@
+---
+title: Adaptive authentication Security Metrics
+description: Use authentication policies to evaluate authentication requests and deny or allow access to your instance based on the specified policy conditions.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/platform-security/security-center/sc-adaptive-authentication.html
+release: australia
+product: Security Center
+classification: security-center
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Security metrics, Security monitoring console, Security Center, Platform Security]
+---
+
+# Adaptive authentication Security Metrics
+
+Use [[authentication-policies|authentication policies]] to evaluate [[c_Authentication|authentication]] requests and deny or allow access to your instance based on the specified policy conditions.
+
+[[instance-sec-center-adaptive-auth-metrics|Adaptive authentication metrics]] enable you to monitor how [[adaptive-authentication|adaptive authentication]] is being used on your instance. View a summary of all of your [[ca-metrics|metrics]] on Adaptive authentication, individual metrics such as policy result rates or denied IP addresses. This page requires the Adaptive Authentication \(**com.snc.adaptive\_authentication**\) plugin for adaptive authentication to be available in your instance. You must enable Authentication Policy to see the metrics. See [Activate adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication-plugin.md) and [Configure adaptive authentication properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-adaptive-auth-properties.md) for more details.
+
+**Note:** This feature was released with [[sec-center-v2|Security Center]] version 1.2.
+
+-   Policy result rates: All the successful and failed [[adaptive-authentication-events|adaptive authentication events]].
+-   Event failure distribution: All the failed events for each event type.
+-   Event success distribution: The successful events associated with every event type.
+-   Denied IP addresses: The number of IP addresses blocked by the instance, along with their associated data.
+-   Authenticated user logins: The number of events counted for each event type, excluding the pre-login event.
+-   API user logins: The number of events associated with [[api-authentication-policies|API Authentication policies]] for each event type.
+-   Authentication trend: The total number of events recorded.
+-   Authenticated [[users|users]]: The number of users counted for each event type, excluding the pre-login event.
+
+Select the cards to view the individual metrics page with additional details.
+
+Select the **+Create task** button to create a Security Task related to a metric. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+
+**Parent Topic:**[Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
+
+## Related
+
+- [[authentication-policies|Authentication policies]]
+- [[c_Authentication|Authentication]]
+- [[instance-sec-center-adaptive-auth-metrics|Adaptive authentication metrics]]
+- [[adaptive-authentication|Adaptive authentication]]
+- [[ca-metrics|Metrics]]
+- [[sec-center-v2|Security Center]]
+- [[adaptive-authentication-events|Adaptive authentication events]]
+- [[api-authentication-policies|API Authentication Policies]]
+- [[users|Users]]
+- [[security-task-manager|Security Tasks]]

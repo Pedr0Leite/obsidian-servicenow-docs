@@ -1,0 +1,66 @@
+---
+title: Block Request Category List
+description: Block Request Category List classify observables in ServiceNow based on the block or allow action selected in the CrowdStrike platform. The Category List provides options to initiate a change request for list approval. This ensures that approvals are routed and processed seamlessly as part of the Block Request capability flow.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/security-incident-response/cs-fal-in-block-req-category.html
+release: australia
+product: Security Incident Response
+classification: security-incident-response
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response integrations, Security Incident Response, Enterprise security case management applications, Security Operations]
+---
+
+# Block Request Category List
+
+Block Request Category List classify [[c_Observables|observables]] in ServiceNow® based on the block or allow action selected in the CrowdStrike platform. The Category List provides options to initiate a change request for list approval. This ensures that approvals are routed and processed seamlessly as part of the Block Request capability flow.
+
+## Before you begin
+
+Role required: sn\_si.analyst
+
+**Note:** You must configure the CrowdStrike Falcon Insight configuration tile to use the Block Request Capability for CrowdStrike. For more information on how to configure the integration, see [Install and configure CrowdStrike Falcon Insight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-configure-crowdstrike-falcon-insight.md)
+
+## About this task
+
+\[Omitted video\] Description: Create a Block or Allow request
+
+The Block Request Category List includes two Hash Categories.
+
+-   [[cs-fal-insight-allow-list-entries|Allow List Entries]] – Displays observables added to the Allow Hash category.
+-   [[cs-fal-insight-block-list-entries|Block List Entries]] – Displays observables added to the Block Hash category.
+
+## Procedure
+
+1.  Navigate to **All** &gt; **[[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight Integration]]** &gt; **Block Request Category List**.
+
+2.  Select **Allow Hash**.
+
+3.  **Create a change request:**
+
+    1.  Select **Create Change Request**.
+    2.  Select and hold \(or right-click\) the navigation bar and select **Save**.
+    3.  A change Request field is created with the Request number.
+4.  **Select Approvers:**
+
+    1.  Select **Require Approval**.
+    2.  Select **Approvers for adding observable** from the search bar.
+    3.  Select **Approvers for Removing Observable** from the search bar.
+
+        For a description of the field values, see [CrowdStrike Block Request Category List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/block-req-category-list.md).
+
+5.  Select **Update**.
+
+
+## Result
+
+CrowdStrike Falcon Insight block requests can be reviewed, tracked, and responded to in [[sir-landing-page|Security Incident Response]] using standard Block Request capability flow.
+
+## Related
+
+- [[c_Observables|Observables]]
+- [[cs-fal-insight-allow-list-entries|Allow List Entries]]
+- [[cs-fal-insight-block-list-entries|Block List Entries]]
+- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]
+- [[sir-landing-page|Security Incident Response]]

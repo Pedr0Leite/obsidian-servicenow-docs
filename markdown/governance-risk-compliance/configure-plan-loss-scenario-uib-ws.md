@@ -1,0 +1,52 @@
+---
+title: Configure loss scenarios in the plan
+description: Configure a plan for an identified loss scenario by using the loss scenario template in the Business Continuity Management application. Use the documented plan that has the needs and requirements listed for a potential disaster.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/governance-risk-compliance/configure-plan-loss-scenario-uib-ws.html
+release: australia
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [General administration setup for BCM, Configure, Business Continuity Management, Governance, Risk, and Compliance]
+---
+
+# Configure loss scenarios in the plan
+
+Configure a plan for an identified loss scenario by using the loss scenario template in the [[business-continuity-mangmt-overview|Business Continuity Management]] application. Use the documented plan that has the needs and requirements listed for a potential disaster.
+
+## Before you begin
+
+Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
+
+## Procedure
+
+1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Loss Scenarios**.
+
+2.  Select **New**.
+
+    The Loss scenario form is shown in the example.
+
+    \[Omitted image "new-loss-scenario.png"\] Alt text: New loss scenario.
+
+3.  On the form, fill in the fields.
+
+    For more information on the fields, see [[loss-scenario-record-form|Loss Scenario record form]].
+
+    The example shows the details of a loss scenario.
+
+    \[Omitted image "loss-scenario-example.png"\] Alt text: Loss scenario.
+
+4.  Select **Submit**.
+
+
+-   **[Loss Scenario record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/loss-scenario-record-form.md)**  
+Use the Loss Scenario record form in BCM UIB Workspace to configure a plan for an identified loss scenario.
+
+**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+
+## Related
+
+- [[loss-scenario-record-form|Loss Scenario record form]]
+- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+- [[business-continuity-mangmt-overview|Business Continuity Management]]
+- [[Administration|Administration]]

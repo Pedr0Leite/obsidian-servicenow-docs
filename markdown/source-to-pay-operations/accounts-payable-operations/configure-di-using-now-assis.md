@@ -1,0 +1,54 @@
+---
+title: Configure Document Intelligence using Now Assist for Accounts Payable Operations \(APO\)
+description: Configure Document Intelligence using Now Assist skill in Accounts Payable Operations to enable AI-powered invoice data extraction.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/source-to-pay-operations/accounts-payable-operations/configure-di-using-now-assis.html
+release: australia
+product: Accounts Payable Operations
+classification: accounts-payable-operations
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+keywords: [APO, Accounts Payable Operations, invoice automation]
+breadcrumb: [Configure Now Assist for Accounts Payable Operations \(APO\), Now Assist for APO, Accounts Payable Operations, Finance and Supply Chain]
+---
+
+# Configure Document Intelligence using Now Assist for Accounts Payable Operations \(APO\)
+
+Configure Document Intelligence using Now Assist skill in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to enable AI-powered invoice data extraction.
+
+## Before you begin
+
+Role required: admin
+
+Scope: Accounts Payable Operations with Document Intelligence.
+
+Plugins required:
+
+-   Now assist in Document Intelligence
+-   Account Payable Invoice Processing
+-   Now assist for Account Payable Operations
+-   Document Intelligence for Accounts Payable Operations Content Pack
+
+## Procedure
+
+1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist skills for Common Finance &amp; Supply Chain features** tab of the Now Assist Admin console.
+
+2.  Select **[[finance-supply-chain-landing|Finance and Supply Chain]]** &gt; **Accounts Payable Operations** &gt; **Invoice data extraction** to view the skills for the APO features.
+
+3.  Select **Activate** the skill.
+
+    The **Invoice processing - Gen AI** use case is provided as out of the box within the skill.
+
+4.  Select **Invoice processing - Gen AI** use case.\[Omitted image "doc-intel-na.png"\] Alt text: Invoice data extraction
+
+5.  Select **Save and Continue**.
+
+6.  In the **Review and activate** section, select **Activate**.
+
+    The **Invoice data extraction** skill is activated successfully.
+
+## Related
+
+- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
+- [[finance-supply-chain-landing|Finance and Supply Chain]]

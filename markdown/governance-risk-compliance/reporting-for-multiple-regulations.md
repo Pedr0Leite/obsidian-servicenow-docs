@@ -1,0 +1,67 @@
+---
+title: Reporting incidents or security incidents for multiple regulations
+description: You can now report incidents or security incidents for multiple regulations for various legal entities in Digital resilience incident reporting. The application streamlines operations by automating tasks, migrating data, helping to prevent duplicates, and verifying accurate reporting.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/governance-risk-compliance/reporting-for-multiple-regulations.html
+release: australia
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 4
+breadcrumb: [Manage, Using Digital resilience incident reporting, Manage, Operational Resilience, Governance, Risk, and Compliance]
+---
+
+# Reporting incidents or security incidents for multiple regulations
+
+You can now report incidents or security incidents for multiple regulations for various legal entities in Digital resilience incident reporting. The application streamlines operations by automating tasks, migrating data, helping to prevent duplicates, and verifying accurate reporting.
+
+## Automated reporting workflow
+
+Starting with Digital resilience incident reporting, release 21.1.1, the application uses an automated reporting workflow to generate reports within regulatory reporting timelines:
+
+-   Regulatory reporting assessment of IT incidents
+-   Initial Report \(within 24 hours\)
+-   Intermediate Report \(every three days until resolved\)
+-   Final Report
+
+You can complete these tasks and generate reports in Microsoft Word format, as required by regulatory authorities for analysis.
+
+## Case creation by adding entities
+
+Digital resilience incident reporting is used for incident reporting and assessment for legal entities or other objectives according to regulations. You can now add entities to an incident, which automatically create a Digital resilience incident reporting case.
+
+**Note:** When an entity is mapped to an incident or security incident, the 'DRI case creation on incident entity insert' or 'DRI case creation on SIR entity insert' flow runs and a Digital Resilience Incident Reporting case is created automatically in the Digital Resilience Incident Reporting module with the prebuilt flow. For information on the flows, see [[workflow-confi-auto-trigger-inci-repo-cases|Configure Digital resilience incident reporting]].
+
+For information on setting up the entities, see [[set-up-entities-for-targets|Set up entities for the targets]].
+
+## Sequence of action tasks
+
+The sequence of action tasks in the Digital Resilience Incident Reporting \(DIR\) process, as outlined in the document "Digital resilience incident reporting for multiple regulations," is primarily driven by template configurations. Here's an overview of how action tasks are created and sequenced:
+
+Action task creation and sequence are explained:
+
+1.  Initial action task creation: When a DIR case is created \(triggered by sources like incidents\), the system automatically generates action tasks. For example, the template shown creates the 'Regulatory reporting assessment of IT incidents' action task.
+2.  Template configuration: Templates are configured to create specific action tasks. For example, the 'DRI Initial report' template, which runs only once, automatically creates the 'DRI Initial report' action task when the regulation’s reporting status changes to 'Reportable.' Administrators can then update its name, due date, and termination conditions.
+3.  Closure of action tasks:
+
+    When the 'DRI Initial report' is closed, the 'DRI Intermediate report' action task is created. If the 'DRI Initial report' task remains open, the system creates the 'DRI Intermediate report' action task every three days until the DIR case is closed or canceled, or the source incident is closed.
+
+    **Note:** It is not mandatory to close every intermediate report assessment that was generated during the lifecycle of the incident. The Final report action task is created automatically when the source incident is closed, independent of the open intermediate assessments. Any intermediate assessments that remain open after the source incident is closed are no longer required - the periodic generation stops as soon as the termination conditions configured on the DRI Intermediate report template are met \(typically when the source incident state is 'Closed' or the DRI case state is 'Closed'/'Canceled'\).
+
+4.  Closure of incident: When the source incident or security incident is closed, the “DRI Final report” action task is created, with a due date of 30 days.
+5.  Automated action task generation: These template configurations enable automatic creation of action tasks, as previously demonstrated. as administrators, you can create multiple action tasks and tailor their sequence to meet your organizational requirements and applicable regulations.
+6.  Completion of action tasks: Action tasks are completed according to the conditions defined in their templates, promoting efficient process management and required task completion.
+
+    **Note:** As administrators, you can customize the configurations available with the base version or add additional action tasks as needed.
+
+
+For information on mapping regulations and setting up action task templates, see [[configure-case-types-map-regu|Map regulations to the entities]] and [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]].
+
+For information on completing action tasks, refer to [[work-on-action-tasks|Complete action tasks and report incidents associated with regulations]].
+
+## Related
+
+- [[workflow-confi-auto-trigger-inci-repo-cases|Configure Digital resilience incident reporting]]
+- [[set-up-entities-for-targets|Set up entities for the targets]]
+- [[configure-case-types-map-regu|Map regulations to the entities]]
+- [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]]
+- [[work-on-action-tasks|Complete action tasks and report incidents associated with regulations]]

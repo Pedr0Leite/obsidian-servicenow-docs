@@ -1,0 +1,31 @@
+---
+title: Email size limits
+description: To prevent issues with large email messages, the system enforces configured limits on the maximum allowed email body size, total attachment file size, and number of attachments per email.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/platform-administration/c\_EmailAttachmentLimits.html
+release: australia
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Reference, Email Administration, Notifications, Configure core features, Administer the ServiceNow AI Platform]
+---
+
+# Email size limits
+
+To prevent issues with large email messages, the system enforces configured limits on the maximum allowed email body size, total attachment file size, and number of attachments per email.
+
+An email or attachment that exceeds the system capacity may not be processed as expected. To ensure that your emails and attachments are processed as expected, you can configure properties that limit the size of emails and attachments.
+
+-   **[[r_EmailBodySizeLimitProperties|Message body size limit properties]]**  
+Add properties to control the maximum email body size allowed for inbound and [[ia-outbound-email-il|outbound email]] messages.
+-   **[[r_AttachmentLimitProperties|Attachment limit properties]]**  
+Several properties control email attachment limits.
+
+**Parent Topic:**[[reference-email-admin|Reference]]
+
+## Related
+
+- [[r_EmailBodySizeLimitProperties|Message body size limit properties]]
+- [[r_AttachmentLimitProperties|Attachment limit properties]]
+- [[reference-email-admin|Reference]]
+- [[ia-outbound-email-il|Outbound email]]

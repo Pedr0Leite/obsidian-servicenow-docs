@@ -1,0 +1,93 @@
+---
+title: Run Enrichment operations in TISC
+description: The following table below describes the interactions involved in running different enrichment operations from TISC.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/threat-intelligence-security-center/tisc-unified-experience-capabilities-and-modal-screens.html
+release: australia
+product: Threat Intelligence Security Center
+classification: threat-intelligence-security-center
+topic_type: reference
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security Center Library, Use, Threat Intelligence Security Center, Security Operations]
+---
+
+# Run Enrichment operations in TISC
+
+The following table below describes the interactions involved in running different enrichment operations from TISC.
+
+## TISC modal screens
+
+<table id="table_z5p_bk5_g1c"><thead><tr><th>
+
+Capability
+
+</th><th>
+
+UX Frameworks interactions
+
+</th><th>
+
+Integrations supported
+
+</th></tr></thead><tbody><tr><td>
+
+Run Threat Look Up
+
+</td><td>
+
+On Screen 1 – Select the implementation\(s\) and submit.There are no [[common-inputs|common inputs]] or implementation specific inputs applicable for Run Threat Look Up.
+
+</td><td>
+
+-   Virus Total
+-   Crowd Strike Falcon Intelligence
+
+</td></tr><tr><td>
+
+[[tisc-run-sighting-search|Run Sighting Search]]
+
+</td><td>
+
+Screen 1 – [[implementation-selection|Select Implementations]] and Screen 2 – Common Inputs are applicable.Sighting search takes date and time frequency as common inputs across multiple implementations of Splunk and other integrations.
+
+</td><td>
+
+-   Elastic search
+-   Splunk Sighting
+
+</td></tr><tr><td>
+
+[[tisc-run-observable-enrichment|Run Observable Enrichment]]
+
+</td><td>
+
+Only Screen 1 – Select Implementations.There are no common inputs or implementation specific inputs applicable for Run Observable Enrichment.
+
+</td><td>
+
+-   WHOIS
+-   Shodan
+
+</td></tr></tbody>
+</table>-   **[Observable Enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-observable-enrichment.md)**  
+The [[enrich-observable-whois-wf|Enrich Observable WhoIs workflow]] performs enrichment on selected [[c_Observables|observables]]. If the observables are of a type recognized by the [[whois-landing-page|WhoisXML API Integration]], the observables are enriched.
+-   **[Run Threat Lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-run-threat-lookup.md)**  
+Select one or more implementations as applicable to [[tisc-run-threat-lookup|run threat lookup]] on observables.
+-   **[Run Sighting Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-run-sighting-search.md)**  
+Perform Run Sighting Search related integration.
+-   **[Run Observable Enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-run-observable-enrichment.md)**  
+Select one or more implementations as applicable to run threat lookup on observables.
+
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
+
+## Related
+
+- [[common-inputs|common inputs]]
+- [[tisc-run-sighting-search|Run Sighting Search]]
+- [[implementation-selection|Select implementations]]
+- [[tisc-run-observable-enrichment|Run Observable Enrichment]]
+- [[enrich-observable-whois-wf|Enrich Observable WhoIs workflow]]
+- [[c_Observables|Observables]]
+- [[whois-landing-page|WhoisXML API integration]]
+- [[tisc-run-threat-lookup|Run Threat Lookup]]

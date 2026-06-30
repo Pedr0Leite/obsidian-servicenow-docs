@@ -1,0 +1,72 @@
+---
+title: Configuring SPM Enterprise-Wide Deployment
+description: Configuring Enterprise-Wide Deployment \(EWD\) involves creating partitions, defining partition criteria for supported tables, and assigning partition roles to users or user groups to enforce function-level data separation.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/it-business-management/configure-ewd.html
+release: australia
+topic_type: concept
+last_updated: "2026-06-25"
+reading_time_minutes: 2
+breadcrumb: [SPM Enterprise-Wide Deployment, Strategic Portfolio Management]
+---
+
+# Configuring SPM Enterprise-Wide Deployment
+
+Configuring Enterprise-Wide Deployment \(EWD\) involves creating partitions, defining partition criteria for supported tables, and assigning partition roles to users or user groups to enforce function-level data separation.
+
+## High-level configuration process
+
+EWD configuration is an administrative activity that requires planning before implementation. To achieve data separation with EWD, complete the following steps in order:
+
+1.  Create a partition record with assigning a new or existing role to it. For details, see [[create-partition-ewd|Create and configure a partition]].
+2.  Configure partition criteria for each supported table that you want to define data partitioning for that partition. For details, see [[assign-partition-role-ewd|Assign partition role for access to the partition]].
+3.  Assign the partition role associated with the partition record to the users or user groups who should have access to those partitioned tables. For details, see [[verify-partition-configuration-ewd|Verify partition configuration]].
+
+    Repeat this process for each function partition you need to create. For example, create separate partitions for IT Operations and HR Learning and Development.
+
+4.  Update the existing records in the project, demand, programs, portfolios, and planning item tables with partition details by running the scheduled job. For details, see [[update-partition-details-for-existing-records|Update partition details for existing records]].
+
+**Important:** Apply partition configuration changes and role assignments during a maintenance window when users are not accessing the instance, to ensure record visibility updates take effect correctly.
+
+## Partition configuration checklist
+
+Before configuring Enterprise-Wide Deployment, ensure the following are in place:
+
+-   The EWD admin \[sn\_spm\_ewd.ewd\_admin\] role assigned to you.
+-   The reference column to use as the partition criteria field is identified. All partitions on the same table must use the same reference column — for example, Department for all partitions on the Project table.
+-   The users or user groups that should have access to each partition are identified.
+-   A plan for handling existing records is in place. After configuring partitions, run the **Update existing records with partition details** scheduled job to populate partition values on historical records.
+
+**Important:** Once partition criteria is configured for a table, the criteria field becomes read-only and cannot be changed for subsequent partitions on that table. Plan your partition structure accordingly before creating partitions.
+
+## Supported tables for partition criteria
+
+Partition criteria can be configured for the following core tables:
+
+-   Project \[pm\_project\]
+-   Demand \[dmn\_demand\]
+-   Program \[pm\_program\]
+-   Portfolio \[pm\_portfolio\]
+
+Related records and sub-entities for these tables automatically inherit the partition value from the parent record. For a full list of tables in scope, see [[supported-tables-for-partition-ewd|Supported tables for partition]].
+
+## Supported workspace versions
+
+Partition enforcement is supported in the following workspaces. For partition enforcement to function in a workspace, that workspace must be installed at the specified minimum version:
+
+-   [[project-workspace-landing-page|Project Workspace]] \(7.3.0\)
+-   [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace \(8.15.0\)
+-   [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace \(4.15.0\)
+-   [[rsrc-mgmt-wrkspc|Resource Management Workspace]] \(5.7.0\)
+
+## Related
+
+- [[create-partition-ewd|Create and configure a partition]]
+- [[assign-partition-role-ewd|Assign partition role for access to the partition]]
+- [[verify-partition-configuration-ewd|Verify partition configuration]]
+- [[update-partition-details-for-existing-records|Update partition details for existing records]]
+- [[supported-tables-for-partition-ewd|Supported tables for partition]]
+- [[project-workspace-landing-page|Project Workspace]]
+- [[portfolio-planning-app-landing-page|Portfolio Planning]]
+- [[alignment-planner-workspace-landing-page|Strategic Planning]]
+- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

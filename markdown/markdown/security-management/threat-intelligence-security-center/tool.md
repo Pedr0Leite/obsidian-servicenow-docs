@@ -1,0 +1,27 @@
+---
+title: Tools
+description: Tools are legitimate software that are used by threat actors to perform attacks. Tools apply for STIX 2.x.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/threat-intelligence-security-center/tool.html
+release: australia
+product: Threat Intelligence Security Center
+classification: threat-intelligence-security-center
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Security Center Library, Use, Threat Intelligence Security Center, Security Operations]
+---
+
+# Tools
+
+Tools are legitimate software that are used by threat actors to perform attacks. Tools apply for STIX 2.x.
+
+Tools enable you to know how and when threat actors use them for executing campaigns. Unlike malware, these tools or software packages are often found on a system and have legitimate purposes for power users, administrators, network administrators, or even normal users.
+
+For example, remote access tools \(RDP\) and network scanning tools \(Nmap\) are tools that a threat actor uses during an attack.
+
+-   **[Define Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-tool.md)**  
+Define tools as legitimate software that is used to perform attacks.
+
+**Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
+

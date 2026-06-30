@@ -1,0 +1,33 @@
+---
+title: Using timestamps to track user changes in an input form
+description: Use the following code to extract data to monitor the timestamp of changes made by different users on an input form screen.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/mobile/track-timestamp-script.html
+release: australia
+topic_type: reference
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Configure an input form screen, Input form screen, Mobile screen types, Mobile screens, Mobile app components, Building mobile apps, Mobile Platform]
+---
+
+# Using timestamps to track user changes in an input form
+
+Use the following code to extract data to monitor the timestamp of changes made by different users on an [[parameter-input-screen|input form screen]].
+
+Timestamps can be retrieved via the script when the **Track timestamps for input updates** field is enabled in the input form's record. Enable the field to track the time input values are changed. For more information, search for the field **Track timestamps for input updates** in the topic [[parameter-screen-config|Configure an input form screen]].
+
+The following script is an example of how to retrieve timestamps based on when the input's value was changed. The information is accessible using a scripted writeback action.
+
+```
+(function WriteBackAction(parm_input, parm_variable, actionResult, additionalData) { 
+// var additionalInputDataMap = additionalData.getAdditionalInputDataMap();
+var input1Timestamp = additionalInputDataMap["input1"].getLastUpdatedTimestamp(); // input1 stands for the input's name. Could be any input type
+//Handle timestamp logic here
+})(parm_input, parm_variable, actionResult, additionalData);
+
+```
+
+## Related
+
+- [[parameter-screen-config|Configure an input form screen]]
+- [[parameter-input-screen|Input form screen]]

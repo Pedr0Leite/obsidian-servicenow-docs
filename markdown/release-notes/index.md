@@ -1,0 +1,655 @@
+---
+title: Australia Release Notes
+locale: en-US
+release: australia
+bundle: rn
+doc_type: toc
+---
+
+# Australia Release Notes
+
+- [[family-release-notes|Australia release notes]] -- The ServiceNow Australia release includes new products and applications, as well as additional features and fixes for existing products. Read the release notes to learn about the release, prepare for your upgrade, and upgrade your instance.
+  - [[rn-getting-started-landing-page|Using the release notes]] -- Learn how to navigate the redesigned release notes and find the information you're looking for.
+  - [[rn-features-overview|Build your own release notes]] -- Enhance your upgrade experience with configurable release notes that fit your unique upgrade scenario. Assemble product information, fixes included in your targeted release version, and upgrade tasks to streamline your upgrade preparation, even when you skip a family release.
+  - [[rn-learn-landing-page|Learn about the Australia release]] -- The Australia release includes new features and improvements built on the ServiceNow AI Platform.
+    - [[rn-n-1-landing-page|Release notes for upgrading from Zurich]] -- When you upgrade from the Zurich release, understand the fixes in each release version, notable changes for the user interface, browser support, plugin updates, and each feature's upgrade and migration tasks if applicable.
+      - [[australia-zurich-combined-release-notes|Combined product release notes for upgrades from Zurich to Australia]] -- To help you upgrade from Zurich to Australia, we have combined the cross-family release notes for each product onto one page. Select the products you have to customize the release notes results.
+      - [[new-features-changes|Features and changes by product]] -- Review the new features and changes in this release by product.
+        - [[intelligent-experiences-rn-landing|AI Experiences release notes]] -- AI Experiences has new and updated features in the Australia release.
+          - [[agentic-desktop-rn|AI Desktop Actions release notes]] -- The ServiceNow AI Desktop Actions application enables you to design, configure, and manage desktop actions to automate repetitive tasks. These desktop actions are executed by AI agents created in AI Agent Studio. AI Desktop Actions was enhanced and updated in the Australia release.
+          - [[ai-control-tower-rn|AI Control Tower release notes]] -- The ServiceNow AI Control Tower application provides a centralized workspace for AI stewards to manage and monitor AI within the enterprise. AI Control Tower was enhanced and updated in the Australia release.
+          - [[generative-ai-controller-rn|Generative AI Controller release notes]] -- The ServiceNow Generative AI Controller application enables you to use generative AI capabilities with third-party large language model (LLM) providers on the ServiceNow AI Platform. Generative AI Controller was enhanced and updated in the Australia release.
+          - [[document-intelligence-rn|Document Intelligence release notes]] -- The ServiceNow Document Intelligence application is an artificial intelligence (AI) solution that quickly and accurately categorizes and extracts information from documents.
+          - [[mcp-server-console-rn|MCP Server Console release notes]] -- The ServiceNow MCP Server Console application enables secure and governed access to functionality on a ServiceNow instance for AI applications with Model Context Protocol (MCP) servers. MCP servers extend ServiceNow AI Platform functionality into any external MCP client and employee experience over the Model Context Protocol. MCP Server Console is a new application in the Australia release.
+          - [[knowledge-graph-rn|Knowledge Graph release notes]] -- The ServiceNow Knowledge Graph application enables you to create and manage a Knowledge Graph schema for default integrations with Virtual Agent. Knowledge Graph was enhanced and updated in the Australia release.
+          - [[servicenow-lens-rn|ServiceNow AI Lens release notes]] -- With ServiceNow AI Lens, which is a ServiceNow Now Assist application, you can use generative AI to scan, extract, comprehend, and synthesize data to optimize your workflows. ServiceNow AI Lens was enhanced and updated in the Australia release.
+          - [[predictive-intelligence-rn|Predictive Intelligence release notes]] -- The ServiceNow Predictive Intelligence application enables you to create and train machine learning models to help improve the performance, efficiency, and flexibility of your systems. Predictive Intelligence was enhanced and updated in the Australia release.
+        - [[api-rn|API release notes]] -- ServiceNow APIs enable you to build custom applications and experiences. APIs were enhanced and updated in the Australia release.
+        - [[build-automate-rn-landing|App development and low-code release notes]] -- The ServiceNow AI Platform has new and updated automation, as well as and no-code, low-code, and platform developer features in the Australia release.
+          - [[aemc-rn|App Engine Management Center release notes]] -- The ServiceNow App Engine Management Center (AEMC) application enables admins to manage app development from intake to deployment to production monitoring. AEMC was enhanced and updated in the Australia release.
+          - [[app-engine-studio-rn|App Engine Studio release notes]] -- The ServiceNow App Engine Studio application enables creators of varying skill levels to build applications that meet the immediate needs of your organization. App Engine Studio was enhanced and updated in the Australia release.
+          - [[build-agent-rn|Build Agent release notes]] -- The ServiceNow Build Agent application enables developers to create, edit, and deploy full-stack applications and metadata through a conversational interface. Build Agent was enhanced and updated in the Australia release.
+          - [[creator-studio-rn|Creator Studio release notes]] -- The ServiceNow Creator Studio application guides business process experts through creating request-based applications, removing the barriers of traditional low-code development. Creator Studio was enhanced and updated in the Australia release.
+          - [[data-catalog-rn|Data Catalog release notes]] -- The ServiceNow Data Catalog application is the self-service discovery layer within the Workflow Data Fabric application that enables teams to find, understand, and govern data assets across your organization. Data Catalog is a new application in the Australia release.
+          - [[data-products-rn|Data products release notes]] -- The ServiceNow Data products application enables data stewards to create governed data interfaces and package them into discoverable, reusable data products that teams can access through the Data Catalog. Data products is a new application in the Australia release.
+          - [[developer-sandboxes-rn|Developer Sandboxes release notes]] -- The ServiceNow Developer Sandboxes application enables your administrators and delegated developers to request, access, and manage the individual sandboxes on top of the same underlying development instance. Developer Sandboxes was enhanced and updated in the Australia release.
+          - [[integration-hub-rn|Integration Hub release notes]] -- The ServiceNow Integration Hub application extends the ServiceNow Workflow Studio automation capabilities by enabling you to integrate your instance data with data in external systems. Integration Hub was enhanced and updated in the Australia release.
+          - [[next-experience-components-rn|Next Experience Components release notes]] -- The ServiceNow Next Experience Components application provides the components used to build custom user interfaces. Next Experience Components was enhanced and updated in the Australia release.
+          - [[ned-tools-rn|Next Experience Developer (NED) Tools release notes]] -- The ServiceNow Next Experience Developer Tools application enables you to create the components to track and enhance page performance and improve overall developer productivity. Next Experience Developer Tools was enhanced and updated in the Australia release.
+          - [[now-assist-for-app-engine-rn|Now Assist for App Engine release notes]] -- The ServiceNow Now Assist for App Engine application enables creators to enhance custom applications with AI assets that app users can leverage at runtime. Now Assist for App Engine was enhanced and updated in the Australia release.
+          - [[now-assist-for-creator-rn|Now Assist for Creator release notes]] -- The ServiceNow Now Assist for Creator application includes generative AI skills and AI agents that can help you develop on the ServiceNow AI Platform efficiently. Now Assist for Creator was enhanced and updated in the Australia release.
+          - [[now-assist-for-zero-copy-connector-rn|Now Assist for Zero Copy Connector release notes]] -- The ServiceNow Now Assist for Zero Copy Connector application includes generative AI skills and AI agents that can help you use Zero Copy Connectors efficiently. Now Assist for Zero Copy Connector was enhanced and updated in the Australia release.
+          - [[performance-analyzer-rn|Performance Analyzer release notes]] -- The ServiceNow Performance Analyzer application enables you to access page load time data, trends, and waterfall visualizations directly from your instance. It also helps you to identify page performance issues and bottlenecks in UX framework pages independently. Performance Analyzer was enhanced and updated in the Australia release.
+          - [[releaseops-rn|ReleaseOps release notes]] -- The ServiceNow ReleaseOps application enables you to deploy and validate code from development to production in your ServiceNow environments. ReleaseOps was enhanced and updated in the Australia release.
+          - [[reverse-tunnel-rn|Reverse Tunnel release notes]] -- The ServiceNow Reverse Tunnel application enables Zero Copy Connectors to reach private cloud or on-premises data sources through encrypted outbound connections, without opening inbound firewall ports. Reverse Tunnel is available in the Australia release.
+          - [[rpa-rn|RPA Hub release notes]] -- The ServiceNow RPA Hub application enables end-to-end automation for your organization. RPA Hub was enhanced and updated in the Australia release.
+          - [[servicenow-cli-rn|ServiceNow CLI release notes]] -- The ServiceNow CLI application is a command-line interface that enables you to perform instance operations from your local system and include new commands that meet your application's needs. ServiceNow CLI was enhanced and updated in the Australia release.
+          - [[servicenow-ide-rn|ServiceNow IDE release notes]] -- The ServiceNow integrated development environment (IDE) application enables developers to create scoped applications in source code in an IDE based on Visual Studio Code for the Web on the ServiceNow AI Platform. ServiceNow IDE was enhanced and updated in the Australia release.
+          - [[servicenow-sdk-rn|ServiceNow SDK release notes]] -- The ServiceNow software development kit (SDK) enables developers to create scoped applications in source code locally in Visual Studio Code Desktop and upload changes to a ServiceNow instance. ServiceNow SDK was enhanced and updated in the Australia release.
+          - [[servicenow-studio-rn|ServiceNow Studio release notes]] -- The ServiceNow ServiceNow Studio application provides a unified experience for all ServiceNow development activities, enabling admins and developers to extend base system solutions and create custom apps. ServiceNow Studio was enhanced and updated in the Australia release.
+          - [[ui-builder-rn|UI Builder release notes]] -- The ServiceNow UI Builder application is a web user interface builder for building pages for Workspaces, as well as custom workspaces or portals with Next Experience Components. UI Builder was enhanced and updated in the Australia release.
+          - [[workflow-studio-rn-landing|Workflow Studio release notes]] -- The ServiceNow Workflow Studio application consolidates playbooks, flows, actions, decision tables, and integrations into one design environment. Workflow Studio was enhanced and updated in the Australia release.
+            - [[flow-designer-rn|Flows, Subflows, and Actions release notes]] -- The ServiceNow Workflow Studio flows, subflows, and actions application enables process analysts to automate work without having to code and to build multiple-step flows from reusable components. Workflow Studio flows, subflows, and actions were enhanced and updated in the Australia release.
+            - [[process-automation-designer-rn|Playbook release notes]] -- The Playbook builder within the ServiceNow Workflow Studio application enables playbook owners to create multiple-flow processes in a diagram or task board interface. The Playbook builder was enhanced and updated in the Australia release.
+            - [[table-builder-rn|Table Builder release notes]] -- The ServiceNow Table Builder application is a centralized way to build tables, forms, and display logic. Table Builder was enhanced and updated in the Australia release.
+          - [[zero-copy-connectors-rn|Zero Copy Connectors release notes]] -- The ServiceNow Zero Copy Connectors application unifies data from across the enterprise, providing access to external data in real time without needing to copy it to your instance. Zero Copy Connectors was enhanced and updated in the Australia release.
+          - [[zero-copy-connector-for-erp-rn|Zero Copy Connector for ERP release notes]] -- The ServiceNow Zero Copy Connector for ERP application lets you connect to the ERP (Enterprise Resource Planning) system of record, query remote tables, and build data models to use ERP data. Zero Copy Connector for ERP was enhanced and updated in the Australia release.
+        - [[conversational-interfaces-rn-landing|Conversational Interfaces release notes]] -- Conversational Interfaces includes enhancements and changes in the Xanadu release.
+          - [[advanced-work-assignment-rn|Advanced Work Assignment (AWA) release notes]] -- The ServiceNow Advanced Work Assignment (AWA) application automatically assigns work items to your agents based on their availability, capacity, and, optionally, skills. AWA was enhanced and updated in the Australia release.
+          - [[sidebar-rn|Sidebar release notes]] -- The ServiceNow Sidebar application enables agents and subject matter experts to collaborate on user issues. Sidebar was enhanced and updated in the Australia release.
+          - [[virtual-agent-rn|Virtual Agent release notes]] -- The ServiceNow Virtual Agent application provides user assistance through a conversational interface to help users to quickly obtain information and to perform common work tasks. Virtual Agent was enhanced and updated in the Australia release.
+        - [[cbs-rn|Core Business Suite release notes]] -- The ServiceNow Core Business Suite (CBS) application lays the foundation to unify disjointed processes across business units. It’s a collection of modules that fulfills different business needs for different personas within a single product suite. CBS is a new application in the Australia release.
+        - [[customer-service-mgmt-rn-landing|Customer Service Management release notes]] -- The ServiceNow Customer Service Management application has new and updated applications and features in the Australia release.
+          - [[customer-service-config-ws-rn|Agent experience for CSM release notes]] -- The ServiceNow Agent experience for CSM provides customer service agents with the tools that they need to find, research, and resolve customer issues and questions. Agent experience for CSM was enhanced and updated in the Australia release.
+          - [[case-mgmt-csm-rn|Case management for CSM release notes]] -- The ServiceNow Case management for CSM application enables customer service organizations and support teams to collaborate on customer problems proactively to resolve issues. Case management for CSM was enhanced and updated in the Australia release.
+          - [[data-management-for-csm-rn|Data Management for CSM release notes]] -- The ServiceNow Data Management for Customer Service Management (CSM) application enables you to organize and manage the data for both your internal users and external customers. Data Management for CSM was enhanced and updated in the Australia release.
+          - [[customer-service-ai-ml-rn|Predictive AI for CSM release notes]] -- The ServiceNow Predictive AI for Customer Service Management (CSM) applications enable customer service organizations and service operations to configure and implement Now Assist for Customer Service Management (CSM), Guided Decisions, Recommended Actions, and Task Intelligence features. The Predictive AI for CSM applications were enhanced and updated in the Australia release.
+          - [[customer-self-service-omnichannel-engagement-rn|Self-service and omnichannel engagement for CSM release notes]] -- With self-service and omnichannel applications in the ServiceNow Customer Service Management (CSM) application, your customers can use chat on self-service portals, consumer messaging apps, email, or phone calls to connect with your organization. Self-service and omnichannel applications for CSM were enhanced and updated in the Australia.
+          - [[workforce-optimization-csm-rn|Workforce Optimization for CSM release notes]] -- The ServiceNow Workforce Optimization application enables you to efficiently route work to your team, manage your team's skills and schedules, and monitor their performance. Workforce Optimization was enhanced and updated in the Australia release.
+        - [[enterprise-architecture-rn-landing|Enterprise Architecture release notes]] -- Enterprise Architecture (formerly Application Portfolio Management) has new and updated features in the Australia release.
+          - [[enterprise-architecture-rn|Enterprise Architecture release notes]] -- The ServiceNow Enterprise Architecture application unites strategic and operational teams, enabling organizations to achieve their business objectives. Enterprise Architecture was enhanced and updated in the Australia release.
+        - [[employee-service-management-foundation-rn|Enterprise Service Management Foundation release notes]] -- The ServiceNow Enterprise Service Management (ESM) Foundation unifies IT, HR, finance, procurement, legal, and workplace services on one AI platform, delivering a simplified and unified implementation, service delivery, and employee experience for midsize companies. Enterprise Service Management Foundation is a new solution in the Australia release.
+        - [[employee-service-management-rn-landing|Employee Service Management release notes]] -- Employee Service Management has new and updated features in the Australia release
+          - [[hr-service-delivery-landing|HR Service Delivery release notes]] -- The ServiceNow HR Service Delivery application improves the employee service experience by automating HR interactions and providing a single platform for all HR services. HR Service Delivery was enhanced and updated in the Australia release.
+            - [[hr-aws-rn|Agent Workspace for HR Case Management release notes]] -- The ServiceNow Agent Workspace for HR Case Management application enables you to interact with employees, respond to inquiries, and resolve issues quickly. Agent Workspace for HR Case Management was enhanced and updated in the Australia release.
+            - [[hr-ckm-rn|Case and Knowledge Management release notes]] -- The ServiceNow Case and Knowledge Management application enables you to standardize the documentation, interaction, and fulfillment of employee inquiries and requests, which helps to improve HR efficiency and services over time. Case and Knowledge Management was enhanced and updated in the Australia release.
+            - [[talent-acquisition-rn-landing|Hiring Experiences release notes]] -- Hiring Experiences is a suite of applications that offers a flexible and interactive workspace where hiring managers, recruiters, interviewers, and applicants can seamlessly perform their respective hiring tasks. Hiring Experiences was enhanced and updated in the Australia release.
+              - [[interview-management-rn|Interview management release notes]] -- The ServiceNow Interview management application streamlines the interview setup and scheduling process by minimizing manual tasks and improving efficiency. Interview management was enhanced and updated in the Australia release.
+              - [[recruiter-workspace-rn|Recruitment workspace release notes]] -- The ServiceNow Recruitment workspace application provides a flexible workspace for you as a recruiter to manage, prioritize, and perform your work. Recruitment workspace was enhanced and updated in the Australia release.
+            - [[recommended-actions-hrsd-rn|Recommended Actions for HRSD release notes]] -- The ServiceNow Recommended Actions for HRSD application provides real‑time actionable guidance and relevant resources that help HR agents resolve cases more quickly. Recommended Actions for HRSD is a new application in the Australia release.
+            - [[ur-rn|Universal Request release notes]] -- The ServiceNow Universal Request application enables agents to resolve cases seamlessly across the enterprise to provide a better employee experience. Universal Request was enhanced and updated in the Australia release.
+            - [[wfo-hr-rn|Workforce Optimization for HR release notes]] -- The ServiceNow Workforce Optimization for HR simplifies the daily routine of HR Agent Managers to develop high-performing teams by optimizing schedules and work assignments, respond to ad hoc changes in real time, manage time-off requests and providing the skills they need to succeed—all in one workspace. This application is currently supported for the australia release, but it will be deprecated in a future release.
+          - [[cmpro-rn|Contract Management Pro release notes]] -- The ServiceNow Contract Management Pro solution enables you to set up contract document templates, clauses, and clause variations, and to initiate contract and amendment requests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.Contract Management Pro was enhanced and updated in the Australia release.
+            - [[cmpro-na-rn|Now Assist in Contract Management release notes]] -- The ServiceNow Now Assist in Contract Management uses generative AI capabilities to analyze a contract for missing or non-standard clauses and conversational search to query documents using natural language. It also includes agentic AI capabilities that automatically extract metadata and obligations from signed contracts and calculate reminder dates for contract renewals or terminations. Now Assist in Contract Management was enhanced and updated in the Australia release.
+          - [[lsd-rn-landing-page|Legal Service Delivery release notes]] -- The ServiceNow Legal Service Delivery streamlines legal operations by automating request intake, managing legal matters and investigations, and enabling secure collaboration across departments. Legal Service Delivery was enhanced and updated in the Australia release.
+            - [[lsd-coi-rn|Legal Conflict of Interest release notes]] -- The ServiceNow Legal Conflict of Interest enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. Legal Conflict of Interest was enhanced and updated in the Australia release.
+            - [[legal-matter-mgmt-rn|Legal Matter Management release notes]] -- The ServiceNow Legal Matter Management application enables you to complete legal requests that need cross-departmental tasking and provides a workflow with a mechanism to store supporting documents and track important milestones. Legal Matter Management was enhanced and updated in the Australia release.
+            - [[legal-request-mgmt-rn|Legal Request Management release notes]] -- The ServiceNow Legal Request Management application provides a unified mechanism for employees to get all the information, services, and help that they need from the legal department and a streamlined, collaborative process for the legal department to quickly resolve these requests. Legal Request Management was enhanced and updated in the Australia release.
+            - [[lsd-virtual-agent-conv-rn|Legal Virtual Agent Conversations release notes]] -- The ServiceNow Legal Virtual Agent Conversations application uses machine-learning algorithms for the predicting Subcategory and Assignment group for legal requests. This application is currently supported for the Australia release, but it will be deprecated in a future release.
+            - [[now-assist-for-lsd-rn|Now Assist for Legal Service Delivery (LSD) release notes]] -- The ServiceNow Now Assist for Legal Service Delivery (LSD) application leverages generative AI capabilities to summarize a legal request or legal matter. This summary can help you understand context quickly so you can then refresh the summary and add context to the work notes. Now Assist for Legal Service Delivery (LSD) was enhanced and updated in the Australia release.
+            - [[lsd-predictive-intelli-rn|Predictive intelligence for Legal Service Delivery release notes]] -- The ServiceNow Predictive Intelligence for Legal Service Delivery uses machine-learning algorithms for predicting subcategory and assignment groups for legal requests. This application is currently supported for the Australia release, but it will be deprecated in a future release.
+          - [[uex-rn-landing|Unified Employee Experience release notes]] -- The Unified Employee Experience has new and updated applications and features in the Australia release.
+            - [[employee-center-rn|Employee Center release notes]] -- The ServiceNow Employee Center application is a standard multi-department, dynamic employee portal for unified service delivery. Employee Center was enhanced and updated in the Australia release.
+            - [[ec-pro-rn|Employee Center Pro release notes]] -- The ServiceNow Employee Center Pro application provides a central hub for departmental services with unified system access and actionable content experiences. Employee Center Pro was enhanced and updated in the Australia release.
+            - [[employee-slate-rn|Employee Slate release notes]] -- Employee Slate is a new AI-first employee experience that boosts employee productivity, powered by Moveworks or Now Assist.
+            - [[now-assist-for-employee-center-pro-rn|Now Assist for Employee Center Pro release notes]] -- The ServiceNow Now Assist for Employee Center Pro application offers the portal experience with all the employee communications and engagement tools. Now Assist for Employee Center Pro is a new application in the Australia release.
+        - [[field-service-management-rn|Field Service Management release notes]] -- The ServiceNow Field Service Management (FSM) application enables your organization to efficiently manage Field Service operations including work order dispatch, scheduling, and mobile workforce enablement. Field Service Management was enhanced and updated in the Australia release.
+          - [[now-assist-for-fsm-rn|Now Assist for FSM release notes]] -- The ServiceNow Now Assist for FSM application brings generative AI to Field Service Management. Now Assist for FSM was enhanced and updated in the Australia release.
+        - [[financial-services-operations-rn-landing|Financial Services Operations release notes]] -- Financial Services Operations (FSO) has new and updated features in the Australia release.
+          - [[agentic-contact-centre-for-insurance-rn|Agentic Contact Center for Insurance release notes]] -- The ServiceNow Agentic Contact Center for Insurance application provides a workspace for Customer Service Representatives (CSRs) to run insurance operations efficiently and manage multiple applications simultaneously. Agentic Contact Center for Insurance Australia release.
+          - [[agentic-contact-center-for-banking-rn|Agentic Contact Center for Banking release notes]] -- The ServiceNow Agentic Contact Center for Banking application provides an AI‑led experience for CSRs (Customer Services Representatives) that streamlines front‑office banking operations and reduces the challenges CSRs face when navigating multiple systems. Agentic Contact Center for Banking is a new application in the Australia release.
+          - [[card-data-security-rn|Card data security release notes]] -- The ServiceNow Card data security application helps you tokenize sensitive data in card disputes, such as primary account numbers (PANs) and documents, in Financial Services Operations dispute workflows. Card data security was enhanced and updated in the Australia release.
+          - [[dispute-rules-content-pack-for-us-regulations-rn|Dispute Content Pack for US Regulations release notes]] -- The ServiceNow Dispute Content Pack for US Regulations application enables issuers in the United States (US) to track dispute cases and conform with regulatory guidelines. Dispute Content Pack for US Regulations was enhanced and updated in the Australia release.
+          - [[dispute-rules-content-pack-for-mastercard-rn|Dispute Rules Content Pack for Mastercard release notes]] -- The ServiceNow Dispute Rules Content Pack for Mastercard application provides a questionnaire for intake of dispute-related information under various dispute categories according to Mastercard guidelines. Dispute Rules Content Pack for Mastercard was enhanced and updated in the Australia release.
+          - [[dispute-rules-content-pack-for-visa-rn|Dispute Rules Content Pack for Visa release notes]] -- The ServiceNow Dispute Rules Content Pack for Visa application provides questionnaires for dispute-related information intake under various dispute categories according to Visa guidelines. Dispute Rules Content Pack for Visa was enhanced and updated in the Australia release.
+          - [[financial-services-card-operations-rn|Financial Services Card Operations release notes]] -- The ServiceNow Financial Services Card Operations application enables dispute agents to expedite dispute resolutions by providing the required data and improve the overall experience. Financial Services Card Operations was enhanced and updated in the Australia release.
+          - [[financial-services-operations-core-rn|Financial Services Operations Core release notes]] -- The ServiceNow Financial Services Operations Core application provides a data model that enables financial institutions to create flexible data structures that meet their business needs. Financial Services Operations Core was enhanced and updated in the Australia release.
+          - [[financial-services-operations-integration-with-mastercard-rn|Financial Services Operations Integration with Mastercard release notes]] -- The ServiceNow Financial Services Operations Integration with Mastercard application enables financial institutions to manage the entire Mastercard dispute process. Financial Services Operations Integration with Mastercard was enhanced and updated in the Australia release.
+          - [[financial-services-operations-integration-with-visa-rn|Financial Services Operations Integration with Visa release notes]] -- The ServiceNow Financial Services Operations Integration with Visa application enables easier integration with workflow applications, such as the card operations dispute management playbook with Visa Resolve Online (VROL) subflows. Financial Services Operations Integration with Visa was enhanced and updated in the Australia release.
+          - [[financial-services-operations-integration-with-verifi-cdrn-rn|Financial Services Operations Integration with Verifi release notes]] -- The ServiceNowFinancial Services Operations Integration with Verifi application connects the Financial Services Operations (FSO) issuer dispute workflow to Verifi's Cardholder Dispute Resolution Network (CDRN) - a Visa owned pre-dispute settlement network. This integration enables issuers to automatically initiate structured negotiations with merchants before disputes escalate to costly chargebacks. Financial Services Operations Integration with Verifi is a new application in the Australia release.
+          - [[now-assist-for-financial-services-operations-rn|Now Assist for Financial Services Operations (FSO) release notes]] -- The ServiceNow Now Assist for Financial Services Operations (FSO) application brings generative and agentic AI to Financial Services Operations. Features include AI agents, case summarization, customer profile and interaction context summarization, disputes intake via Virtual Agent, and support for third-party language models. Now Assist for FSO was enhanced and updated in the Australia release.
+          - [[visa-spoke-rn|Visa Spoke release notes]] -- The ServiceNow Visa Spoke application enables the ServiceNow AI Platform to connect with the Visa Resolve Online (VROL) API suite and Visa Stop Payment Service (VSPS) APIs, providing seamless access to Visa card, payment, and dispute resolution services. Visa Spoke was enhanced and updated in the Australia release.
+        - [[grc-rn-landing|Governance, Risk, and Compliance release notes]] -- The Governance, Risk, and Compliance application has new and updated features in the Australia release.
+          - [[grc-advanced-risk-rn|Advanced Risk release notes]] -- The ServiceNow Advanced Risk application enables you to identify, analyze, evaluate, treat, and monitor risks that could impact your organization in achieving its business objectives. Advanced Risk was enhanced and updated in the Australia release.
+          - [[grc-ai-risk-and-compliance-rn|AI Risk and Compliance release notes]] -- The ServiceNow AI Risk and Compliance application helps you to manage your AI capabilities ethically, mitigate AI risks, and maintain compliance. AI Risk and Compliance was enhanced and updated in the Australia release.
+          - [[grc-audit-rn|Audit Management release notes]] -- The ServiceNow Audit Management application supports activities related to planning audit engagements, executing engagements, and reporting findings to an audit committee. Audit Management was enhanced and updated in the Australia release.
+          - [[grc-business-continuity-management-rn|Business Continuity Management release notes]] -- The ServiceNow Business Continuity Management application enables your organization to deliver products and services at an acceptable level during disruptive incidents. Business Continuity Management was enhanced and updated in the Australia release.
+          - [[grc-common-core-rn|Common Governance, Risk, and Compliance feature release notes]] -- The ServiceNow Integrated Risk Management (IRM) application helps enable your organization to continue to provide its business services during adverse operational events, such as a pandemic, extreme weather, or hacking. Integrated Risk Management was enhanced and updated in the Australia release.
+          - [[grc-compliance-case-management-rn|Compliance Case Management release notes]] -- The ServiceNow Compliance Case Management application helps you to report, investigate, and resolve compliance cases, such as complaints and breaches. Compliance Case Management was enhanced and updated in the Australia release.
+          - [[grc-cam-rn|Continuous Authorization and Monitoring release notes]] -- The ServiceNow Continuous Authorization and Monitoring application provides a structured approach to defining an authorization package and walking through the seven stages of the NIST Risk Management Framework. Continuous Authorization and Monitoring was enhanced and updated in the Australia release.
+          - [[grc-or-rn|Operational Resilience release notes]] -- The ServiceNow Operational Resilience application helps organizations maintain business services during adverse events, such as pandemics, severe weather, or cyber attacks. Operational Resilience was enhanced and updated in the Australia release.
+          - [[grc-policy-rn|Policy and Compliance Management release notes]] -- The ServiceNow Policy and Compliance Management application provides a centralized process for creating and managing policies, standards, and internal control procedures that are cross-mapped to external regulations and benchmarks. Policy and Compliance Management was enhanced and updated in the Australia release.
+          - [[grc-privacy-management-rn|Privacy Management release notes]] -- The ServiceNow Privacy Management application enables you to manage your organization's privacy risks and compliance to protect your customers, employees, and suppliers. Privacy Management was enhanced and updated in the Australia release.
+          - [[grc-regulatory-change-management-rn|Regulatory Change Management release notes]] -- The ServiceNow Regulatory Change Management application enables you to check upcoming regulatory changes, assess their impact, and implement risk and compliance-related changes. Regulatory Change Management was enhanced and updated in the Australia release.
+          - [[grc-smart-assessment-engine-rn|Smart Assessment Engine release notes]] -- The ServiceNow Smart Assessment Engine (SAE) enables you to create customizable assessment templates with detailed instructions and questions to gather information from assessors. SAE was enhanced and updated in the Australia release.
+          - [[grc-tprm-rn|Third-party Risk Management release notes]] -- The ServiceNow Third-party Risk Management (TPRM) application provides a centralized process for managing your portfolio of third parties and their engagements, assessing and scoring risk and performing remediation. TPRM was enhanced and updated in the Australia release.
+            - [[grc-tprm-upgrade-info|Third-party Risk Management upgrade information]] -- ServiceNow Third-party Risk Management application upgrade information for the Australia release.
+        - [[healthcare-life-sciences-rn-landing|Healthcare and Life Sciences release notes]] -- Healthcare and Life Sciences has new and updated features in the Australia release.
+          - [[cto-biomed-rn|Care Team Operations for Biomed release notes]] -- The ServiceNow Care Team Operations for Biomed application contains the case types to report and fulfill healthcare biomedical issues. Care Team Operations for Biomed was enhanced and updated in the Australia release.
+          - [[cto-environmental-services-rn|Care Team Operations for Environmental Services release notes]] -- The ServiceNow Care Team Operations for Environmental Services application contains case types to report and fulfill facilities issues as part of Healthcare Operations. Care Team Operations for Environmental Services was enhanced and updated in the Australia release.
+          - [[cto-facilities-rn|Care Team Operations for Facilities release notes]] -- The ServiceNow Care Team Operations for Facilities application contains the case types to report and fulfill facilities issues as a part of Healthcare Operations. Care Team Operations for Facilities was enhanced and updated in the Australia release.
+          - [[cto-healthcare-it-rn|Care Team Operations for Healthcare IT release notes]] -- The ServiceNow Care Team Operations for Healthcare IT application contains the case types to report and fulfill healthcare IT issues. Care Team Operations for Healthcare IT was enhanced and updated in the Australia release.
+          - [[hco-ctwm-rn|Care Team Work Management release notes]] -- The ServiceNow Care Team Work Management application enables clinicians to create and track ad-hoc and recurring tasks for their care team through the creation of orchestration and care team cases and tasks. Care Team Work Management is a new application in the Australia release.
+          - [[hcls-core-rn|Healthcare and Life Sciences Service Management Core release notes]] -- The ServiceNow Healthcare and Life Sciences Service Management Core application delivers a seamless digital experience for your users and streamline healthcare operations with automated processes. Healthcare and Life Sciences Service Management Core was enhanced and updated in the Australia release.
+          - [[healthcare-operations-core-rn|Healthcare Operations Core release notes]] -- The ServiceNow Healthcare Operations Core application streamlines and optimizes healthcare team operational tasks. Healthcare Operations Core was enhanced and updated in the Australia release.
+        - [[impact-rn|Impact release notes]] -- ServiceNow Impact is built on the ServiceNow AI Platform and combines customized service with a digital interface to provide tailored recommendations and guidance. Impact Store App was enhanced and updated in the Australia release.
+        - [[industrial-connected-workforce-rn-landing|Industrial Connected Workforce release notes]] -- Industrial Connected Workforce has new and updated application and features in the Australia release.
+          - [[icw-core-rn|Industrial Connected Workforce Core release notes]] -- The ServiceNow Industrial Connected Workforce (ICW) Core is the foundational application that powers the entire ICW suite. This application provides the shared data models, governance structures, workflows, and integration framework required for consistent and reliable industrial operations. All other ICW applications depend on ICW Core for unified execution, cross‑application interoperability, and enterprise‑wide alignment. ICW Core is a new application in the Australia release.
+          - [[icw-industrial-standards-rn|Industrial Standards release notes]] -- The ServiceNow Industrial Standards application provides a centralized, governed framework to define, publish, and maintain operational standards across plants and production lines. This application enables consistency through versioned definitions, reusable templates, and automated schedules that generate executable work. With clear life-cycle controls and skills‑aware enforcement, it improves quality, traceability, and compliance at scale. Industrial Standards is a new application in the Australia release.
+          - [[industrial-guided-tasks-rn|Industrial Guided Tasks release notes]] -- The ServiceNow Industrial Guided Tasks (IGT) application enables structured and guided execution of operational tasks using step-by-step digital workflows. IGT helps you maintain consistent work quality, safety compliance, and traceable execution. Industrial Guided Tasks is a new application in the Australia release.
+          - [[icw-mobile-experience-rn|Industrial Connected Workforce Mobile Experience release notes]] -- The ServiceNow Industrial Connected Workforce Mobile Experience (ICW Mobile) application provides a mobile‑first experience for frontline industrial workers. This application enables them to perform tasks, report deviations, escalate issues, and access standards and knowledge content directly from handheld devices. Designed for reliability in high‑activity environments, ICW Mobile enables operators to stay productive whether online or offline. ICW Mobile is a new application in the Australia release.
+        - [[it-asset-management-rn-landing|IT Asset Management release notes]] -- IT Asset Management has new and updated features in the Australia release
+          - [[asset-audit-response-rn|Asset Audit Response release notes]] -- The ServiceNow Asset Audit Response application provides workspaces where asset managers can manage their regulatory audits, request evidence for these audits, respond to these requests through a guided experience, and access regulatory content data to help drive more efficient and accurate responses to these requests. Asset Audit Response was enhanced and updated in the Australia release.
+          - [[cloud-cost-management-rn|Cloud Cost Management 10.0 release notes]] -- The ServiceNow Cloud Cost Management application (formerly known as ServiceNow Cloud Insights) helps you to analyze the cloud resource costs so that you can identify and act on opportunities to save money and optimize the operations of your organization. Cloud Cost Management was enhanced and updated in the Australia release.
+          - [[enterprise-asset-management-rn|Enterprise Asset Management release notes]] -- The ServiceNow Enterprise Asset Management application manages the entire life cycle of your enterprise's connected and non-connected assets, which enables you to maintain and maximize the life of your assets while minimizing any costly downtimes. Enterprise Asset Management was enhanced and updated in the Australia release.
+          - [[hardware-asset-management-rn|Hardware Asset Management release notes]] -- The ServiceNow Hardware Asset Management application provides advanced workflow, automation, and mobile capabilities to track and manage your technology asset environment. Hardware Asset Management was enhanced and updated in the Australia release.
+          - [[software-asset-management-rn|Software Asset Management release notes]] -- The ServiceNow Software Asset Management application enables you to systematically track, evaluate, and manage the cost, utilization, compliance, and optimization for software and SaaS applications. The Software Asset Management application was enhanced and updated in the Australia release.
+        - [[it-operations-management-rn-landing|IT Operations Management release notes]] -- IT Operations Management has new and updated features in the Australia release.
+          - [[event-management-rn|Event Management release notes]] -- The ServiceNow Event Management application helps you to identify health issues across the datacenter on a single management console. Event Management was enhanced and updated in the Australia release.
+          - [[itom-visibility-rn|ITOM Visibility release notes]] -- The ServiceNow ITOM Visibility application provides a unified, connected view of your entire IT infrastructure and the services that it supports. ITOM Visibility was enhanced and updated in the Australia release.
+          - [[itom-aiops-rn|ITOM AIOps release notes]] -- The ServiceNow ITOM AIOps application helps you to keep track and maintain the health of the services in your organization. ITOM AIOps was enhanced and updated in the Australia release.
+        - [[it-service-management-rn-landing|IT Service Management release notes]] -- IT Service Management has new and updated features in the Australia release.
+          - [[change-management-rn|Change Management release notes]] -- The ServiceNow Change Management application provides a systematic approach to control the life cycle of all changes, facilitating beneficial changes to be made with minimum disruption to IT services. Change Management was enhanced and updated in the Australia release.
+          - [[devops-rn|DevOps Change Velocity release notes]] -- The ServiceNow DevOps Change Velocity application improves visibility into your DevOps data in a single system, automates and accelerates change processes, and helps you gain insights to measure the performance of your DevOps environment. DevOps Change Velocity was enhanced and updated in the Australia release.
+          - [[digital-end-user-experience-rn|Digital End-User Experience release notes]] -- The ServiceNow Digital End-User Experience application is a cloud-based tool providing IT with comprehensive visibility and monitoring for user applications, networks, and devices. Digital End-User Experience was enhanced and updated in the Australia release.
+          - [[incident-management-rn|Incident Management release notes]] -- The ServiceNow Incident Management application helps you to restore normal service operations while minimizing the impact to business operations and maintaining quality. Incident Management was enhanced and updated in the Australia release.
+          - [[ai-native-it-service-desk-rn|IT Service Management release notes]] -- The ServiceNow IT Service Management application provides simplified and automated implementation for administrators and a unified user experience for employees and fulfillers (service desk agents). IT Service Management is a new application in the Australia release.
+          - [[now-assist-for-itsm-rn|Now Assist for IT Service Management (ITSM) release notes]] -- The ServiceNow Now Assist for IT Service Management (ITSM) application brings agentic AI to IT Service Management. Now Assist for IT Service Management (ITSM) was enhanced and updated in the Australia release.
+          - [[on-call-scheduling-rn|On-Call Scheduling release notes]] -- The ServiceNow On-Call Scheduling application enables you to verify that dedicated support team members are available to resolve issues when they occur. On-Call Scheduling was enhanced and updated in the Australia release.
+          - [[service-operations-workspace-itsm-rn|Service Operations Workspace for ITSM release notes]] -- The ServiceNow Service Operations Workspace (SOW) application is a configurable workspace that provides a unified agent experience for multiple IT Service Management and IT Operations Management capabilities. Service Operations Workspace for IT Service Management was enhanced and updated in the Australia release.
+        - [[manufacturing-commercial-operations-rn|Manufacturing Commercial Operations release notes]] -- The ServiceNow Manufacturing Commercial Operations enables manufacturers, agents, and Dealers (internal and channel partners) to connect and track services and manage repair, recall, sales promotion campaigns, and quality management. Manufacturing Commercial Operations is a new application in the Australia release.
+        - [[mobile-rn|Mobile Platform release notes]] -- The ServiceNow Mobile Platform application enables you to access your ServiceNow instance from anywhere. Mobile Platform was enhanced and updated in the Australia release.
+        - [[now-assist-rn-landing|Now Assist and agentic AI release notes]] -- Now Assist and agentic AI product enhancements and updates in the Australia release.
+          - [AI Desktop Actions release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/agentic-desktop-rn.md) -- The ServiceNow AI Desktop Actions application enables you to design, configure, and manage desktop actions to automate repetitive tasks. These desktop actions are executed by AI agents created in AI Agent Studio. AI Desktop Actions was enhanced and updated in the Australia release.
+          - [[ai-agent-advisor-rn|AI Agent Advisor release notes]] -- The ServiceNow AI Agent Advisor application is an AI solution that automatically discovers automation opportunities in your instance and helps you to deploy AI agents to implement them. AI Agent Advisor is a new application in the Australia release.
+          - [[now-assist-ai-agents-rn|Now Assist AI Agents release notes]] -- The ServiceNow Now Assist AI Agents application provides solutions that can perceive the environment, decide, and proactively act to achieve specific goals without the need for constant human oversight. Now Assist AI Agents was enhanced and updated in the Australia release.
+          - [[now-assist-center-rn|Now Assist Center release notes]] -- The ServiceNow Now Assist Center application is a single control hub that brings together other Now Assist capabilities and configuration functions, helping administrators to set up and manage generative AI solutions from a unified experience. Now Assist Center is a new application in the Australia release.
+          - [Now Assist for App Engine release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-app-engine-rn.md) -- The ServiceNow Now Assist for App Engine application enables creators to enhance custom applications with AI assets that app users can leverage at runtime. Now Assist for App Engine was enhanced and updated in the Australia release.
+          - [Now Assist for Creator release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-creator-rn.md) -- The ServiceNow Now Assist for Creator application includes generative AI skills and AI agents that can help you develop on the ServiceNow AI Platform efficiently. Now Assist for Creator was enhanced and updated in the Australia release.
+          - [[now-assist-for-collaborative-work-management-rn|Now Assist for Collaborative Work Management (CWM) release notes]] -- The ServiceNow Now Assist for Collaborative Work Management (CWM) application uses generative AI skills to improve the time to value for tasks you perform in CWM. Now Assist for CWM is a new application in the Australia release.
+          - [[now-assist-cmdb-rn|Now Assist for Configuration Management Database (CMDB) release notes]] -- The ServiceNow Now Assist for Configuration Management Database (CMDB) application helps to improve the quality of CMDB data, search the CMDB quickly, find and remedy issues with Service Graph Connector import sets, and more. Now Assist for CMDB was enhanced and updated in the Australia release.
+          - [Now Assist for Employee Center Pro release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-employee-center-pro-rn.md) -- The ServiceNow Now Assist for Employee Center Pro application offers the portal experience with all the employee communications and engagement tools. Now Assist for Employee Center Pro is a new application in the Australia release.
+          - [Now Assist for FSM release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-fsm-rn.md) -- The ServiceNow Now Assist for FSM application brings generative AI to Field Service Management. Now Assist for FSM was enhanced and updated in the Australia release.
+          - [Now Assist for IT Service Management (ITSM) release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-itsm-rn.md) -- The ServiceNow Now Assist for IT Service Management (ITSM) application brings agentic AI to IT Service Management. Now Assist for IT Service Management (ITSM) was enhanced and updated in the Australia release.
+          - [Now Assist for Legal Service Delivery (LSD) release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-lsd-rn.md) -- The ServiceNow Now Assist for Legal Service Delivery (LSD) application leverages generative AI capabilities to summarize a legal request or legal matter. This summary can help you understand context quickly so you can then refresh the summary and add context to the work notes. Now Assist for Legal Service Delivery (LSD) was enhanced and updated in the Australia release.
+          - [[now-assist-for-operational-technology-service-management-otsm-rn|Now Assist for Operational Technology Service Management (OTSM) release notes]] -- The ServiceNow Now Assist for Operational Technology Service Management (OTSM) application enables you to summarize Operational Technology (OT) incident information and generate incident resolution notes. Now Assist for OTSM is a new application in the Australia release.
+          - [[now-assist-rn|Now Assist release notes]] -- The ServiceNow Now Assist experience brings generative AI to your organization. You can improve productivity and efficiency by delivering better self-service, recommending actions, delivering answers, and providing your users with AI Search. Now Assist was enhanced and updated in the Australia release.
+          - [[now-assist-sales-order-management-telecommunications-rn|Now Assist for Sales CRM for Telecommunications release notes]] -- The ServiceNow Now Assist for Sales CRM for Telecommunications application enriches purpose-built industry workflows with generative AI to supercharge insights, actions, and self-service experiences. Now Assist for Sales CRM for Telecommunications was enhanced and updated in the Australia release.
+          - [[now-assist-source-to-pay-operations-rn|Now Assist for Source-to-Pay Operations release notes]] -- The ServiceNow Now Assist for Source-to-Pay Operations are powered with generative AI skills to analyze email based on the tone, generate email responses and support natural language data exploration and reporting. The ServiceNow AI Platform. Now Assist for Source-to-Pay Operations was updated in the Australia release. Now Assist for Purchase Order Management (POM) is a new plugin in the Australia release.
+          - [[now-assist-for-spm-rn|Now Assist for Strategic Portfolio Management (SPM) release notes]] -- The ServiceNow Now Assist for Strategic Portfolio Management (SPM) application introduces generative AI skills into Strategic Portfolio Management. You can summarize feedback or content in Docs, create stories for epics, generate project insights, create demands through conversations, and quickly gain updates into projects. Now Assist for Strategic Portfolio Management (SPM) was enhanced and updated in the Australia release.
+          - [[now-assist-tmt-rn|Now Assist for Telecommunications, Media and Technology (TMT) release notes]] -- The ServiceNow Now Assist for Telecommunications, Media and Technology (TMT) application enriches purpose-built industry workflows with generative AI to supercharge insights, actions, and self-service experiences. Now Assist for Telecommunications, Media and Technology (TMT) was enhanced and updated in the Australia release.
+          - [Now Assist for Zero Copy Connector release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-zero-copy-connector-rn.md) -- The ServiceNow Now Assist for Zero Copy Connector application includes generative AI skills and AI agents that can help you use Zero Copy Connectors efficiently. Now Assist for Zero Copy Connector was enhanced and updated in the Australia release.
+          - [Now Assist in Contract Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/cmpro-na-rn.md) -- The ServiceNow Now Assist in Contract Management uses generative AI capabilities to analyze a contract for missing or non-standard clauses and conversational search to query documents using natural language. It also includes agentic AI capabilities that automatically extract metadata and obligations from signed contracts and calculate reminder dates for contract renewals or terminations. Now Assist in Contract Management was enhanced and updated in the Australia release.
+          - [[now-assist-document-intelligence-rn|Now Assist in Document Intelligence release notes]] -- The ServiceNow Now Assist in Document Intelligence application uses generative AI to extract information from documents, summarize document content, and provide answers to predefined questions. Now Assist in Document Intelligence was enhanced and updated in the Australia release.
+          - [[now-assist-platform-analytics-rn|Now Assist in Platform Analytics release notes]] -- Now Assist in Platform Analytics consists of several skills and applications that let you generate and work with Platform Analytics objects through generative AI. These skills let you analyze your business data through conversational interactions, without a technical knowledge of Platform Analytics. Now Assist in Platform Analytics applications were enhanced and updated in the Australia release.
+        - [[esg-management-rn|Operational Sustainability Management (formerly Environmental, Social, and Governance) release notes]] -- The ServiceNow Operational Sustainability Management application (formerly known as Environmental, Social, and Governance Management) manages sustainability-related data, metrics, and reporting requirements. Operational Sustainability Management was enhanced and updated in the Australia release.
+        - [[operational-technology-rn-landing|Operational Technology release notes]] -- Operational Technology has new and updated features in the Australia release.
+          - [[industrial-process-manager-rn|Industrial Process Manager release notes]] -- The ServiceNow Industrial Process Manager application enables your teams to map and visualize the industrial equipment models and associated production processes at individual facilities. Industrial Process Manager was enhanced and updated in the Australia release.
+          - [[operational-technology-discovery-rn|Operational Technology Discovery release notes]] -- The ServiceNow Operational Technology Discovery application amplifies visibility of OT devices in your system. Operational Technology Discovery was enhanced and updated in the Australia release.
+          - [[operational-technology-incident-management-rn|Operational Technology Incident Management release notes]] -- The ServiceNow Operational Technology Incident Management application enables engineers to resolve Operational Technology (OT) device and production process issues. Operational Technology Incident Management was enhanced and updated in the Australia release.
+          - [[operational-technology-manager-rn|Operational Technology Manager release notes]] -- The ServiceNow Operational Technology Manager application enables you to aggregate Operational Technology (OT) device data from multiple sources so you can build foundational data relationships in the Industrial solution. Operational Technology Manager was enhanced and updated in the Australia release.
+          - [[recommended-actions-for-otsm-rn|Recommended Actions for Operational Technology Service Management (OTSM) release notes]] -- The ServiceNow Recommended Actions for Operational Technology Service Management (OTSM) application enables you to set up and apply real-time, actionable recommendations. These recommendations help you speed up the triage process and resolve issues quickly across various records in the Industrial Workspace, including Operational Technology (OT) incidents. Recommended Actions for OTSM was enhanced and updated in the Australia release.
+        - [[analytics-intel-report-rn-landing|Platform Analytics release notes]] -- Platform Analytics has new and updated features in the Australia release.
+          - [Now Assist in Platform Analytics release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-platform-analytics-rn.md) -- Now Assist in Platform Analytics consists of several skills and applications that let you generate and work with Platform Analytics objects through generative AI. These skills let you analyze your business data through conversational interactions, without a technical knowledge of Platform Analytics. Now Assist in Platform Analytics applications were enhanced and updated in the Australia release.
+          - [[performance-analytics-rn|Performance Analytics release notes]] -- The ServiceNow   Performance Analytics application is an in-platform process optimization solution. It enables  organizations to set, track, and analyze progress toward goals. Performance Analytics was enhanced  and updated in the Australia release.
+          - [[platform-analytics-experience-rn|Platform Analytics experience release notes]] -- The ServiceNow Platform Analytics experience provides a single center for consuming the data from all Platform Analytics products. The Platform Analytics experience was enhanced and updated in the Australia release.
+          - [[process-optimization-rn|Process Mining release notes]] -- The ServiceNow Process Mining application enables analysts and process owners to view their business processes, analyze them, and make decisions that improve their processes. Process Mining was enhanced and updated in the Australia release.
+          - [[user-experience-analytics-rn|Usage Insights release notes]] -- The ServiceNow Usage Insights application, formerly known as User Experience Analytics, enables you to monitor how users interact with your ServiceNow Core UI, Next Experience, Mobile, and Service Portal applications so product managers and applicationners can gain insight into application usage and adoption. Usage Insights was enhanced and updated in the Australia release.
+        - [[public-sector-digital-services-rn|Public Sector Digital Services release notes]] -- The ServiceNow Public Sector Digital Services application enables government agencies to provide citizens, businesses, and other agencies with important services such as public records, licenses, permits, and social services. Public Sector Digital Services was enhanced and updated in the Australia release.
+        - [[retail-rn|Retail release notes]] -- The ServiceNow retail applications streamline frontline operations and customer experiences. Retail applications were enhanced and updated in the Australia release.
+        - [[sales-order-management-rn-landing|Sales Customer Relationship Management release notes]] -- ServiceNow Sales Customer Relationship Management is a set of new and updated applications and features in the Australia release. These applications enable you to manage the product sales life cycle in your organization, including leads, pre-sales opportunities, sales quote generation, order capture, order fulfillment, and post-sales order changes and renewals.
+          - [[activity-management-rn|Activity Management release notes]] -- ServiceNow Activity Management helps customer-focused teams to plan, execute, capture, and track customer interactions across multiple channels throughout the customer's association with your business. Activity Management is a new capability in the Australia release.
+          - [[advanced-approval-management-for-sales-rn|Advanced Approval Management release notes]] -- The ServiceNow Advanced Approval Management application enables you to define workflows for approving Sales Customer Relationship Management entities, such as customer quotes. Advanced Approval Management is a new application in the Australia release.
+          - [[buying-group-rn|Buying Group release notes]] -- The ServiceNow Buying Group application provides information on the key  decision-making stakeholders of a company to whom you are trying to sell a particular product. Buying Group is a new application in the Australia release.
+          - [[cpq-transaction-manager-rn|CPQ release notes]] -- CPQ is a configuration engine that acts as the "C" in Configure, Price, Quote. It uses an attribute-based approach to simplify complex product logic. The engine delivers dynamic blueprints, real-time user interfaces, and a Commerce Logic Engine that generates accurate outputs like bills of materials.
+          - [[customer-engagement-sequences-rn|Customer Engagement Sequences release notes]] -- The ServiceNow Customer Engagement Sequences application enables customer-focused teams to execute structured, personalized outreach and follow-up activities to engage customers throughout the time they're associated with your business. Customer Engagement Sequences was enhanced and updated in the Australia release.
+          - [[customer-self-service-som-rn|Customer self-service for Sales Customer Relationship Management release notes]] -- The ServiceNow Business Portal application enables your B2B customers to place orders, request quotes, and get support for orders and invoices through a self-service web portal. Business Portal was enhanced and updated in the Australia release.
+          - [[lead-management-rn|Lead Management release notes]] -- The ServiceNow Lead Management application enables your sales agents and sales development representatives to create leads and nurture them into opportunities. Lead Management was enhanced and updated in the Australia release.
+          - [[opportunity-management-rn|Opportunity Management release notes]] -- The ServiceNow Opportunity Management application enables your sales agents and account executives to create and manage opportunities. These opportunities identify and track potential sales based on identified customer needs. Opportunity Management was enhanced and updated in the Australia release.
+          - [[order-management-rn|Order Management release notes]] -- The ServiceNow Order Management application enables you to capture, manage, and fulfill product and service orders from enterprise customers. Order Management was enhanced and updated in the Australia release.
+          - [[quote-management-rn|Quote Management release notes]] -- The ServiceNow Quote Management enables your sales agents to generate and manage sales quotes for your customers. Quote Management was enhanced and updated in the Australia release.
+          - [[partner-relationship-management-rn|Partner Relationship Management]] -- The ServiceNow Partner Relationship Management application provides a unified workspace for sales, delivery, marketing, and operations to help you manage the entire partner life cycle. Partner Relationship Management was enhanced and updated in the Australia release.
+          - [[customer-contracts-entitlement-rn|Customer Contracts and Entitlements release notes]] -- The ServiceNow Customer Contracts and Entitlements application provides the foundation for storing and managing customer service contracts and entitlements. Customer Contracts and Entitlements was enhanced and updated in the Australia release.
+          - [[product-catalog-pricing-management-rn|Product Catalog Management and Pricing Management release notes]] -- The ServiceNow Sales CRM applications include the ServiceNow Product Catalog Management and ServiceNow Pricing Management features, which enable you to create and manage the product offerings, catalogs, pricing, and discounting strategies used in your organization. These foundational features were enhanced and updated in the Australia release.
+          - [[sales-forecasting-rn|Sales Forecasting release notes]] -- The ServiceNow Sales Forecasting application helps you project your future sales and revenue based on data from an opportunity pipeline. Sales Forecasting was enhanced and updated in the Australia release.
+          - [[sales-territory-management-rn|Sales Territory Management​ release notes]] -- The ServiceNow Sales Territory Management​ application structures and optimizes the sales efforts of your organization based on territories. It involves overseeing daily sales activities, adjusting team assignments to verify complete customer coverage, monitoring sales performance against goals, and updating territory assignments as markets change. Sales Territory Management​ was enhanced and updated in the Australia release.
+        - [[security-operations-rn-landing|Security Operations release notes]] -- Security Operations has new and updated features in the Australia release.
+          - [[secops-app-vuln-resp-rn|Application Vulnerability Response release notes]] -- The ServiceNow Application Vulnerability Response application brings security and IT together to enable you to remediate your most critical vulnerabilities more quickly and efficiently. Application Vulnerability Response was enhanced and updated in the Australia release.
+          - [[secops-cc-rn|Configuration Compliance release notes]] -- The ServiceNow Configuration Compliance application enables you to prioritize and remediate the most critical configuration-related vulnerabilities in your environment quickly and efficiently. Configuration Compliance was enhanced and updated in the Australia release.
+          - [[secops-container-vuln-resp-rn|Container Vulnerability Response release notes]] -- The ServiceNow Container Vulnerability Response application brings security and IT together to enable you to remediate your most critical vulnerabilities more quickly and efficiently. Container Vulnerability Response was enhanced and updated in the Australia release.
+          - [[secops-sir-rn|Security Incident Response release notes]] -- The ServiceNow Security Incident Response (SIR) application helps your organization connect security and IT teams, respond faster and efficiently to threats, and gain insight into your organization's security posture. Security Incident Response was enhanced and updated in the Australia release.
+          - [[secops-tisc-rn|Threat Intelligence Security Center release notes]] -- The ServiceNow Threat Intelligence Security Center application is a threat intelligence platform built natively on the ServiceNow AI Platform to operationalize threat intelligence from feed ingestion and enrichment to investigation, response, and sharing. TISC enables security teams to act efficiently on intelligence and defend against threats. TISC was enhanced and updated in the Australia release.
+          - [[secops-sem-rn|Unified Security Exposure Management (USEM) notes]] -- The ServiceNow Unified Security Exposure Management (USEM) application enhances exposure management with role-based views, enabling faster decision-making, efficient task handling, and streamlined approvals. It centralizes workflows, improves visibility across exposures, and enforces governance through configurable rules. With consistent navigation and integrated configuration, USEM boosts productivity, collaboration, and control across security operations, delivering a unified experience for exposures across assets. USEM was enhanced and updated in the Australia release.
+          - [[secops-vuln-resp-rn|Vulnerability Response release notes]] -- The ServiceNow Vulnerability Response application brings security and IT together to enable you to remediate your most critical vulnerabilities more quickly and efficiently. Vulnerability Response was enhanced and updated in the Australia release.
+        - [[now-platform-admin-rn-landing|ServiceNow AI Platform administration release notes]] -- ServiceNow AI Platform administration product enhancements and updates in the Australia release.
+          - [[ai-search-rn|AI Search release notes]] -- The ServiceNow AI Search application provides a consumer-grade search experience for ServiceNow AI Platform users. AI Search was enhanced and updated in the Australia release.
+          - [[application-manager-rn|Application Manager release notes]] -- The ServiceNow Application Manager enables you to install, update, and manage licensed applications and plugins for your instance. Application Manager was enhanced and updated in the Australia release.
+          - [[clone-admin-console-rn|Clone Admin Console release notes]] -- The ServiceNow Clone Admin Console application copies data and metadata from one ServiceNow instance to another ServiceNow instance to easily synchronize your instances. Clone Admin Console was enhanced and updated in the Australia release.
+          - [[data-management-rn|Data Management release notes]] -- The ServiceNow Data Management capabilities enable you to manage the growth of data in your instance. Data Management capabilities were enhanced and updated in the Australia release.
+          - [[external-content-connectors-rn|External Content Connectors release notes]] -- The ServiceNow External Content Connectors application enables AI Search applications to search content and metadata from supported external source systems, such as Atlassian Confluence Cloud and Microsoft SharePoint Online. External Content Connectors was enhanced and updated in the Australia release.
+          - [[instance-scan-rn|Instance Scan release notes]] -- The ServiceNow Instance Scan engine is used to interrogate your instance for configurations that indicate health issues and identify opportunities to address ideal configurations. Instance Scan was enhanced and updated in the Australia release.
+          - [[legacy-application-manager-rn|Legacy Application Manager release notes]] -- The ServiceNow Legacy Application Manager application enables administrators to install and manage applications. This application is deprecated as of Australia patch 1.
+          - [[localization-workspace-rn|Localization Workspace release notes]] -- The ServiceNow Localization Workspace application is a targeted translation management experience for content owners and translation fulfillers that you can use to manage and deliver multilingual content at scale. Localization Workspace was enhanced and updated in the Australia release.
+          - [[notifications-rn|Notifications release notes]] -- The ServiceNow Notifications application enables you to create, manage, and send custom notifications in workflows for important events, actions, and alerts. Notifications was enhanced and updated in the Australia release.
+          - [[now-assist-for-setup-rn|Setup Hub release notes]] -- The ServiceNow Setup Hub application centralizes instance management through a modular, personalized Admin Home dashboard, reducing administrative ambiguity and improving task efficiency. Setup Hub is a new application in the Australia release.
+          - [[core-platform-rn|ServiceNow AI Platform core feature release notes]] -- The ServiceNow AI Platform core features provide configurations for applications and other parts of the ServiceNow AI Platform. The ServiceNow AI Platform core features were enhanced and updated in the Australia release.
+          - [[subscription-management-rn|Subscription Management release notes]] -- The ServiceNow Subscription Management application enables you to manage your subscriptions proactively and monitor subscription usage on your instances. Subscription Management was enhanced and updated in the Australia release.
+          - [[upgrade-console-rn|Upgrade Console release notes]] -- The ServiceNow Upgrade Console application guides you for a comprehensive and efficient upgrade experience. Upgrade Console was enhanced and updated in the Australia release.
+          - [[sql-api-rn|SQL API Release Notes]] -- The ServiceNow SQL API enables RaptorDB Professional users to bring their Business Intelligence (BI) tools to ServiceNow. Users can perform BI analytics on their ServiceNow data without mass data export. SQL API is only available with RaptorDB Professional.
+        - [[now-platform-capabilities-rn-landing|ServiceNow AI Platform capabilities release notes]] -- ServiceNow AI Platform capabilities were enhancements and updates in the Australia release.
+          - [[cmdb-rn|Configuration Management Database (CMDB) release notes]] -- The ServiceNow Configuration Management Database (CMDB) application stores data about the infrastructure of your organization. CMDB was enhanced and updated in the Australia release.
+          - [[document-services-rn|Document Services release notes]] -- The ServiceNow Document Services application provides a broad range of services that are related to document management, such as creating, maintaining, and converting documents, as well as integrating with third parties like Microsoft SharePoint. Document Services was enhanced and updated in the Australia release.
+          - [[hermes-messaging-service-rn|Hermes Messaging Service release notes]] -- The ServiceNow Hermes Messaging Service application enables you to integrate your Apache Kafka environment with your ServiceNow instance. Hermes Messaging Service was enhanced and updated in the Australia release.
+          - [[import-export-rn|Import and Export release notes]] -- The ServiceNow Import and Export applications enable you to import and export data to and from the ServiceNow AI Platform. Import and Export were enhanced and updated in the Australia release.
+          - [[instance-data-replication-rn|Instance Data Replication release notes]] -- The ServiceNow Instance Data Replication (IDR) application simplifies the data replication process between instances. Instance Data Replication was enhanced and updated in the Australia release.
+          - [[knowledge-center-rn|Knowledge Center release notes]] -- The ServiceNow Knowledge Center helps you manage knowledge articles from a single interface. Knowledge Center is available starting with the Australia release.
+          - [[mid-server-rn|MID Server release notes]] -- The ServiceNow MID Server application enables communication and data transfers between a ServiceNow instance and external applications, data sources, and services. MID Server was enhanced and updated in the Australia release.
+          - [[notify-rn|Notify release notes]] -- The ServiceNow Notify application adds support for SMS and voice channels on the ServiceNow AI Platform to communicate with customers. Notify was enhanced and updated in the Australia release.
+          - [[password-reset-rn|Password Reset release notes]] -- The ServiceNow Password Reset application enables you to set up your end users to reset and change their passwords either using self-service or with the help of a service desk agent. Password Reset was enhanced and updated in the Australia release.
+          - [[service-catalog-rn|Service Catalog release notes]] -- The ServiceNow Service Catalog application provides a requester view of the available services and products offered by the departments within your organization. Service Catalog was enhanced and updated in the Australia release.
+        - [[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]] -- ServiceNow AI Platform security product enhancements and updates in the Australia release.
+          - [[access-management-rn|Access Management release notes]] -- The ServiceNow Access Management application provides robust tools to manage security data on the ServiceNow AI Platform. Access Management includes many controls, such as access control lists (ACLs), Security Attributes, Security Data Filters, and Machine Identity Access Control. These controls provide granular control and help improve security for managing data access. Access Management was enhanced and updated in the Australia release.
+          - [[authentication-rn|Authentication release notes]] -- The ServiceNow Authentication application supports many authentication mechanisms that enable you to validate the identity of users. Authentication was enhanced and updated in the Australia release.
+          - [[code-signing-rn|Code Signing release notes]] -- The Code Signing (CS) application validates scripts and code that runs on your instance. Code Signing was enhanced and updated in the Australia release.
+          - [[data-privacy-rn|Data Privacy release notes]] -- The ServiceNow Data Privacy application enables you to classify sensitive data, remove personally identifiable information (PII) from user data in a production instance, and anonymize data in production and non-production instances. Data Privacy was enhanced and updated in the Australia release.
+          - [[domain-separation-rn|Domain Separation release notes]] -- The ServiceNow Domain Separation application enables you to separate data, processes, and administrative tasks into logically defined domains. Domain Separation was enhanced and updated in the Australia release.
+          - [[encryption-rn|Encryption release notes]] -- The ServiceNow Encryption Key Management application protects your data by using encryption, tightly controlled key access, National Institute of Standards and Technology (NIST) 800-57-based key life-cycle management, and FIPS 140-2-L3 key protection. Encryption Key Management was enhanced and updated in the Australia release.
+          - [[encryption-key-mgmt-rn|Key Management release notes]] -- The ServiceNow Encryption Key Management application protects your data by using encryption, tightly controlled key access, National Institute of Standards and Technology (NIST) 800-57-based key life-cycle management, and FIPS 140-2-L3 key protection. Encryption Key Management was enhanced and updated in the Australia release.
+          - [[identity-rn|Identity release notes]] -- The ServiceNow Identity application supports mechanisms that let you validate the identity of users. Identity was enhanced and updated in the Australia release.
+          - [[security-center-rn|Security Center release notes]] -- The ServiceNow Security Center empowers admins to maintain the highest level of security posture for their ServiceNow deployment with ease. Security Center was enhanced and updated in the Australia release.
+          - [[servicenow-vault-rn|ServiceNow Vault release notes]] -- The ServiceNow Vault application provides a set of data security tools that protect sensitive information from unauthorized access, corruption, or theft throughout its entire life cycle. ServiceNow Vault was enhanced and updated in the Australia release.
+        - [[now-platform-ui-rn-landing|ServiceNow AI Platform user interface release notes]] -- ServiceNow AI Platform user interface product enhancements and updates in the Australia release.
+          - [[adoption-services-rn|Adoption Services release notes]] -- The ServiceNow Adoption Services application is a suite of solutions, both products and features, that provide user support and critical information when a user needs it most. Adoption Services was enhanced and updated in the Australia release.
+          - [[configurable-workspace-rn|Configurable Workspace release notes]] -- The ServiceNow Configurable Workspace application provides tools to agents, case managers, help desk professionals, and managers for answering customer questions and resolving customer problems. Configurable Workspace was enhanced and updated in the Australia release.
+          - [[content-management-system-release-notes-rn|Content Management System release notes]] -- The Content Management System (CMS) is a ServiceNow application that enables users to create a custom interface for the ServiceNow platform and ServiceNow applications. This application can no longer be activated and will be deprecated in the C release (GA).
+          - [[next-experience-rn|Next Experience release notes]] -- The ServiceNow Next Experience application delivers an intuitive, personalized experience that enables your organization to drive productivity, improve engagement, and inspire learning with the ServiceNow AI Platform. Next Experience was enhanced and updated in the Australia release.
+          - [[service-portal-rn|Service Portal release notes]] -- The ServiceNow Service Portal application enables you to build mobile-friendly self-service experiences for your customers and employees with a modular portal framework. Service Portal was enhanced and updated in the Australia release.
+          - [[theme-builder-rn|Theme Builder release notes]] -- The ServiceNow Theme Builder application enables you to customize the visual experience for your users so that you can update the look and feel to be more like your brand. Theme Builder was enhanced and updated in the Australia release.
+        - [[source-to-pay-operations-rn-landing|Source-to-Pay Operations release notes]] -- Source-to-Pay Operations has new and updated features in the Australia release.
+          - [[accounts-payable-operations-rn|Accounts Payable Operations release notes]] -- The ServiceNow Accounts Payable Operations adds capabilities for supplier case resolution and confirmation workflows. The large language model (LLM)-aided email parser agent automatically classifies incoming supplier inquiries, eliminating manual intervention and routes invoice inquiry cases to the appropriate teams. Invoice exceptions in Accounts Payable Operations are enhanced and updated in the Australia release.
+          - [[sourcing-procurement-operations-rn|Sourcing and Procurement Operations release notes]] -- The ServiceNow Sourcing and Procurement Operations application provides your employees with a simple automated tool that they can use to shop for goods and services that they need at work. Sourcing and Procurement Operations was enhanced and updated in the Australia release.
+          - [[purchase-order-management-rn|Purchase Order Management release notes]] -- The ServiceNow Purchase Order Management application helps you identify, track, and resolve anomalies or irregularities in the purchase order (PO) execution process. Purchase Order Management was enhanced and updated in the Australia release.
+          - [[source-to-pay-integrations-rn|Source-to-Pay Operations Integrations release notes]] -- he ServiceNow Source-to-Pay Operations extends its capabilities by integrating with third-party applications. The Source-to-Pay Operations integration with SAP, Oracle EBS, Coupa, SAP Ariba, and Oracle Financial Cloud are new applications in the Australia release.
+          - [[supplier-lifecycle-operations-rn|Supplier Lifecycle Operations release notes]] -- The ServiceNow Supplier Lifecycle Operations application enables you to quickly onboard and collaborate with suppliers, manage supplier relationships, monitor risk, compliance, and performance across the supplier life cycle. Supplier Lifecycle Operations was enhanced and updated in the Australia release.
+        - [[it-business-management-rn-landing|Strategic Portfolio Management release notes]] -- Strategic Portfolio Management has new and updated features in the Australia release.
+          - [[agile-development-2-rn|Agile Development 2.0 release notes]] -- The ServiceNow Agile Development 2.0 application helps you implement a pure agile approach over the entire life cycle of a product, or a hybrid approach using agile methods within a traditional project structure. Starting with Australia release, Agile Development 2.0 and its related plugins are planned for deprecation.
+          - [[collaborative-work-management-rn|Collaborative Work Management release notes]] -- The ServiceNow Collaborative Work Management (CWM) application provides a central hub to plan, visualize, and collaborate on work with team members across your organization. CWM was enhanced and updated in the Australia release.
+          - [[data-separation-rn|Data Separation release notes]] -- The ServiceNow Data Separation application enables organizations to restrict access to sensitive data based on a lens hierarchy and its leaf node.
+          - [[enterprise-wide-deployment-rn|SPM Enterprise-Wide Deployment release notes]] -- The ServiceNow SPM Enterprise-Wide Deployment application provides data partitioning capabilities for Strategic Portfolio Management (SPM) tables that enable organizations to separate and control record visibility across functions such as departments and business units. Enterprise-Wide Deployment is a new application in the Australia release.
+          - [[goal-framework-for-spm-rn|Goal Framework for SPM release notes]] -- The ServiceNow Goal Framework for SPM application enables you to automate the actual value of your targets for the goals that are defined using the ServiceNow Goal Framework application. Goal Framework for SPM was enhanced and updated in the Australia release.
+          - [[goal-framework-rn|Goal Framework release notes]] -- The ServiceNow Goal Framework application enables your business to create goals, set targets for them, and evaluate the progress of the goals and targets to accomplish your organizational plans and drive business outcomes. Goal Framework was enhanced and updated in the Australia release.
+          - [[portfolio-planning-rn|Portfolio Planning release notes]] -- The ServiceNow Portfolio Planning application helps you enhance traditional product and portfolio management by visualizing the alignment of work with organizational objectives. Portfolio Planning was enhanced and updated in the Australia release.
+          - [[project-portfolio-management-rn|Project Portfolio Management release notes]] -- The ServiceNow Project Portfolio Management application enables you to create and manage a wide range of planning items from a few small tasks to large portfolios of projects. Project Portfolio Management was enhanced and updated in the Australia release.
+          - [[project-workspace-rn|Project Workspace release notes]] -- The ServiceNow Project Workspace application provides an intuitive user experience that enables project managers to plan and manage their projects. Project Workspace was enhanced and updated in the Australia release.
+          - [[retail-spm-suite-rn|Retail Strategic Portfolio Management Suite release notes]] -- The ServiceNow Retail Strategic Portfolio Management Suite gives retail organizations a structured, repeatable way to plan and track store life cycle projects such as new store openings, relocations, refurbishments, technology refreshes, and closures. Retail Strategic Portfolio Management Suite is a new application in the Australia release.
+          - [[strategic-planning-rn|Strategic Planning release notes]] -- The ServiceNow Strategic Planning application helps you accomplish end-to-end planning using a single workspace. Strategic Planning was enhanced and updated in the Australia release.
+        - [[technology-industry-rn-landing|Telecommunications, Media, and Technology release notes]] -- ServiceNow Telecommunications, Media, and Technology has new and updated applications and features in the Australia release.
+          - [[account-lifecycle-rn|Customer Success Management release notes]] -- The ServiceNow Customer Success Management application helps you to streamline your onboarding process, define and track objectives and outcomes, identify and mitigate risks, and increase renewal rates. Customer Success Management was enhanced and updated in the Australia release.
+          - [[customer-service-problem-management-rn|Customer Service Problem Management release notes]] -- The ServiceNow Customer Service Problem Management application helps customer to identify and resolve service problems. Customer Service Problem Management was enhanced and updated in the Australia release.
+          - [[proactive-service-experience-workflows-rn|Product Support for Technology release notes]] -- The ServiceNow Product Support for Technology helps your technical support teams identify your impacted customers, communicate directly with them, escalate a case if needed, and auto-generate cases for faster issue resolution. Product Support for Technology was enhanced and updated in the Australia release.
+          - [[sales-order-management-telecommunications-rn|Sales CRM for Telecommunications release notes]] -- The ServiceNow Sales CRM for Telecommunications application enables you to capture, manage, and fulfill product and service orders from enterprise customers. Sales CRM for Telecommunications was enhanced and updated in the Australia release.
+          - [[service-bridge-rn|Service Exchange (formerly Service Bridge) release notes]] -- The ServiceNow Service Exchange application, formerly known as Service Bridge, enables providers and consumers to connect and track services directly between instances without having to configure and maintain custom integrations. Service Exchange was enhanced and updated in the Australia release.
+          - [[telecommunications-network-inventory-rn|Telecommunications Network Inventory Release Notes]] -- The ServiceNow Telecommunications Network Inventory application enables network planners to model physical, logical, or virtual networks, support datacenter infrastructure management, and perform design and assign services Telecommunications Network Inventory was enhanced and updated in the Australia release.
+          - [[telecom-customer-360-rn|Telecommunications Customer 360 release notes]] -- The ServiceNow Telecommunications Customer 360 application provides a unified interface that aggregates data from multiple systems into a single platform. Telecommunications Customer 360 is a new application in the Australia release.
+          - [[telecommunications-service-operations-management-rn|Telecommunications Service Operations Management (TSOM) release notes]] -- The ServiceNow Telecommunications Service Operations Management application provides visibility into network infrastructure to help maintain data accuracy across systems and deliver more reliable services. It supports proactive issue detection, reduces downtime risk, and enables faster, data-driven decisions.
+      - [[release-notes-summaries|Release notes summaries for Australia features]] -- Consolidated release notes information for new and updated Australia features.
+        - [[rn-summary-highlights|Highlights for all Australia features and products]] -- Cumulative release notes summary on highlights of Australia features and products.
+        - [[rn-summary-upgrade-info|Upgrade information for all Australia features and products]] -- Cumulative release notes summary on upgrade information for Australia features and products.
+        - [[rn-summary-new-features|New features and products in Australia]] -- Cumulative release notes summary on new Australia features and products.
+        - [[rn-summary-changes|Changes to Australia features and products]] -- Cumulative release notes summary on changes to Australia features and products.
+        - [[rn-summary-removed-features|Removed features and products in Australia]] -- Cumulative release notes summary on features that were removed from Australia features and products.
+        - [[rn-summary-deprecated-info|Deprecation information for all Australia features and products]] -- Cumulative release notes summary on deprecation information for Australia features and products.
+        - [[rn-summary-activation-info|Activation information for all Australia features and products]] -- Cumulative release notes summary on activation information for Australia features and products.
+        - [[rn-summary-addtl-reqs|Additional requirements for all Australia features and products]] -- Cumulative release notes summary on additional requirements for Australia features and products.
+        - [[rn-summary-browser-reqs|Browser requirements for all Australia features and products]] -- Cumulative release notes summary on browser requirements for Australia features and products.
+        - [[rn-summary-accessibility|Accessibility information for all Australia features and products]] -- Cumulative release notes summary on accessibility information for Australia features and products. Some products have specific accessibility information or exceptions.
+        - [[rn-summary-localization|Product localization information in Australia]] -- Cumulative release notes summary on new Australia features and products.
+        - [[rn-summary-plugin-info|Plugin information for all Australia features and products]] -- Cumulative release notes summary on plugin information for Australia features and products.
+    - [[rn-n-2-landing-page|Release notes for upgrading from Yokohama]] -- When you upgrade from the Yokohama release, understand the fixes in each release version, notable changes for the user interface, browser support, plugin updates, and each feature's upgrade and migration tasks if applicable.
+      - [[australia-yokohama-combined-release-notes|Combined product release notes for upgrades from Yokohama to Australia]] -- To help you upgrade from Yokohama to Australia, we have combined the cross-family release notes for each product onto one page. Select the products you have to customize the release notes results.
+    - [[rn-n-3-landing-page|Release notes for upgrading from Xanadu]] -- When you upgrade from the Xanadu release, understand the fixes in each release version, notable changes for the user interface, browser support, plugin updates, and each feature's upgrade and migration tasks if applicable.
+      - [[australia-xanadu-combined-release-notes|Combined product release notes for upgrades from Xanadu to Australia]] -- To help you upgrade from Xanadu to Australia, we have combined the cross-family release notes for each product onto one page. Select the products you have to customize the release notes results.
+    - [[australia-summary-fixes|Personalized PRB release notes for upgrades to Australia]] -- If you are thinking about upgrading to the Australia family, problem (PRB) fixes can be an important factor in your upgrade plans. Compare the lists of fixed problems across various Australia upgrade scenarios to help you decide which release version to upgrade to.
+    - [[available-versions|Available patches and hotfixes]] -- The Australia family includes patches and hotfixes.
+      - [[australia-patch-3|Australia Patch 3]] -- The Australia Patch 3 release contains important problem fixes.
+      - [[australia-patch-2-hf-1|Australia Patch 2 Hotfix 1]] -- The Australia Patch 2 Hotfix 1 release contains fixes to these problems.
+      - [[australia-patch-2|Australia Patch 2]] -- The Australia Patch 2 release contains important problem fixes.
+      - [[australia-patch-1|Australia Patch 1]] -- The Australia Patch 1 release contains important problem fixes.
+      - [[australia-patch-0-hf-1-PO|Australia EA Hotfix 1]] -- The Australia EA Hotfix 1 release contains fixes to these problems.
+      - [[australia-security-notables|Australia security and notable fixes]] -- The Australia release contains important problem fixes.
+      - [[australia-all-other-fixes|All other Australia fixes]] -- The Australia release contains important problem fixes.
+    - [[browser-support|Browser support]] -- Browser support varies for each version of the user interface (UI). Some features have additional browser requirements, which are noted in the appropriate documentation.
+    - [[r_Accessibility508Compliance|Accessibility and conformance]] -- View a summary of accessibility updates and improvements completed for the Australia family release. Learn which Voluntary Product Accessibility Template (VPAT) was used to create Accessibility Conformance Reports (ACRs) for ServiceNow products and where to access them.
+  - [[rn-prepare-landing-page|Prepare your upgrade]] -- Before each upgrade, refresh your memory on general upgrade information, learn which important pre- and post- upgrade tasks apply to your upgrade, and learn how to use ServiceNow products and tools to make your experience easier.
+    - [[upgrade|ServiceNow upgrades]] -- The upgrade process moves your instance to a new ServiceNow release version. Understand the difference between upgrading and patching, release definitions, rollback and backup options, and how to test your non-production and production instance upgrades.
+    - [[upgrade-and-migration-tasks|Pre- and post-upgrade tasks for various products]] -- In preparation for your upgrade, review the upgrade and migration tasks for various applications and features. Plan to complete these tasks, when applicable, before or after the upgrade is complete.
+    - [[upgrades-planning-checklist|Upgrade planning checklist]] -- Plan and track the activities related to your ServiceNow instance upgrade. To help ensure that you complete all the tasks for a successful upgrade, follow the step-by-step instructions in the upgrade planning checklist to track and plan the upgrade.
+    - [[upgrade-tools|Upgrade tools and resources]] -- Learn about ServiceNow products and tools that can improve your upgrade experience.
+    - [[upgrades-store|Upgrades and the ServiceNow Store]] -- The ServiceNow Store includes official applications that are developed and released by ServiceNow. Users can download, access, and configure Australia apps on their instances. Store application versions can be upgraded when you upgrade your instance to a new release version.
+  - [[upgrades-overview|Upgrade to the Australia release]] -- Upgrading and patching your instance requires planning, testing, and validation. To ensure a safe and effective upgrade, read the release notes, create upgrade plans, and test your upgrade on non-production instances before upgrading your production instance.
+    - [[upgrades-phase-1|Phase 1 - Read the release notes and plan your upgrade]] -- Before you begin the upgrade process, it is essential to read the release notes for your target version so you understand the required upgrade and migration tasks. This information helps you plan a safe and effective upgrade.
+    - [[upgrades-phase-2|Phase 2 - Prepare for the development instance upgrade]] -- For a better understanding of your production upgrade duration, request a full clone of your production instance (including large tables and attachments) onto a non-production instance. Confirm your current and target release versions, because you will later use this information when scheduling your upgrade in Now Support.
+    - [[upgrades-phase-3|Phase 3 - Verify your upgrade configurations and schedule the development instance upgrade in Now Support]] -- Check the configuration of the Check distribution for possible upgrade scheduled job to view how often and when it runs. Review information about timing your upgrade in coordination with the Check distribution for possible upgrade scheduled job. Then, schedule your upgrade in Now Support.
+    - [[upgrades-phase-4|Phase 4 - Upgrade and validate the development instance]] -- Track the progress of your upgrades with the Upgrade Monitor. For your first non-production instance upgrade (your development instance), use the Upgrade Monitor to process the skipped list of records that were not addressed in the upgrade. Then identify your update sets and perform functional testing.
+    - [[upgrades-phase-5|Phase 5 - If applicable: Upgrade and validate your other non-production instances, such as your test instance]] -- After you've configured and refined your development instance, request to upgrade any other non-production instances you have, such as a test instance. Immediately after the upgrade is complete, apply the post-upgrade changes made to your development instance, including activating optional plugins, installing and upgrading applications, and applying update sets.
+    - [[upgrades-phase-6|Phase 6 - Prepare to upgrade the production instance]] -- After you have configured and refined your test environment to be a good representation of your production environment, prepare to upgrade your production instance.
+    - [[upgrades-phase-7|Phase 7 - Upgrade the production instance]] -- After you have upgraded your development, non-production, and test instances, upgrade your production instance last. Then validate that the upgrade was complete, apply update sets and fix scripts, and perform post-upgrade user acceptance testing (UAT).
+
+## Related
+
+- [[family-release-notes|Australia release notes]]
+- [[rn-getting-started-landing-page|Using the release notes]]
+- [[rn-features-overview|Build your own release notes]]
+- [[rn-learn-landing-page|Learn about the Australia release]]
+- [[rn-n-1-landing-page|Release notes for upgrading from Zurich]]
+- [[australia-zurich-combined-release-notes|Combined product release notes for upgrades from Zurich to Australia]]
+- [[new-features-changes|Features and changes by product]]
+- [[intelligent-experiences-rn-landing|AI Experiences release notes]]
+- [[agentic-desktop-rn|AI Desktop Actions release notes]]
+- [[ai-control-tower-rn|AI Control Tower release notes]]
+- [[generative-ai-controller-rn|Generative AI Controller release notes]]
+- [[document-intelligence-rn|Document Intelligence release notes]]
+- [[mcp-server-console-rn|MCP Server Console release notes]]
+- [[knowledge-graph-rn|Knowledge Graph release notes]]
+- [[servicenow-lens-rn|ServiceNow AI Lens release notes]]
+- [[predictive-intelligence-rn|Predictive Intelligence release notes]]
+- [[api-rn|API release notes]]
+- [[build-automate-rn-landing|App development and low-code release notes]]
+- [[aemc-rn|App Engine Management Center release notes]]
+- [[app-engine-studio-rn|App Engine Studio release notes]]
+- [[build-agent-rn|Build Agent release notes]]
+- [[creator-studio-rn|Creator Studio release notes]]
+- [[data-catalog-rn|Data Catalog release notes]]
+- [[data-products-rn|Data products release notes]]
+- [[developer-sandboxes-rn|Developer Sandboxes release notes]]
+- [[integration-hub-rn|Integration Hub release notes]]
+- [[next-experience-components-rn|Next Experience Components release notes]]
+- [[ned-tools-rn|Next Experience Developer \(NED\) Tools release notes]]
+- [[now-assist-for-app-engine-rn|Now Assist for App Engine release notes]]
+- [[now-assist-for-creator-rn|Now Assist for Creator release notes]]
+- [[now-assist-for-zero-copy-connector-rn|Now Assist for Zero Copy Connector release notes]]
+- [[performance-analyzer-rn|Performance Analyzer release notes]]
+- [[releaseops-rn|ReleaseOps release notes]]
+- [[reverse-tunnel-rn|Reverse Tunnel release notes]]
+- [[rpa-rn|RPA Hub release notes]]
+- [[servicenow-cli-rn|ServiceNow CLI release notes]]
+- [[servicenow-ide-rn|ServiceNow IDE release notes]]
+- [[servicenow-sdk-rn|ServiceNow SDK release notes]]
+- [[servicenow-studio-rn|ServiceNow Studio release notes]]
+- [[ui-builder-rn|UI Builder release notes]]
+- [[workflow-studio-rn-landing|Workflow Studio release notes]]
+- [[flow-designer-rn|Flows, Subflows, and Actions release notes]]
+- [[process-automation-designer-rn|Playbook release notes]]
+- [[table-builder-rn|Table Builder release notes]]
+- [[zero-copy-connectors-rn|Zero Copy Connectors release notes]]
+- [[zero-copy-connector-for-erp-rn|Zero Copy Connector for ERP release notes]]
+- [[conversational-interfaces-rn-landing|Conversational Interfaces release notes]]
+- [[advanced-work-assignment-rn|Advanced Work Assignment \(AWA\) release notes]]
+- [[sidebar-rn|Sidebar release notes]]
+- [[virtual-agent-rn|Virtual Agent release notes]]
+- [[cbs-rn|Core Business Suite release notes]]
+- [[customer-service-mgmt-rn-landing|Customer Service Management release notes]]
+- [[customer-service-config-ws-rn|Agent experience for CSM release notes]]
+- [[case-mgmt-csm-rn|Case management for CSM release notes]]
+- [[data-management-for-csm-rn|Data Management for CSM release notes]]
+- [[customer-service-ai-ml-rn|Predictive AI for CSM release notes]]
+- [[customer-self-service-omnichannel-engagement-rn|Self-service and omnichannel engagement for CSM release notes]]
+- [[workforce-optimization-csm-rn|Workforce Optimization for CSM release notes]]
+- [[enterprise-architecture-rn-landing|Enterprise Architecture release notes]]
+- [[enterprise-architecture-rn|Enterprise Architecture release notes]]
+- [[employee-service-management-foundation-rn|Enterprise Service Management Foundation release notes]]
+- [[employee-service-management-rn-landing|Employee Service Management release notes]]
+- [[hr-service-delivery-landing|HR Service Delivery release notes]]
+- [[hr-aws-rn|Agent Workspace for HR Case Management release notes]]
+- [[hr-ckm-rn|Case and Knowledge Management release notes]]
+- [[talent-acquisition-rn-landing|Hiring Experiences release notes]]
+- [[interview-management-rn|Interview management release notes]]
+- [[recruiter-workspace-rn|Recruitment workspace release notes]]
+- [[recommended-actions-hrsd-rn|Recommended Actions for HRSD release notes]]
+- [[ur-rn|Universal Request release notes]]
+- [[wfo-hr-rn|Workforce Optimization for HR release notes]]
+- [[cmpro-rn|Contract Management Pro release notes]]
+- [[cmpro-na-rn|Now Assist in Contract Management release notes]]
+- [[lsd-rn-landing-page|Legal Service Delivery release notes]]
+- [[lsd-coi-rn|Legal Conflict of Interest release notes]]
+- [[legal-matter-mgmt-rn|Legal Matter Management release notes]]
+- [[legal-request-mgmt-rn|Legal Request Management release notes]]
+- [[lsd-virtual-agent-conv-rn|Legal Virtual Agent Conversations release notes]]
+- [[now-assist-for-lsd-rn|Now Assist for Legal Service Delivery \(LSD\) release notes]]
+- [[lsd-predictive-intelli-rn|Predictive intelligence for Legal Service Delivery release notes]]
+- [[uex-rn-landing|Unified Employee Experience release notes]]
+- [[employee-center-rn|Employee Center release notes]]
+- [[ec-pro-rn|Employee Center Pro release notes]]
+- [[employee-slate-rn|Employee Slate release notes]]
+- [[now-assist-for-employee-center-pro-rn|Now Assist for Employee Center Pro release notes]]
+- [[field-service-management-rn|Field Service Management release notes]]
+- [[now-assist-for-fsm-rn|Now Assist for FSM release notes]]
+- [[financial-services-operations-rn-landing|Financial Services Operations release notes]]
+- [[agentic-contact-centre-for-insurance-rn|Agentic Contact Center for Insurance release notes]]
+- [[agentic-contact-center-for-banking-rn|Agentic Contact Center for Banking release notes]]
+- [[card-data-security-rn|Card data security release notes]]
+- [[dispute-rules-content-pack-for-us-regulations-rn|Dispute Content Pack for US Regulations release notes]]
+- [[dispute-rules-content-pack-for-mastercard-rn|Dispute Rules Content Pack for Mastercard release notes]]
+- [[dispute-rules-content-pack-for-visa-rn|Dispute Rules Content Pack for Visa release notes]]
+- [[financial-services-card-operations-rn|Financial Services Card Operations release notes]]
+- [[financial-services-operations-core-rn|Financial Services Operations Core release notes]]
+- [[financial-services-operations-integration-with-mastercard-rn|Financial Services Operations Integration with Mastercard release notes]]
+- [[financial-services-operations-integration-with-visa-rn|Financial Services Operations Integration with Visa release notes]]
+- [[financial-services-operations-integration-with-verifi-cdrn-rn|Financial Services Operations Integration with Verifi release notes]]
+- [[now-assist-for-financial-services-operations-rn|Now Assist for Financial Services Operations \(FSO\) release notes]]
+- [[visa-spoke-rn|Visa Spoke release notes]]
+- [[grc-rn-landing|Governance, Risk, and Compliance release notes]]
+- [[grc-advanced-risk-rn|Advanced Risk release notes]]
+- [[grc-ai-risk-and-compliance-rn|AI Risk and Compliance release notes]]
+- [[grc-audit-rn|Audit Management release notes]]
+- [[grc-business-continuity-management-rn|Business Continuity Management release notes]]
+- [[grc-common-core-rn|Common Governance, Risk, and Compliance feature release notes]]
+- [[grc-compliance-case-management-rn|Compliance Case Management release notes]]
+- [[grc-cam-rn|Continuous Authorization and Monitoring release notes]]
+- [[grc-or-rn|Operational Resilience release notes]]
+- [[grc-policy-rn|Policy and Compliance Management release notes]]
+- [[grc-privacy-management-rn|Privacy Management release notes]]
+- [[grc-regulatory-change-management-rn|Regulatory Change Management release notes]]
+- [[grc-smart-assessment-engine-rn|Smart Assessment Engine release notes]]
+- [[grc-tprm-rn|Third-party Risk Management release notes]]
+- [[grc-tprm-upgrade-info|Third-party Risk Management upgrade information]]
+- [[healthcare-life-sciences-rn-landing|Healthcare and Life Sciences release notes]]
+- [[cto-biomed-rn|Care Team Operations for Biomed release notes]]
+- [[cto-environmental-services-rn|Care Team Operations for Environmental Services release notes]]
+- [[cto-facilities-rn|Care Team Operations for Facilities release notes]]
+- [[cto-healthcare-it-rn|Care Team Operations for Healthcare IT release notes]]
+- [[hco-ctwm-rn|Care Team Work Management release notes]]
+- [[hcls-core-rn|Healthcare and Life Sciences Service Management Core release notes]]
+- [[healthcare-operations-core-rn|Healthcare Operations Core release notes]]
+- [[impact-rn|Impact release notes]]
+- [[industrial-connected-workforce-rn-landing|Industrial Connected Workforce release notes]]
+- [[icw-core-rn|Industrial Connected Workforce Core release notes]]
+- [[icw-industrial-standards-rn|Industrial Standards release notes]]
+- [[industrial-guided-tasks-rn|Industrial Guided Tasks release notes]]
+- [[icw-mobile-experience-rn|Industrial Connected Workforce Mobile Experience release notes]]
+- [[it-asset-management-rn-landing|IT Asset Management release notes]]
+- [[asset-audit-response-rn|Asset Audit Response release notes]]
+- [[cloud-cost-management-rn|Cloud Cost Management 10.0 release notes]]
+- [[enterprise-asset-management-rn|Enterprise Asset Management release notes]]
+- [[hardware-asset-management-rn|Hardware Asset Management release notes]]
+- [[software-asset-management-rn|Software Asset Management release notes]]
+- [[it-operations-management-rn-landing|IT Operations Management release notes]]
+- [[event-management-rn|Event Management release notes]]
+- [[itom-visibility-rn|ITOM Visibility release notes]]
+- [[itom-aiops-rn|ITOM AIOps release notes]]
+- [[it-service-management-rn-landing|IT Service Management release notes]]
+- [[change-management-rn|Change Management release notes]]
+- [[devops-rn|DevOps Change Velocity release notes]]
+- [[digital-end-user-experience-rn|Digital End-User Experience release notes]]
+- [[incident-management-rn|Incident Management release notes]]
+- [[ai-native-it-service-desk-rn|IT Service Management release notes]]
+- [[now-assist-for-itsm-rn|Now Assist for IT Service Management \(ITSM\) release notes]]
+- [[on-call-scheduling-rn|On-Call Scheduling release notes]]
+- [[service-operations-workspace-itsm-rn|Service Operations Workspace for ITSM release notes]]
+- [[manufacturing-commercial-operations-rn|Manufacturing Commercial Operations release notes]]
+- [[mobile-rn|Mobile Platform release notes]]
+- [[now-assist-rn-landing|Now Assist and agentic AI release notes]]
+- [[ai-agent-advisor-rn|AI Agent Advisor release notes]]
+- [[now-assist-ai-agents-rn|Now Assist AI Agents release notes]]
+- [[now-assist-center-rn|Now Assist Center release notes]]
+- [[now-assist-for-collaborative-work-management-rn|Now Assist for Collaborative Work Management \(CWM\) release notes]]
+- [[now-assist-cmdb-rn|Now Assist for Configuration Management Database \(CMDB\) release notes]]
+- [[now-assist-for-operational-technology-service-management-otsm-rn|Now Assist for Operational Technology Service Management \(OTSM\) release notes]]
+- [[now-assist-rn|Now Assist release notes]]
+- [[now-assist-sales-order-management-telecommunications-rn|Now Assist for Sales CRM for Telecommunications release notes]]
+- [[now-assist-source-to-pay-operations-rn|Now Assist for Source-to-Pay Operations release notes]]
+- [[now-assist-for-spm-rn|Now Assist for Strategic Portfolio Management \(SPM\) release notes]]
+- [[now-assist-tmt-rn|Now Assist for Telecommunications, Media and Technology \(TMT\) release notes]]
+- [[now-assist-document-intelligence-rn|Now Assist in Document Intelligence release notes]]
+- [[now-assist-platform-analytics-rn|Now Assist in Platform Analytics release notes]]
+- [[esg-management-rn|Operational Sustainability Management \(formerly Environmental, Social, and Governance\) release notes]]
+- [[operational-technology-rn-landing|Operational Technology release notes]]
+- [[industrial-process-manager-rn|Industrial Process Manager release notes]]
+- [[operational-technology-discovery-rn|Operational Technology Discovery release notes]]
+- [[operational-technology-incident-management-rn|Operational Technology Incident Management release notes]]
+- [[operational-technology-manager-rn|Operational Technology Manager release notes]]
+- [[recommended-actions-for-otsm-rn|Recommended Actions for Operational Technology Service Management \(OTSM\) release notes]]
+- [[analytics-intel-report-rn-landing|Platform Analytics release notes]]
+- [[performance-analytics-rn|Performance Analytics release notes]]
+- [[platform-analytics-experience-rn|Platform Analytics experience release notes]]
+- [[process-optimization-rn|Process Mining release notes]]
+- [[user-experience-analytics-rn|Usage Insights release notes]]
+- [[public-sector-digital-services-rn|Public Sector Digital Services release notes]]
+- [[retail-rn|Retail release notes]]
+- [[sales-order-management-rn-landing|Sales Customer Relationship Management release notes]]
+- [[activity-management-rn|Activity Management release notes]]
+- [[advanced-approval-management-for-sales-rn|Advanced Approval Management release notes]]
+- [[buying-group-rn|Buying Group release notes]]
+- [[cpq-transaction-manager-rn|CPQ release notes]]
+- [[customer-engagement-sequences-rn|Customer Engagement Sequences release notes]]
+- [[customer-self-service-som-rn|Customer self-service for Sales Customer Relationship Management release notes]]
+- [[lead-management-rn|Lead Management release notes]]
+- [[opportunity-management-rn|Opportunity Management release notes]]
+- [[order-management-rn|Order Management release notes]]
+- [[quote-management-rn|Quote Management release notes]]
+- [[partner-relationship-management-rn|Partner Relationship Management]]
+- [[customer-contracts-entitlement-rn|Customer Contracts and Entitlements release notes]]
+- [[product-catalog-pricing-management-rn|Product Catalog Management and Pricing Management release notes]]
+- [[sales-forecasting-rn|Sales Forecasting release notes]]
+- [[sales-territory-management-rn|Sales Territory Management​ release notes]]
+- [[security-operations-rn-landing|Security Operations release notes]]
+- [[secops-app-vuln-resp-rn|Application Vulnerability Response release notes]]
+- [[secops-cc-rn|Configuration Compliance release notes]]
+- [[secops-container-vuln-resp-rn|Container Vulnerability Response release notes]]
+- [[secops-sir-rn|Security Incident Response release notes]]
+- [[secops-tisc-rn|Threat Intelligence Security Center release notes]]
+- [[secops-sem-rn|Unified Security Exposure Management \(USEM\) notes]]
+- [[secops-vuln-resp-rn|Vulnerability Response release notes]]
+- [[now-platform-admin-rn-landing|ServiceNow AI Platform administration release notes]]
+- [[ai-search-rn|AI Search release notes]]
+- [[application-manager-rn|Application Manager release notes]]
+- [[clone-admin-console-rn|Clone Admin Console release notes]]
+- [[data-management-rn|Data Management release notes]]
+- [[external-content-connectors-rn|External Content Connectors release notes]]
+- [[instance-scan-rn|Instance Scan release notes]]
+- [[legacy-application-manager-rn|Legacy Application Manager release notes]]
+- [[localization-workspace-rn|Localization Workspace release notes]]
+- [[notifications-rn|Notifications release notes]]
+- [[now-assist-for-setup-rn|Setup Hub release notes]]
+- [[core-platform-rn|ServiceNow AI Platform core feature release notes]]
+- [[subscription-management-rn|Subscription Management release notes]]
+- [[upgrade-console-rn|Upgrade Console release notes]]
+- [[sql-api-rn|SQL API Release Notes]]
+- [[now-platform-capabilities-rn-landing|ServiceNow AI Platform capabilities release notes]]
+- [[cmdb-rn|Configuration Management Database \(CMDB\) release notes]]
+- [[document-services-rn|Document Services release notes]]
+- [[hermes-messaging-service-rn|Hermes Messaging Service release notes]]
+- [[import-export-rn|Import and Export release notes]]
+- [[instance-data-replication-rn|Instance Data Replication release notes]]
+- [[knowledge-center-rn|Knowledge Center release notes]]
+- [[mid-server-rn|MID Server release notes]]
+- [[notify-rn|Notify release notes]]
+- [[password-reset-rn|Password Reset release notes]]
+- [[service-catalog-rn|Service Catalog release notes]]
+- [[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]
+- [[access-management-rn|Access Management release notes]]
+- [[authentication-rn|Authentication release notes]]
+- [[code-signing-rn|Code Signing release notes]]
+- [[data-privacy-rn|Data Privacy release notes]]
+- [[domain-separation-rn|Domain Separation release notes]]
+- [[encryption-rn|Encryption release notes]]
+- [[encryption-key-mgmt-rn|Key Management release notes]]
+- [[identity-rn|Identity release notes]]
+- [[security-center-rn|Security Center release notes]]
+- [[servicenow-vault-rn|ServiceNow Vault release notes]]
+- [[now-platform-ui-rn-landing|ServiceNow AI Platform user interface release notes]]
+- [[adoption-services-rn|Adoption Services release notes]]
+- [[configurable-workspace-rn|Configurable Workspace release notes]]
+- [[content-management-system-release-notes-rn|Content Management System release notes]]
+- [[next-experience-rn|Next Experience release notes]]
+- [[service-portal-rn|Service Portal release notes]]
+- [[theme-builder-rn|Theme Builder release notes]]
+- [[source-to-pay-operations-rn-landing|Source-to-Pay Operations release notes]]
+- [[accounts-payable-operations-rn|Accounts Payable Operations release notes]]
+- [[sourcing-procurement-operations-rn|Sourcing and Procurement Operations release notes]]
+- [[purchase-order-management-rn|Purchase Order Management release notes]]
+- [[source-to-pay-integrations-rn|Source-to-Pay Operations Integrations release notes]]
+- [[supplier-lifecycle-operations-rn|Supplier Lifecycle Operations release notes]]
+- [[it-business-management-rn-landing|Strategic Portfolio Management release notes]]
+- [[agile-development-2-rn|Agile Development 2.0 release notes]]
+- [[collaborative-work-management-rn|Collaborative Work Management release notes]]
+- [[data-separation-rn|Data Separation release notes]]
+- [[enterprise-wide-deployment-rn|SPM Enterprise-Wide Deployment release notes]]
+- [[goal-framework-for-spm-rn|Goal Framework for SPM release notes]]
+- [[goal-framework-rn|Goal Framework release notes]]
+- [[portfolio-planning-rn|Portfolio Planning release notes]]
+- [[project-portfolio-management-rn|Project Portfolio Management release notes]]
+- [[project-workspace-rn|Project Workspace release notes]]
+- [[retail-spm-suite-rn|Retail Strategic Portfolio Management Suite release notes]]
+- [[strategic-planning-rn|Strategic Planning release notes]]
+- [[technology-industry-rn-landing|Telecommunications, Media, and Technology release notes]]
+- [[account-lifecycle-rn|Customer Success Management release notes]]
+- [[customer-service-problem-management-rn|Customer Service Problem Management release notes]]
+- [[proactive-service-experience-workflows-rn|Product Support for Technology release notes]]
+- [[sales-order-management-telecommunications-rn|Sales CRM for Telecommunications release notes]]
+- [[service-bridge-rn|Service Exchange \(formerly Service Bridge\) release notes]]
+- [[telecommunications-network-inventory-rn|Telecommunications Network Inventory Release Notes]]
+- [[telecom-customer-360-rn|Telecommunications Customer 360 release notes]]
+- [[telecommunications-service-operations-management-rn|Telecommunications Service Operations Management \(TSOM\) release notes]]
+- [[release-notes-summaries|Release notes summaries for Australia features]]
+- [[rn-summary-highlights|Highlights for all Australia features and products]]
+- [[rn-summary-upgrade-info|Upgrade information for all Australia features and products]]
+- [[rn-summary-new-features|New features and products in Australia]]
+- [[rn-summary-changes|Changes to Australia features and products]]
+- [[rn-summary-removed-features|Removed features and products in Australia]]
+- [[rn-summary-deprecated-info|Deprecation information for all Australia features and products]]
+- [[rn-summary-activation-info|Activation information for all Australia features and products]]
+- [[rn-summary-addtl-reqs|Additional requirements for all Australia features and products]]
+- [[rn-summary-browser-reqs|Browser requirements for all Australia features and products]]
+- [[rn-summary-accessibility|Accessibility information for all Australia features and products]]
+- [[rn-summary-localization|Product localization information in Australia]]
+- [[rn-summary-plugin-info|Plugin information for all Australia features and products]]
+- [[rn-n-2-landing-page|Release notes for upgrading from Yokohama]]
+- [[australia-yokohama-combined-release-notes|Combined product release notes for upgrades from Yokohama to Australia]]
+- [[rn-n-3-landing-page|Release notes for upgrading from Xanadu]]
+- [[australia-xanadu-combined-release-notes|Combined product release notes for upgrades from Xanadu to Australia]]
+- [[australia-summary-fixes|Personalized PRB release notes for upgrades to Australia]]
+- [[available-versions|Available patches and hotfixes]]
+- [[australia-patch-3|Australia Patch 3]]
+- [[australia-patch-2-hf-1|Australia Patch 2 Hotfix 1]]
+- [[australia-patch-2|Australia Patch 2]]
+- [[australia-patch-1|Australia Patch 1]]
+- [[australia-patch-0-hf-1-PO|Australia EA Hotfix 1]]
+- [[australia-security-notables|Australia security and notable fixes]]
+- [[australia-all-other-fixes|All other Australia fixes]]
+- [[browser-support|Browser support]]
+- [[r_Accessibility508Compliance|Accessibility and conformance]]
+- [[rn-prepare-landing-page|Prepare your upgrade]]
+- [[upgrade|ServiceNow upgrades]]
+- [[upgrade-and-migration-tasks|Pre- and post-upgrade tasks for various products]]
+- [[upgrades-planning-checklist|Upgrade planning checklist]]
+- [[upgrade-tools|Upgrade tools and resources]]
+- [[upgrades-store|Upgrades and the ServiceNow Store]]
+- [[upgrades-overview|Upgrade to the Australia release]]
+- [[upgrades-phase-1|Phase 1 - Read the release notes and plan your upgrade]]
+- [[upgrades-phase-2|Phase 2 - Prepare for the development instance upgrade]]
+- [[upgrades-phase-3|Phase 3 - Verify your upgrade configurations and schedule the development instance upgrade in Now Support]]
+- [[upgrades-phase-4|Phase 4 - Upgrade and validate the development instance]]
+- [[upgrades-phase-5|upgrades phase 5]]
+- [[upgrades-phase-6|Phase 6 - Prepare to upgrade the production instance]]
+- [[upgrades-phase-7|Phase 7 - Upgrade the production instance]]

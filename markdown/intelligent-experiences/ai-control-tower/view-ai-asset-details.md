@@ -1,0 +1,194 @@
+---
+title: View AI asset details
+description: View the AI asset governance details to track the lifecycle status, phase, and the install status.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/intelligent-experiences/ai-control-tower/view-ai-asset-details.html
+release: australia
+product: AI Control Tower
+classification: ai-control-tower
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+keywords: [generative AI]
+breadcrumb: [AI asset inventory, AI assets, AI Control Tower dashboard, Explore, AI Control Tower, Enable AI experiences]
+---
+
+# View AI asset details
+
+View the AI asset governance details to track the lifecycle status, phase, and the install status.
+
+## Before you begin
+
+Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
+
+## Procedure
+
+1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+
+2.  From the AI Control Tower, open the [[ai-assets|AI assets]] view.
+
+3.  From the [[now-assist-global-navigation|navigation]] menu of the AI assets view, under [[ai-inventory|AI asset inventory]], select an AI asset.
+
+    AI asset details page is displayed.
+
+4.  On the page, review the AI asset details.
+
+<table id="choicetable_pq3_wwl_ngc"><thead><tr><th align="left" id="d119078e90">
+
+Field
+
+</th><th align="left" id="d119078e93">
+
+Description
+
+</th></tr></thead><tbody><tr><td id="d119078e99">
+
+**Version**
+
+</td><td>
+
+Version number of the asset
+
+</td></tr><tr><td id="d119078e108">
+
+**Asset type**
+
+</td><td>
+
+Type of assets:-   Generative AI
+-   Agentic AI
+-   Classical AI
+-   AI model
+-   AI system
+-   AI [[ai-prompts|prompts]]
+-   AI [[ai-datasets|datasets]]
+
+
+</td></tr><tr><td id="d119078e141">
+
+**Provider**
+
+</td><td>
+
+who has built the asset
+
+</td></tr><tr><td id="d119078e150">
+
+**Vendor**
+
+</td><td>
+
+Who has sold the Asset
+
+</td></tr><tr><td id="d119078e160">
+
+**Department**
+
+</td><td>
+
+Department where the asset is allocated
+
+</td></tr><tr><td id="d119078e169">
+
+**Managed by**
+
+</td><td>
+
+Managed by the user who owns the asset
+
+</td></tr><tr><td id="d119078e178">
+
+**License details**
+
+</td><td>
+
+License details of the asset
+
+</td></tr><tr><td id="d119078e187">
+
+**Supported locations**
+
+</td><td>
+
+Shows the locations supported for the AI asset.
+
+</td></tr><tr><td id="d119078e199">
+
+**Lifecycle phase**
+
+</td><td>
+
+Shows the asset's lifecycle phase.
+
+-   New
+-   Assess
+-   Build and test
+-   Deploy
+-   Offboarding
+
+
+</td></tr><tr><td id="d119078e228">
+
+**State**
+
+</td><td>
+
+The state of the asset.-   Deployed
+-   Retired
+-   Development
+-   Unknown
+-   N/A
+
+
+</td></tr><tr><td id="d119078e255">
+
+**Lifecycle status**
+
+</td><td>
+
+The lifecycle status of the asset.-   In review
+-   Approved
+-   Rejected
+-   Deployed
+-   AI steward review
+-   Approved for development
+-   Ready for deployment
+-   Approved for deployment
+-   Canceled
+
+
+</td></tr><tr><td id="d119078e294">
+
+**Risk classification**
+
+</td><td>
+
+Risk classification of the asset
+
+</td></tr><tr><td id="d119078e303">
+
+**Created**
+
+</td><td>
+
+Creation date
+
+</td></tr><tr><td id="d119078e312">
+
+**Updated**
+
+</td><td>
+
+Updated date
+
+</td></tr></tbody>
+</table>
+
+## Related
+
+- [[ai-control-tower-landing|AI Control Tower]]
+- [[ai-assets|AI assets]]
+- [[now-assist-global-navigation|Navigation]]
+- [[ai-inventory|AI asset inventory]]
+- [[ai-prompts|Prompts]]
+- [[ai-datasets|Datasets]]

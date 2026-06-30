@@ -1,0 +1,785 @@
+---
+title: Australia Impact
+locale: en-US
+release: australia
+bundle: ipact
+doc_type: toc
+---
+
+# Australia Impact
+
+- [[impact-landing-page|Impact]] -- ServiceNow Impact is built on the ServiceNow AI Platform and combines customized service with a digital interface to help you realize the full potential of your instance. Receive tailored recommendations and guidance from dedicated teams and experts on demand.
+  - [[impact-program-features|Exploring Impact]] -- ServiceNow Impact personalizes your digital transformation journey and accelerates your time-to-value integrated within your ServiceNow AI Platform instance and Impact.
+    - [[impact-operating-model|Impact operating model]] -- The Impact operating model is a research-backed system of key activities, personalized to your organization, to help drive faster time to value with the ServiceNow platform.
+      - [[impact-packages1|Impact Packages]] -- ServiceNow is available in Core packages-Guided and Total, with optional add-on packages to extend your entitlements.
+      - [[impact-squad|Impact Squad]] -- Your Impact Squad is a team of on-demand experts who work with you to take on your teams unique transformation challenges.
+      - [[foundations|Impact Foundations]] -- Impact Foundations is a fit-for-purpose set of account level initiatives to start you on the fast track to value and to maintain momentum via a streamlined quarterly motion.​
+        - [[getting-started-with-impact|Getting Started with Impact]] -- A set of activities that help new Impact customers get started with ServiceNow Impact.
+        - [[customer-impact-plan|Customer Impact Plan]] -- Focuses on accelerating value realization, enhancing platform adoption, and promoting optimal performance through tailored guidance and support.
+      - [[impact-steady-state|Impact Steady State]] -- Impact Steady State is the cadence that keeps you on track with your Impact Plan and associated business goals that follows the Foundations phase, generally beyond 90–120 days of engagement.
+  - [[configuring-impact|Configuring Impact]] -- Information for configuring both the Impact Delivery Instance and the Impact Store Application.
+    - [[configuring-impact-platform|Configure the Impact Store Application]] -- The tasks are outlined that are required to install and then configure the Impact Store Application using Guided Setup.
+      - [[install-impact-innovation-lab|Install Impact]] -- Follow these instructions to install the Impact Store Application.
+      - [[guided-setup-impact-in-app|Run Impact Guided Setup]] -- Use Impact Guided Setup to follow a sequence of tasks that help you configure the Impact Store Application on your ServiceNow instance.
+      - [[onboard_users_impact_store_application|Onboard users with Guided Setup]] -- Onboard new and existing users to the Impact Store Application.
+      - [[assign-users-scan-engine-groups|Assign users to Scan Engine groups]] -- In addition to assigning Impact users to groups, Platform Health users must also be part of a group for the Scan Engine feature.
+      - [[configure-initial-scan-engine-settings|Activate Scan Engine and review settings]] -- Use Impact Guided Setup to set up the minimum required configuration options in order to run the first system scan.
+        - [[configure-scan-engine-properties|Configure Scan Engine properties]] -- Configure the primary scanning capabilities and configuration options for scheduled, on-demand and real-time scans.
+          - [[teamdev-scanning-properties|Configure scanning properties per persona]] -- You can view and configure a variety of information, formatted into lists, that the Scan Engine uses to permit users, team leads, and admins to access content.
+          - [[add-view-scan-engine-related-lists|Configure Scan Engine instance integration settings]] -- You can view and configure a variety of information, formatted into lists, that the Scan Engine uses to implement its various scanning types.
+          - [[additional-scan-engine-properties|Configure definition properties]] -- You can configure additional capabilities and configuration options for the definition ruleset.
+          - [[configure-real-time-scanning-properties|Configure real-time scanning properties]] -- Real-time scanning properties allow control over which users have access to real-time scanning, and how the scan operates within their environment. Perform the following procedure to configure real time scanning properties.
+          - [[exception-reason-properties|Configure exception reason properties]] -- When real-time enforcement, enforce_real_time_validation is set to true, Recommend level findings require an approved exception reason before the form can be saved.
+          - [[update-set-scanning-properties|Configure update set scanning properties]] -- The Scan Engine provides several options to further configure update set scanning and enhance the governance over update set management. Update set scanning occurs during scheduled instance scans. The settings on this tab define which update sets will be scanned, and the parameters those update sets have to meet in order to be marked complete.
+      - [[run-scan-engine|Run your first scan]] -- An initial full Scan Engine completion is required to set a baseline from a series of tasks performed that tune the instance environment to complete future scans quickly and efficiently.
+        - [[scan-engine-parallel-processing|Full and delta instance scans]] -- The full and delta instance scan feature enables ServiceNow administrators and developers to initiate, monitor, and manage instance scans directly from the Scan Results list view.
+        - [[initiate-manage-scan-engine|Initiate and manage scans]] -- Use the Scan Results list view to initiate scans, monitor scan status, and manage scan execution using the Initiate Scan and Force Full Scan buttons.
+        - [[using-impact-scan-engine|Running on-demand scans]] -- You can initiate some scan types on-demand to run whenever they are required.
+          - [[initiating-on-demand-scans-scan-engine|Initiate application scans]] -- Scan applications to identify definition findings before publishing to the application repository. Application scans give insight into health scores, the number of findings, and the total impact of findings within your custom applications. 
+          - [[initiate-update-set-scans|Initiate update set scans]] -- You can scan open update sets for findings to get insights into what you are importing and exporting across your environments. 
+          - [[initiate-instance-scans|Initiate instance scans]] -- You can scan your ServiceNow instance for findings.
+          - [[initiate-limited-def-scans|Initiate limited definition scans]] -- You can scan individual definitions or suites of definitions on-demand.
+        - [[understanding-scan-blocking-override-behavior|Scan blocking and override behavior scenarios]] -- The Scan Engine blocks concurrent scans to protect instance performance. Understanding these rules helps you plan scan execution efficiently and how the system handles concurrent scan requests and when Force Full Scan override is necessary.
+      - [[start-automated-registration-IDI|Use automated registration to IDI]] -- The automated registration process simplifies the configuration process and connects your Impact Store Application with data from the Impact Delivery Instance.
+      - [[verify-impact-data-connection|Verify the connection]] -- During Impact Guided Setup automated registration, a status is provided to indicate a successful connection. Use the Verify the Connection step to track the progress.
+      - [[initiate-migration-idi|Initiate data migration]] -- After the connection is established between your Impact Store Application and the Impact Delivery Instance, next migrate your data.
+      - [[instance-integration-scan-engine|Scan Engine integrations]] -- Scan Engine integrates with other ServiceNow instances and external agile systems to synchronize definitions, manage exception reasons, create user stories, and enforce governance over app deployments.
+        - [[task-create-integration-user|Create an integration user account]] -- Create a dedicated integration user account and assign the required roles so that the Scan Engine can authenticate and communicate between your ServiceNow instances.
+        - [[register-your-instance|Register your instance]] -- Register each participating ServiceNow instance in the My SN Instances table before configuring any instance-to-instance integration.
+          - [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]] -- Set up OAuth authentication for instance-to-instance Scan Engine integrations using several stages, an integration user account, an OAuth2 configuration record, and provider and client application registries.
+            - [[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]] -- Export OAuth records from the development instance, import them into the production instance, correct Key Management Framework (KMF) credential encryption, and configure development-to-production authentication so that both instances can validate their connections to each other.
+          - [[configure-basic-auth-method|Configure the Basic authentication method]] -- Confirm an integration user, create a Basic authentication record, then connect your instances using basic authentication. Basic authentication is supported but OAuth is recommended for production environments.
+          - [[validate-instance-connection|Validate your instance connection]] -- Validate the connection between registered instances to confirm that authentication and My SN Instances configuration are correct before enabling integrations.
+          - [[recover-from-account-lockout|Recover from account lockout]] -- Unlock the integration user account and clear the password reset flag after repeated failed validation attempts trigger the account lockout policy.
+        - [[definitions-integrations|Definitions integration]] -- The Definitions integration synchronizes new, customized, and overridden definitions between non-production and production instances.
+          - [[sync-new-customized-overridden-defs|Sync definitions]] -- Enable definition synchronization and push new, customized, or overridden definitions from a development instance to production.
+        - [[exception-reason-integration|Exception reason integration]] -- You can synchronize exception reasons from non-production to Production instances once a record is created or updated.
+          - [[syncing-exception-reasons|Sync exception reasons]] -- Configure the Exception reason integration to automatically synchronize exception reasons between your non-production and production instances.
+        - [[user-story-integration-properties|User story integration]] -- The User story integration creates agile tasks and stories directly from Scan Engine finding records in ServiceNow, Jira, Azure DevOps, or any external system.
+          - [[configuring-sn-integration-options|Configure ServiceNow user story integration]] -- Configure the ServiceNow instance user story integration to create stories in a production instance directly from finding records on a non-production instance.
+            - [ServiceNow integration script leading practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-sn-integration-options.md) -- Configure the ServiceNow instance user story integration to create stories in a production instance directly from finding records on a non-production instance.
+          - [[configure-jira-integration-options|Configure Jira user story integration]] -- Configure the Jira user story integration to create work items in a Jira project directly from Scan Engine finding records.
+            - [Jira integration script leading practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-jira-integration-options.md) -- Configure the Jira user story integration to create work items in a Jira project directly from Scan Engine finding records.
+          - [[configure-azure-devops-integration-options|Configure Azure DevOps story integration]] -- Perform the following procedure to configure your Azure DevOps integration options.
+            - [Azure DevOps integration script leading practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-azure-devops-integration-options.md) -- Perform the following procedure to configure your Azure DevOps integration options.
+        - [[deployment-sync-integrations|Deployment and synchronization integrations]] -- The AES/AEMC and Update set integrations control how custom app deployments are governed and how scan results are synchronized across your instance stack.
+          - [[aes-aemc-integration-properties|Configure AES/AEMC integration properties]] -- Configure the AES/AEMC integration to enforce automated Scan Engine compliance checks on custom app deployment requests from App Engine Studio and ServiceNow Studio.
+          - [[update-set-integration|Configure update set integration]] -- Configure the update set integration to automatically synchronize update set scan results from developer instances to the production instance.
+        - [[configure-other-integration-options|Configure other integration options]] -- Configure the Other integration type to create work items in any external system using a custom payload script and basic authentication.
+          - [Other integration leading practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-other-integration-options.md) -- Configure the Other integration type to create work items in any external system using a custom payload script and basic authentication.
+      - [[hop-access-impact-squad|Grant temporary instance access to your Impact Squad]] -- Familiarize yourself with your ServiceNow Impact Squad, a dedicated team of experts ready to assist in tackling your team's unique transformation challenges. View or grant your Impact squad 30 day read-only access to your instance to support you with Impact features.
+    - [[activate-now-assist-skills-in-now-assist-for-impact|Activate Now Assist skills in Now Assist for Impact]] -- Activate a skill before you can use the generative AI capabilities for Now Assist for Impact.
+    - [[data-collection-toolkit|Enable data collection for Value Management]] -- The Impact [[impact-in-platform-business-outcomes|Value Management]] Data Collection apps are designed to simplify and optimize the value metrics data collection process using Performance Analytics (PA). These applications enable you to efficiently gather, track, and analyze critical success metrics, ensuring data-driven decision-making and improved visibility into key performance trends.
+      - [[dc-install-plugins|Install dependent plugins]] -- Install the dependent plugins for Impact Value Management Data Collection Content Pack apps
+      - [[dc-all-modify|Modifying the configuration]] -- You can make changes to the Data Collection configuration to align with your organization's needs.
+      - [[dc-all-upgrade|Upgrading the Data Collection Content Pack]] -- When you upgrade the Data Collection Content Pack, you must account for any customizations you've made.
+      - [[data-collection-apm|Impact Value Management Data Collection for APM]] -- Install and configure the Data Collection Content Pack for APM.
+        - [[dc-apm-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-apm-config|Configure the Data Collection Pack]] -- Configure Data Collection for APM.
+        - [[dc-apm-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for APM after you enable and configure it.
+        - [[dc-apm-installation-artifacts|Review APM artifacts]] -- The data collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+      - [[data-collection-app-engine|Impact Value Management Data Collection Content Pack for App Engine]] -- Install and configure the Data Collection Content Pack for App Engine.
+        - [[dc-app-eng-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-app-eng-config|Configure the Data Collection Pack]] -- Configure Data Collection for App Engine.
+        - [[dc-app-eng-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for App Eng after you enable and configure it.
+        - [[dc-app-engine-installation-artifacts|Review App Engine artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+      - [[data-collection-csm|Impact Value Management Data Collection Content Pack for CSM]] -- Install and configure the Data Collection Content Pack for CSM.
+        - [[dc-csm-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-csm-config|Configure the Data Collection Pack]] -- Configure Data Collection for CSM.
+        - [[dc-csm-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for CSM after you enable and configure it.
+        - [[dc-csm-install-artifacts|Review CSM artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+      - [[data-collection-sam|Impact Value Management Data Collection Content Pack for SAM]] -- Install and configure the Data Collection Content Pack for SAM.
+        - [[dc-sam-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-sam-config|Configure the Data Collection Pack]] -- Configure Data Collection for SAM.
+        - [[dc-sam-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for SAM after you enable and configure it.
+        - [[dc-sam-install-artifacts|Review SAM artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+      - [[data-collection-ham|Impact Value Management Data Collection Content Pack for HAM]] -- Install and configure the Data Collection Content Pack for HAM.
+        - [[dc-ham-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-ham-config|Configure the Data Collection Pack]] -- Configure Data Collection for HAM.
+        - [[dc-ham-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for HAM after you enable and configure it.
+        - [[dc-ham-install-artifacts|Review HAM artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+      - [[data-collection-itsm|Impact Value Management Data Collection Content Pack for ITSM]] -- Install and configure the Data Collection Content Pack for ITSM.
+        - [[dc-itsm-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must activate Data Collection jobs.
+        - [[dc-itsm-config|Configure the Data Collection Pack]] -- Configure Data Collection for ITSM.
+        - [[dc-itsm-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for ITSM after you enable and configure it.
+        - [[dc-itsm-install-artifacts|Review ITSM artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+      - [[data-collection-itom|Impact Value Management Data Collection Content Pack for ITOM]] -- Install and configure the Data Collection Content Pack for ITOM.
+        - [[dc-itom-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-itom-config|Configure the Data Collection Pack]] -- Configure Data Collection for ITOM.
+        - [[dc-itom-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for ITOM after you enable and configure it.
+        - [[dc-itom-install-artifacts|Review ITOM artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance Analytics application and includes artifact types.
+      - [[data-collection-hr|Impact Value Management Data Collection Content Pack for HR]] -- Install and configure the HR Data Collection Content Pack.
+        - [[dc-hr-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-hr-config|Configure the Data Collection Pack]] -- Configure Data Collection for HR.
+        - [[dc-hr-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for HR after you enable and configure it.
+        - [[dc-hr-install-artifacts|Review HR artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance Analytics application.
+      - [[data-collection-secops|Impact Value Management Data Collection Content Pack for SecOps]] -- Install and configure the Data Collection Content Pack for SecOps.
+        - [[dc-secops-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-secops-config|Configure the Data Collection Pack]] -- Configure Data Collection for SecOps.
+        - [[dc-secops-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for SecOps after you enable and configure it.
+        - [[dc-secops-install-artifacts|Review SecOps artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+      - [[data-collection-spm|Impact Value Management Data Collection Content Pack for SPM]] -- Install and configure the Data Collection Content Pack for SPM.
+        - [[dc-spm-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+          - [[dc-spm-install-artifacts|Review SPM artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+        - [[dc-spm-config|Configure the Data Collection Pack]] -- Configure Data Collection for SPM.
+        - [[dc-spm-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for SPM after you enable and configure it.
+      - [[data-collection-irm|Impact Value Management Data Collection Content Pack for IRM]] -- Install and configure the Data Collection Content Pack for IRM.
+        - [[dc-irm-install|Install the Data Collection Pack]] -- To enable the Data Collection Pack, you must install dependent plugins and activate Data Collection jobs.
+        - [[dc-irm-config|Configure the Data Collection Pack]] -- Configure Data Collection for IRM.
+        - [[dc-irm-activate|Activate the Data Collection Pack]] -- Activate the Data Collection Pack for IRM after you enable and configure it.
+        - [[dc-irm-install-artifacts|Review IRM artifacts]] -- The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
+    - [[value-blueprint|Configure Objectives and outcomes]] -- The value management lifecycle starts with the identification of your objectives and outcomes.
+  - [[impact-in-app|Using Impact]] -- Using Impact available directly through your ServiceNow instance and the Impact Delivery Instance offers a similar experience, but the user interface may vary.
+    - [[impact-in-platform-home|Navigating Impact]] -- Use Impact to obtain new and updated features quickly. Leverage the home page for a personalized value guidance to get relevant and immediate access to the right content, at the right time.
+    - [[using-recommendations-iip-ws|Use the recommendations list]] -- Use the recommendations full list to view the recommendations tailored for you. You can either accept or reject a recommendation based on your interest by selecting View Details.
+    - [[contextual-learning-recommendations|Outcomes based contextual learning recommendations]] -- Outcomes based contextual learning recommendations provide data-driven recommendations for your operational outcomes. This includes tailored trainings for your outcome results.
+    - [[platform-health-idi|Platform Health]] -- Use Impact Platform Health to track Tech Key Performance Indicators (KPIs) to show how closely you're aligned to ServiceNow technical leading practices, receive recommendations for improvement, and help you monitor your instance health.
+      - [[impact-healthscan-store-app|Diagnose technical debt]] -- Impact Platform Health uses the Impact Scan Engine to enable proactive management of instance quality, compliance, and performance. The Scan Engine is integrated with your Impact Store App to support platform health and adherence to leading practices.
+        - [[scan-engine-definitions|Scan Engine definitions]] -- The Scan Engine uses a large set of definitions to correct coding and workflow findings in real-time and perform scans across your entire instance to detect existing findings.
+          - [[scan-engine-definitions-security|Security]] -- Scan Engine security definitions measure implementation of protocols across a ServiceNow instance to prevent unauthorized access, data breaches, cyber attacks, and potential vulnerabilities.
+          - [[scan-engine-definitions-performance|Performance]] -- Scan Engine performance definitions measure the efficiency of a ServiceNow instance, encompassing aspects such as speed, responsiveness, resource utilization, and overall dependability.
+          - [[scan-engine-definitions-manageability|Manageability]] -- Scan Engine Manageability definitions measure the extent to which ServiceNow instances, applications, or infrastructure can be effectively monitored, configured, and maintained.
+          - [[scan-engine-definitions-upgradeability|Upgradeability]] -- Scan Engine upgradeability definitions assess the ease of enhancing a ServiceNow instance or application with new features, improvements, security patches, or compatibility adjustments.
+          - [[scan-engine-definitions-user-experience|User Experience]] -- Scan Engine user experience definitions evaluate the quality of user interactions with applications. Considers the ease of use, efficiency, design, responsiveness, accessibility, and its emotional and functional impact.
+        - [[view-modify-scan-engine-properties|Customize Scan Engine definitions]] -- You can modify an existing definition to further customize and refine its scanning criteria.
+          - [[create-scan-engine-definitions|Create custom definitions]] -- The Scan Engine contains preexisting base system definitions. However, if your organization has scanning requirements in addition to these definitions, you can create your own.
+          - [[create-scan-engine-definition-suites|Customize definition suites]] -- Follow these steps to create or modify Scan Engine definition suites.
+        - [[understand-scan-engine-results-findings|Resolve technical debt]] -- After a scan runs, you can monitor its progress in real-time, review the completed results, and then work with the findings it identifies to resolve issues in your instance.
+          - [[viewing-scan-results-scan-engine|View scan results for Scan Engine]] -- You can view scans in real-time as they run or after they're completed. 
+          - [[work-with-scan-engine-findings|Work with Scan Engine findings]] -- You can view and work with open findings resulting from scans.
+          - [[working-proposed-fixes-scan-engine|View and implement proposed fixes for Scan Engine]] -- Some definitions include proposed fixes for resolving them, which you can initiate automatically.
+        - [[creating-user-stories-tasks-scan-engine|Create user stories and tasks for Scan Engine]] -- You can generate user stories from open or resolved findings to facilitate the resolution of technical debt.
+        - [[working-policies-scan-engine|Create policies for Scan Engine]] -- Policies let you determine how specific definition findings appear on analytics dashboards; you can ignore them completely or place them in a prioritized view.
+      - [[impact-health-agent|Prevent and resolve technical debt]] -- Impact's Platform Health suite comes with Now Assist powered features designed to help customers proactively identify, prioritize, and resolve technical debt.
+        - [[real-time-prevention-monitoring-combined|Prevent technical debt with real-time code fixes]] -- Real-time prevention monitoring is a Scan Engine feature that actively monitors records as they are created or modified, displaying finding messages in real time when saving records in any instance where the Scan Engine is installed and activated.
+          - [[use-remediation-agent|Review and fix code in real-time]] -- Navigate the AI-Eligible Findings dashboard, generate an AI fix for an existing finding, review the code comparison, and apply the fix to your instance.
+          - [[configure-exception-reasons-scan-engine|Configure exception reasons to bypass findings]] -- Configure how exception reasons are enforced, approved, and re-evaluated when findings are detected using the ServiceNow Scan Engine.
+        - [[code-fix-ai-agent-scan-engine|Fix code in real-time with Now Assist]] -- Fix code in real-time with Now Assist allows developers to receive real-time, AI-driven recommendations within their workspace to identify and resolve code quality issues, enabling adherence to ServiceNow, Inc. leading practices and reducing technical debt proactively.
+          - [[configure-ai-code-fix-for-platform-health|Configure Fix code in real-time]] -- Follow these steps to configure Fix code in real-time for Impact Platform Health.
+          - [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]] -- For Recommend level findings, developers can submit exception requests if they think the issue should not be considered a finding.
+          - [[fix-code-with-the-ai-agent|Bulk Fix code in real-time with Now Assist]] -- As a ServiceNow developer, you can receive code fix suggestions when an error is detected.
+      - [[scan-engine-diagnostic-dashboards|Track Platform Health trends]] -- Analytics Dashboards provide a graphical way to view detailed information relating to findings, both pending and resolved, with the Scan Engine. The dashboards are role-based, allowing for persona-based views of information. They display  key metrics,  charts, and  trend analysis.
+        - [[access-analytics-dashboards|Accessing Analytics Dashboards]] -- Access the Analytics Dashboards to view detailed information relating to Scan Engine findings, both pending and resolved.
+        - [[scan-engine-executive-dashboard|Executive dashboard]] -- The Executive dashboard includes trend charts and the following overview modules.
+        - [[scan-engine-platform-owner-dashboard|Platform Owner dashboard]] -- The Platform Owner dashboard includes trend charts and the following overview modules.
+        - [[scan-engine-team-lead-dashboard|Team Lead dashboard]] -- The Team Lead dashboard includes trend charts and the following overview modules.
+        - [[scan-engine-development-team-dashboard|Developer dashboard]] -- The Developer dashboard includes trend charts and the following overview modules.
+      - [[developer-support|Debug instance customizations with Developer Support]] -- Developer Support is an offering to Advanced and Total Impact packages, and Guided customers who purchase managed support, that provides administrators and authorized users access to a ServiceNow Support Engineer who can assist in troubleshooting technical issues around existing platform customizations.
+        - [[developer-support-usage|Using Developer Support]] -- Learn more about using Developer Support and helpful information when submitting a developer request with Impact.
+        - [[create-developer-support-case|Create a Developer Support case]] -- Enter a support case to engage Developer Support assistance, if you are a named contact on the Impact plan.
+        - [[manage-developer-support-user-access|Manage Developer Support user access]] -- Add designated users to enter a support case for Developer Support. The named contacts are responsible for entering details about a specific issue.
+      - [[io-overview|Monitoring instance health with Instance Observer]] -- Instance Observer (IO) is an observability and performance monitoring tool that empowers you to track your instance health and performance in near real time, while also providing historical insights.
+        - [[user-configurable-dashboard|User configurable dashboard]] -- The All Instances Summary Dashboard is the home page that provides a snapshot of the overall health of your instances. You can create your own dashboard according to your preferences for metrics that help you to analyze the health of your system in a snapshot.
+          - [[customize-instance-observer-dashboard|Create a dashboard]] -- Create a dashboard that serves as a home page to assess the health of your instances at a glance.
+          - [[io-performance-insights|Performance insights in user-configurable dashboard]] -- The Performance insights widget in the user-configurable dashboard displays the total production instances, their count, and the status of their performance score in a dial component.
+        - [[instance-observer-performance|Performance]] -- Monitor all your instances 24x7 in one place with near real-time metrics and alerts on performance and availability in Instance Observer. Generate various charts of overview Instance Health and Performance Metrics and drill down into specific data points with recommended troubleshooting.​
+          - [[io-getting-started-perf-charts|Getting started with Performance charts]] -- Follow these steps to generate Performance charts using Instance Observer.
+          - [[anomalies-detection|Anomalies detection]] -- Instance Observer proactively detects the anomalies for cyclical or non-cyclical metrics under the performance chart for the Impact Total package on production instances. Anomalies represent metrics outliers based on historical patterns. Every anomaly may not represent an issue, but, notifies you and you decide the criticality and configure alerts, accordingly.
+            - [[configure-anomaly-alerts|Configure anomaly alerts]] -- Configure anomaly alerts based on metrics outliers on historical patterns in Instance Observer.
+            - [[anomaly-detection-algorithm|Anomaly detection algorithm]] -- Instance Observer is performing anomalies detection through the Z-score Statistical model, otherwise referred to as a univariate method.
+          - [[io-long-pending-job-alert-card|Analyze job details for long pending jobs]] -- Stay ahead of job delays by identifying and acting on jobs that breach predefined lateness thresholds. The Long Pending Jobs alert card tracks pending jobs by lateness duration, so you can act on the pending jobs before they affect the downstream workflows and miss the SLAs.
+        - [[io-availability|Availability]] -- The Availability section shows instance level availability on a geographic map and instance level ServiceNow generated alerts (limited alert types) since the past 7 days.
+          - [[cloud-availability|Cloud availability]] -- Check specific ServiceNow data center availability, service degradation, or for interruption.
+        - [[io-alerts-intro|Alerts in Instance Observer]] -- ServiceNow Instance Observer provides a comprehensive set of alerts designed to monitor platform health, performance, and user experience. These alerts are categorized for easy consumption and actionability.
+          - [[io-alerts|Key alerts – activation and notifications]] -- Use the Instance Observer Key Alerts Activation functionality for flexibility to set alerts with historical thresholds from four week increments specific to your business needs and configure who on your team receives notifications.
+            - [[configuring-io-alerts|Configure Key Alerts]] -- Follow these steps to configure Key Alerts on an instance where critical alerts have not yet been configured.
+            - [[generate-thresholds-io-alerts|Generate thresholds for key alerts]] -- For an instance where critical alerts have already been configured you can obtain improved thresholds to receive enhanced or minimal alerts.
+          - [[manage-io-alerts|Manage Instance Observer alerts]] -- Act on Instance Observer (IO) threshold alerts directly from the notification.
+          - [[io-app-monitor-alert-card|Set an alert to monitor the average response time of applications]] -- Set an alert to monitor the application performance when the average response time of applications that run on an instance exceeds the configured threshold.
+          - [[io-alerts-guided-cust|Track instance performance with the top six timely alerts – Guided users]] -- Use the Instance Observer alerting feature to receive notifications on the performance of your instance. Monitor the alerts that are system driven.
+          - [[io-alerts-popular-total-adv-cust|Use popular alerts to receive notifications – Advanced and Total users]] -- Get started with the popular alerts that are most widely used to receive notifications about your instance performance if you’re new to the Instance Observer (IO) alerting system. The most popular alerts appear on the first page of your Configure Alerts page.
+          - [[i-o-notifications|Instance Observer Notifications]] -- Notifications for alerts and other system activity are displayed on the Instance Observer banner.
+          - [[io-long-pending-jobs|Configure long pending jobs alert by job priority]] -- Get notifications when jobs that are pending exceed your defined overdue thresholds by configuring the Long Pending Jobs alert. Set up conditions by job priority to take action on groups of jobs—such as all discovery jobs or system cleanup jobs—in one go, rather than managing them individually.
+          - [[io-receive-notification-customer-conf-webhook|Configure IO alert notifications for a ServiceNow instance]] -- Set up a basic integration between Instance Observer (IO) and ServiceNow to route IO alert notifications to a ServiceNow instance.
+          - [[io-receive-notification-third-party|Configure IO alert notifications for a third-party application]] -- Set up a basic integration between Instance Observer (IO) and third-party integrations to route IO alert notifications to an external system in addition to emails and SMS.
+          - [[custom-payload-help-guide-impact|Custom payload in alerts integration]] -- Instance Observer integrations enable you to define and manage custom JSON request payload for ServiceNow and third-party integrations.
+        - [[generative-ai-root-cause-anal|Generative AI powered Root cause analysis]] -- Root cause analysis in Instance Observer provides automated detection and summarization of issues. It includes built-in root cause correlation and root cause summary using a large language model (LLM), which helps reduce troubleshooting time, improve incident transparency, and generative AI driven root cause recommendation by analyzing similar historical incidents.
+          - [[root-cause-correlation|Root cause correlation]] -- Root Cause Correlation (RCC) finds a root cause by automatically correlating metrics, logs, and event information for supported symptoms on production instances for the last 24 hours.
+          - [[configure-rcc-alerts|Configure Root cause correlation alerts]] -- Configure Root Cause Correlation (RCC) alerts to start receiving the Root Cause Analysis (RCA) reports for these alerts.
+          - [[utilizing-rcc-reports-perform-root-cause-analysis|Use the Root cause analysis history]] -- Check the Root cause analysis (RCA) History page to investigate the issues that caused an alert to trigger or performance to degrade to Critical or Warning.
+        - [[io-analytics|Analytics]] -- View comparisons for performance of key metrics over time with the Impact Total package.
+          - [[io-compare-datasets|Compare datasets in Instance Observer]] -- Compare performance metrics between two time periods to identify trends, anomalies, or changes in your ServiceNow instance behavior. This analysis helps you to know the impact of changes, troubleshoot issues, and understand performance patterns over time.
+          - [[user-experience-insights|User Experience]] -- Explore real-time user monitoring to analyze user experience and performance insights in Instance Observer​ telemetry into node, transaction type, URL, and user level breakdowns for Impact Total customers.
+          - [[manage-user-experience|Manage User Experience]] -- Explore in-depth transactions for a user or a node for a given period.
+          - [[monitor-apps-user-experience-io|Track the response time of applications to monitor their performance]] -- Track the response time of applications to gauge their performance. You can drill down to the transaction ID of each application to learn the slowest and fastest interactions in each instance.
+          - [[io-app-mon-perf-analy|Analyze user experience and monitor application performance in Instance Observer]] -- Get visibility into the operational metrics of applications and their performance. You can find out the number of applications per instance, the number of pages within each application, page-level response time, user interaction frequency with each application, and page access frequency by users within each application.
+        - [[io-triage-sn-instance|Triage a ServiceNow instance]] -- Perform a triage on a ServiceNow instance to gather point-in-time telemetry data for troubleshooting using Instance Observer. The triage feature gives a summary of ongoing operations at the time of its execution.
+          - [[io-triage|Triaged instance data]] -- You can triage your instance to get instant information on transactions, jobs, nodes utilization, semaphores, schedulers and update sets. Minimal use of this feature is recommended as use of this consumes resources on your instance.
+        - [[instance-observer-reporting|Instance performance telemetry reports]] -- Quickly generate reports to download and share with your business stakeholders, making  organizations faster, smarter, and better in their  instance performance management.
+        - [[io-help|Help]] -- Access release notes, how to videos, and more from the Instance Observer Help Center page.
+        - [[instance-observer-reference|Instance Observer reference]] -- Reference topics provide information about roles installed with the Impact Instance Observer application and the key metrics that are used to monitor infrastructure health, track application performance, measure latency to understand user experience, and use historical data for capacity planning.
+          - [[impact-observer-roles|Roles installed with Instance Observer]] -- Several types of components are installed with activation of the Impact plugin, including tables, user roles, and scheduled jobs that are used in Instance Observer.
+          - [[instance-observer-ovr-metric|Overview of Instance Observer metrics]] -- Instance Observer (IO) metrics are real-time and historical telemetry data points used to monitor, triage, and troubleshoot ServiceNow instance performance.
+            - [[i-o-reports|Instance Observer reports overview]] -- Reports in Instance Observer offer insights into the health of the instances, tracks database growth, and encryption status. The reports help you to analyze trends, and to schedule, download, and share these reports.
+            - [[addl-inf-io-anomaly|Anomaly insights]] -- The reference topic gives additional information for anomaly charts.
+            - [[io-feature-availability|Feature availability based on package]] -- The table outlines the access permissions for Performance Analytics features across production and sub production instances.
+            - [[auriga-intelligent-report|Auriga Intelligent Alert report]] -- Auriga Intelligent Alert is an advanced multivariate machine learning (ML) model that learns from historical issues on your instance to provide real-time insight. Auriga monitors your performance metrics to deliver notifications of noteworthy events or deviations from anticipated data patterns.
+            - [[io-core-performance-metrics|Transaction or response metrics]] -- The metrics provide a performance snapshot of classic UI transactions within the ServiceNow AI Platform.
+            - [[io-database-performance-metrics|Database performance metrics]] -- The metrics provide the database performance snapshot within the ServiceNow AI Platform.
+            - [[io-semaphores-performance-metrics|Semaphores performance metrics]] -- The metrics provide the key performance indicators calculated at the instance level for the selected duration.
+            - [[io-events-performance-metrics|Event queues performance metrics]] -- The metrics provide the event performance snapshot within the ServiceNow AI Platform.
+            - [[io-ecc-queue-perf-metrics|ECC Queue performance metrics]] -- The metrics provide the ECC Queue performance snapshot within the ServiceNow AI Platform.
+            - [[io-emails-performance-metrics|Email performance metrics]] -- The metrics provide the Email performance snapshot within the ServiceNow AI Platform.
+            - [[io-schedulers-perf-metrics|Scheduler performance metrics]] -- The metrics provide the Schedulers performance snapshot within the ServiceNow AI Platform.
+            - [[io-job-details-perf-metrics|Job details performance metrics]] -- The metrics provide the job details performance snapshot within the ServiceNow AI Platform.
+            - [[io-node-health-perf-metrics|Node health performance metrics]] -- The metrics provide the node health performance snapshot within the ServiceNow AI Platform.
+            - [[io-host-health-perf-metrics|Host health performance metrics]] -- The metrics provide the host health performance snapshot within the ServiceNow AI Platform.
+            - [[io-standby-replica-lag|Standby replication Lag]] -- A read replica is a copy of the primary DB that reflects changes to the primary in almost real time, in normal circumstances. The lag represents the database server of the instance that is behind in seconds.
+            - [[io-pool-replica-lag|Pool Replication Lag]] -- Pool replication lag is the number of seconds that a Standby database or a read replica database lags behind the primary database.
+            - [[io-chat-details|Chat details performance metrics]] -- For the operations team to get the insights of current load across main components of AWA channel infrastructure like queues and agents, and to monitor load during events of chat spikes.
+            - [[io-cluster-details|Cluster details performance metrics]] -- The metrics provide the cluster details and Encryption status snapshot within the ServiceNow AI Platform.
+            - [[io-load-balancer|Load balancer performance metrics]] -- The metrics provide the load balancer performance snapshot within the ServiceNow AI Platform.
+            - [[io-user-info-metrics|User information metrics]] -- The metrics provide the user information performance snapshot within the ServiceNow AI Platform.
+            - [[instance-observer-metrics|Instance Data Replication]] -- The Instance Data Replication (IDR) copies data updates from one instance, called the producer instance, to one or more other instances called the consumer instances.
+    - [Product Adoption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/product-adoption.md) -- View your capabilities, [[impact-par|product adoption roadmaps]], and [[subscriptions|subscriptions]] for your ServiceNow instance.
+      - [Product Adoption Roadmaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/impact-par.md) -- Product adoption roadmaps enable you to view a recommended implementation sequence for your capabilities. The implementation sequence is organized into specific phases for an optimal implementation.
+        - [Product adoption roadmaps in Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/create-and-publish-a-product-adoption-roadmap.md) -- Create a [[product-adoption|product Adoption]] Roadmap (PAR) with a single click by selecting the template that best supports your specific business outcome.
+        - [Product adoption roadmaps in Impact Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/create-product-adoption-roadmap.md) -- Create a product adoption roadmap (PAR) using either a predefined template or a custom roadmap.
+      - [Capabilities maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/capabilities-map.md) -- See the applications, or capabilities, at your disposal for achieving your objectives.
+        - [Manage capabilities maps in Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/manage-capabilities.md) -- Manage the usage status for capabilities and how they’re being used in your instance. The information in the capabilities status fields feeds the [[capabilities-map|capabilities maps]] summary bar.
+        - [Manage Capabilities Maps for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/manage-capability-maps.md) -- Explore and manage the usage status for the capabilities you are entitled to use.
+        - [Capability Details Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/capability-details.md) -- View the various details for a capability using the [[capability-details|Capability details page]].
+      - [Subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/subscriptions.md) -- See a list of your subscriptions for all of your instances and the list of applications that you’re entitled to, as part of those subscriptions, in one comprehensive view.
+      - [Training Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/training-insights.md) -- Impact [[training-insights|Training Insights]] provide a comprehensive view of organizational learning activities, with real-time data available whenever and wherever it's needed.
+    - [Initiatives and Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/impact-initiatives.md) -- Initiatives are the actionable engagements and work streams that support your digital transformation. Impact Accelerators are fixed-scope offerings with experts behind each option to provide value exactly where you need it.
+      - [Manage Initiative and Accelerator permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/grant-ide-permissions.md) -- Review and approve Initiative and Accelerator activities access using Manage Permissions.
+      - [View the Initiatives and Accelerators catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/catalog-of-accelerators-and-initiatives.md) -- Learn about available Accelerators and initiatives that you can request to help achieve your business outcomes for your instance.
+        - [Initiatives catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/initiatives-catalog.md) -- This is a complete catalog of Impact initiatives.
+          - [Access to Expertise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/access-expertise-initiative.md) -- The [[access-expertise-initiative|Access to Expertise]] Initiative connects Impact customers to ServiceNow subject matter experts via personalized virtual coaching sessions.
+            - [Request Access to Expertise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/access-expertise.md) -- Use the Access to Expertise Initiative to connect to ServiceNow subject matter experts via personalized virtual coaching sessions.
+          - [Get started with Developer Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/getting-started-developer-support.md) -- [[getting-started-developer-support|Get Started with Developer Support]] is an Impact Initiative that facilitates the understanding of the Developer Support offering and identification of named contacts for requesting Developer Support.
+          - [Preventive Care](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/preventive-care.md) -- [[preventive-care|Preventive Care]] is a premium, engineer-led diagnostic of instance performance executed on a regular cadence and available as an add-on package to all ServiceNow Impact customers.
+        - [Accelerator catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerator-catalog.md) -- This is a complete Impact [[accelerator-catalog|Accelerator catalog]] that combines the Architecture, Strategy, Technical, and Optimization sub-catalogs.
+          - [Accelerators-Australia Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/new-accelerators-australia-release.md) -- Provides a list of latest Impact accelerators available in the release Australia and the subsequent store release
+          - [Architecture Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/architecture-accelerators.md) -- [[architecture-accelerators|Architecture Accelerators]] provide a foundational understanding of business outcome maturity with targeted recommendations on what to tackle next to unlock further value from the platform.
+            - [Artificial Intelligence Readiness Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/artificial-intelligence-readiness-assessment.md) -- The Artificial Intelligence (AI) Readiness Assessment Accelerator provides an assessment and guidance related to your readiness for adoption of ServiceNow Generative AI capabilities (Now Assist).
+            - [Architecture Blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/architecture-blueprint.md) -- 
+              - [Architecture Blueprint – Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/architecture-blueprint.md) -- 
+              - [Architecture Blueprint – Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/architecture-blueprint.md) -- 
+            - [CSDM Data Modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/csdm-data-modeling.md) -- This accelerator provides a demonstration of the possibilities and capabilities of [[csdm-data-modeling|CSDM Data Modeling]].
+            - [CSDM Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/csdm-maturity-assessment.md) -- This accelerator provides insight into your current alignment to the Common Service Data Model (CSDM) within ServiceNow and related people, process and governance maturity, providing targeted recommendations on the next steps to unlock additional value from the platform.
+            - [Data Management and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/data-mgt-governance.md) -- This Accelerator provides insights and guidance to assess and improve your data management and data governance practices.
+            - [Design Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/design-review.md) -- These Accelerators provide an evaluation of current or proposed solution design.
+              - [Design Review- Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/design-review.md) -- These Accelerators provide an evaluation of current or proposed solution design.
+              - [Design Review- Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/design-review.md) -- These Accelerators provide an evaluation of current or proposed solution design.
+            - [Health Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/health-assessment.md) -- The [[health-assessment|Health Assessment]] Accelerators provide insights into your instance health.
+              - [Health Assessment – Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/health-assessment.md) -- The Health Assessment Accelerators provide insights into your instance health.
+              - [Health Assessment - Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/health-assessment.md) -- The Health Assessment Accelerators provide insights into your instance health.
+            - [Integration Strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/integration-strategy.md) -- Guidance on the integration process
+              - [Integration Strategy- Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/integration-strategy.md) -- Guidance on the integration process
+              - [Integration Strategy- Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/integration-strategy.md) -- Guidance on the integration process
+            - [Multi-instance Topologies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/multi-instance-topologies.md) -- This Accelerator provides education on drivers and topology alternatives to support multiple production instance implementations delivered within the context of a single-customer production implementation.
+            - [Release and Deployment Advisory for Pro-code Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/release-deployment-advisory-pro-code-development.md) -- The [[release-deployment-advisory-pro-code-development|Release and Deployment Advisory for Pro-code Development]] Accelerator provides guidance to assist pro-code developers in tools and techniques to release and deploy ServiceNow application configurations and customizations.
+            - [Technical Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/technical-governance.md) -- Guidance on [[technical-governance|technical governance]] management of the ServiceNow AI Platform
+            - [UX: Build a Foundation for Better Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-why-it-matters-how-to-apply-it.md) -- This accelerator takes examples directly from the Impact customer’s instance to develop their understanding of User Experience (UX) and demonstrate how investing in UX directly influences the success of their ServiceNow investment.
+            - [UX: Catalog Request Experience Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-accelerator-service-request-experience-review.md) -- This accelerator reviews the Impact customer’s Service Catalog, request forms  and form  design and identifies areas  of improvement.
+            - [UX: Design for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-design-employee-center.md) -- The UX (User Experience): Design for Employee Center Accelerator provides UX Design support and guidance to help customers get started with Employee Center design.
+            - [UX: Optimize Your Portal with Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-optimize-your-portal-with-usage-insights.md) -- This accelerator provides guidance to customers on how to measure, monitor and analyze user behavior with UX analytics to identify and prioritize portal improvements.
+            - [UX: Portal Experience Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-review-employee-center.md) -- This accelerator evaluates the UX of a customer’s ServiceNow portal, focusing on usability, design, and leading practices to enhance overall user experience and engagement.
+            - [UX: Taxonomy Design or Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux_review_unified_taxonomy.md) -- This Accelerator provides Impact customers with guidance to optimize the content structure and navigation of their portal, focusing on categorizing knowledge and catalog content to improve usability and make information easier to find.
+            - [UX: Virtual Agent Experience Design or Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ux-virtual-agent-experience-design-or-review.md) -- This accelerator provides guidance on designing or improving the conversational experience of Virtual Agent or Now Assist in Virtual Agent.
+          - [Optimization Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-accelerators.md) -- [[optimization-accelerators|Optimization Accelerators]] provide standardized user story design documentation and configuration capabilities to accelerate platform and product adoption in customer sub-production environments.
+            - [Optimization Capability Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-capability-configuration.md) -- This accelerator provides support in configuring capabilities and features to enhance platform health and drive ServiceNow product adoption.
+            - [Optimization Capability Design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-capability-design.md) -- This accelerator provides support in designing capabilities and features to enhance platform health and drive ServiceNow product adoption.
+          - [Strategy Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/strategy-accelerators.md) -- Use [[strategy-accelerators|Strategy Accelerators]] to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business performance and drive success.
+            - [Adopt AI Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/adopt-ai-governance.md) -- This accelerator guides customers through the process of establishing and managing an Artificial Intelligence Management System (AIMS).
+            - [Center of Excellence & Innovation Design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/CoEI-design.md) -- The Center of Excellence and Innovation Design (CoEI) Accelerator provides guidance on building your ServiceNow CoEI.
+            - [Center of Excellence and Innovation Maturity Assessment Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/coei-maturity-assessment-accelerator.md) -- This accelerator assesses your current ServiceNow  CoEI processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform
+            - [Champion Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/champion-engagement.md) -- The [[champion-engagement|Champion Engagement]] Accelerators provide insights into champion engagement.
+              - [Champion Engagement – Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/champion-engagement.md) -- The Champion Engagement Accelerators provide insights into champion engagement.
+              - [Champion Engagement – Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/champion-engagement.md) -- The Champion Engagement Accelerators provide insights into champion engagement.
+            - [Citizen Development Program Design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/citizen-development-accelerator.md) -- Provides prescriptive guidance on enabling Citizen Development for your ServiceNow platform.
+            - [CoEI Influencing Funding Strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/coei-influencing-factor-assessment-part-2.md) -- The Center of Excellence & Innovation (CoEI) Funding Strategy Accelerator advises Impact customers on how to identify and develop a strategic CoEI Funding approach.​
+            - [CSM - Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/csm-product-maturity-assessment.md) -- This accelerator assesses your current Customer Service Management (CSM) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform
+            - [Develop Partner Strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/develop-partner-strategy.md) -- The [[develop-partner-strategy|Develop Partner Strategy]] Accelerators provide guidance on finding and evaluating effective partners.
+              - [Develop Partner Strategy – Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/develop-partner-strategy.md) -- The Develop Partner Strategy Accelerators provide guidance on finding and evaluating effective partners.
+              - [Develop Partner Strategy – Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/develop-partner-strategy.md) -- The Develop Partner Strategy Accelerators provide guidance on finding and evaluating effective partners.
+            - [Foundations of AI Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/foundations-of-ai-governance.md) -- This accelerator provides foundational guidance on establishing and managing an Artificial Intelligence Management System (AIMS).
+            - [HRSD Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/hrsd-maturity-assessment.md) -- This accelerator assesses your current HR Service Delivery (HRSD) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform.
+            - [IRM Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/IRM-maturity-assessment.md) -- This accelerator assesses your current Integrated Risk Management (IRM) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform.
+            - [ITOM Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ITOM-maturity-assessment.md) -- This accelerator assesses your current IT Operations Management (ITOM) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform.
+            - [ITSM Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/itsm-maturity-assessment.md) -- Assesses your current IT Service Management (ITSM) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform.
+            - [LSD Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/lsd-maturity-assessment.md) -- This accelerator assesses your current Legal Service Delivery (LSD) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform
+            - [OCM: Preparing for Change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ocm-preparing-for-change.md) -- This accelerator provides Impact customers with structured coaching and proven frameworks to build change readiness and ensure successful user adoption ahead of go-live during ServiceNow transformations.
+            - [OCM: Managing Change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ocm-managing-change.md) -- This accelerator provides coaching to assess training needs, build enablement plans, close skill gaps, and activate champion networks — equipping users with the knowledge and ability to adopt ServiceNow.
+            - [OCM: Reinforcing and Sustaining Change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ocm-reinforcing-sustaining-change.md) -- This accelerator provides guided coaching to measure adoption, close post-go-live gaps, sustain behaviors through recognition and feedback loops, and build a long-term sustainment plan for your ServiceNow platform.
+            - [Portfolio Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/portfolio-governance.md) -- Guidance on building a strategic portfolio management process
+            - [PPM Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/ppm-maturity-assessment.md) -- This accelerator assesses your current Project Portfolio Management (PPM) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform.
+            - [ServiceNow Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/servicenow-governance.md) -- Guidance on building [[servicenow-governance|ServiceNow Governance]] boards and policies.
+              - [ServiceNow Governance – On Demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/servicenow-governance-on-demand.md) -- Assess your AI governance across six areas, identify and prioritize governance gaps, confirm focus areas, and build a 90-day action plan — all at your own pace.
+            - [SAM Maturity Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/sw-asset-mgmt-maturity-assessment.md) -- This accelerator assesses your current Software Asset Management (SAM) processes and functional maturity within ServiceNow, providing targeted recommendations on next steps to unlock additional value from the platform.
+            - [Staffing and Roles Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/staffing-and-roles-review.md) -- Insights into staffing and roles.
+              - [Staffing and Roles Review – Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/staffing-and-roles-review-advanced.md) -- Guidance on effective role alignment
+              - [Staffing and Roles Review – Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/staffing-and-roles-review-total.md) -- Guidance on effective role alignment
+              - [Staffing and Roles Review-On Demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/staffing-and-roles-review-on-demand.md) -- This accelerator provides Impact customers with a guided, self-service experience to assess their ServiceNow platform staffing model, identify capability gaps, and build a prioritized action plan to strengthen their team.
+            - [Stakeholder Path to Value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/stakeholder-path-to-value.md) -- The [[stakeholder-path-to-value|Stakeholder Path to Value]] Accelerator helps Impact customers accelerate the value creation through Stakeholder alignment.
+            - [Strategy Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/strategy-governance.md) -- Guidance on aligning ServiceNow strategic roadmap to business outcomes
+            - [Success Readiness Assessment (SRA)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/success-readiness-assessment.md) -- This accelerator measures readiness and platform maturity of your ServiceNow platform.
+            - [Vision and Strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/vision-and-strategy.md) -- Insights into [[vision-and-strategy|vision and strategy]].
+              - [Vision and Strategy – Advanced](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/vision-and-strategy.md) -- Insights into vision and strategy.
+              - [Vision and Strategy – Total](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/vision-and-strategy.md) -- Insights into vision and strategy.
+          - [Technical Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/technical-accelerators.md) -- Accelerate usage and adoption of specific platform and product capabilities via applied demonstrations, personalized coaching, and best practices with [[technical-accelerators|Technical Accelerators]].
+            - [Access to Experts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/access-experts-acc.md) -- The [[access-experts-acc|Access to Experts]] Accelerator connects Impact customers to ServiceNow subject matter experts via personalized virtual coaching sessions.
+            - [Extend Your AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/extend-your-ai-search.md) -- This accelerator provides prescriptive guidance on extending your AI Search beyond the foundational level.
+            - [Extend Your Employee Center to Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/extend-employee-center-pro.md) -- The [[extend-employee-center-pro|Extend Your Employee Center to Pro]] Accelerator provides prescriptive guidance on extending the Employee Center capabilities to include Pro features.
+            - [Health Assessment – Guided](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/health-assessment-guided.md) -- The Health Assessment-Guided Accelerator provides an insight into your ServiceNow instance health.
+            - [Introduction to CMDB: Ingestion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/introduction-to-cmdb-ingestion.md) -- This accelerator provides a demonstration of the possibilities and capabilities of automating and standardizing CMDB data entry.
+            - [Introduction to Instance Observer-Guided](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/intro-instance-observer.md) -- The Introduction to Instance Observer Accelerator provides guidance on understanding and monitoring performance using Instance Observer.
+            - [Introduction to Instance Readiness Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/introduction-instance-readiness-assessment.md) -- The [[introduction-instance-readiness-assessment|Introduction to Instance Readiness Assessment]] Accelerator provides guidance on understanding and interpreting instance readiness using the Instance Readiness Assessment (IRA).
+            - [Introduction to ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/introduction-to-servicenow-vault.md) -- This accelerator provides an overview of the possibilities and capabilities of ServiceNow Vault.
+            - [Jumpstart your AI Control Tower: Foundations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-ai-control-tower.md) -- [[jumpstart-your-ai-control-tower|Jumpstart your AI Control Tower]]: Foundations provides a demonstration of the possibilities and capabilities of ServiceNow’s AI Control Tower.
+            - [Jumpstart Your AI Control Tower: AI Lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-ai-control-tower-ai-lifecycle.md) -- This accelerator provides guided coaching and an applied demonstration to help customers better understand their organization's AI governance.
+            - [Jumpstart Your AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-ai-data-explorer.md) -- This accelerator helps customers get started with ServiceNow's AI Data Explorer through coaching, applied demonstrations, and leading practices, for faster, confident data-driven decisions.
+            - [Jumpstart Your AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-ai-search.md) -- This Accelerator provides guidance on enabling and configuring AI Search.
+            - [Jumpstart Your AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-ai-agent-studio.md) -- This accelerator provides Impact customers with an overview and applied demonstration of AI agents within the Platform.
+            - [Jumpstart Your AI Agents for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-ai-agents-csm.md) -- This Accelerator provides a demonstration of the possibilities and capabilities of AI Agents for CSM.
+            - [Jumpstart Your AI Agents for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-ai-agents-for-itsm.md) -- This accelerator provides a demonstration of the possibilities and capabilities of AI Agents for ITSM.
+            - [Jumpstart Your App Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-app-engine.md) -- Prescriptive guidance on enabling Citizen Development and utilizing App Engine Studio
+            - [Jumpstart Your Automated Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-automated-testing.md) -- Prescriptive guidance on enabling and utilizing Automated Test Framework
+            - [Jumpstart Your CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-cmdb.md) -- The Jumpstart Your Configuration Management Database (CMDB) Accelerator provides a demonstration of the possibilities and capabilities of CMDB.
+            - [Jumpstart Your CSDM: Crawl](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-CSDM-crawl.md) -- This accelerator provides an overview of the Crawl phase of the CSDM maturity journey, brief assessment of current Crawl data, and actionable steps to complete the phase.
+            - [Jumpstart Your CSDM: Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-csdm.md) -- The Jumpstart Your Common Service Data Model (CSDM): Foundation Accelerator provides an overview and breakdown of the CSDM with a focus on Foundation data.
+            - [Jumpstart Your CSDM for Service Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-csdm-for-service-operations.md) -- This accelerator provides a demonstration of the possibilities and capabilities of the Common Service Data Model (CSDM) for Service Operations.
+            - [Jumpstart Your CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/csm-configurable-workspace.md) -- The Jumpstart Your Customer Service Management (CSM) Configurable Workspace Accelerator provides a demonstration of the possibilities and capabilities of the CSM Configurable Workspace.
+            - [Jumpstart Your Database Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/data-management.md) -- The [[data-management|Jumpstart Your Database Management]] Accelerator provides a demonstration of the possibilities and capabilities of Database Management.
+            - [Jumpstart Your Data Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-data-privacy.md) -- This accelerator delivers a practical [[introduction-to-servicenow-vault|introduction to ServiceNow Vault]]’s Data Privacy capabilities, enabling platform owners and security administrators to discover, classify, and anonymize sensitive data to support compliance, security, and trust.
+            - [Jumpstart Your Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-digital-product-release.md) -- This accelerator provides a demonstration of the possibilities and capabilities of ServiceNow's Digital Product Release.
+            - [Jumpstart Your Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-employee-center.md) -- This accelerator includes a demonstration of the possibilities and capabilities available with the ServiceNow Employee Center portal in your instance.
+            - [Jumpstart Your Employee Journey Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-employee-journey-management.md) -- The [[jumpstart-employee-journey-management|Jumpstart Your Employee Journey Management]] (EJM) Accelerator provides a demonstration of the possibilities and capabilities of Employee Journey Management.
+            - [Jumpstart Your Enterprise Architecture Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-enterprise-architecture-workspace.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Enterprise Architecture Workspace.
+            - [Jumpstart Your Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-event-mgmt.md) -- The [[jumpstart-event-mgmt|Jumpstart Your Event Management]] Accelerator provides a demonstration of the possibilities and capabilities of Event Management.
+            - [Jumpstart Your External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-external-content-connectors.md) -- This accelerator provides a demonstration of the possibilities and capabilities of External Content Connectors (XCC).
+            - [Jumpstart Your GenAI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-gen-ai.md) -- This Accelerator provides a demonstration of the capabilities of ServiceNow GenAI(Now Assist).
+            - [Jumpstart Your HR Case and Knowledge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-hr-case-knowledge.md) -- This accelerator provides a demonstration of the possibilities and capabilities of HR Case and Knowledge.
+            - [Jumpstart Your Issue Auto Resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-issue-auto-resolution.md) -- The [[jumpstart-issue-auto-resolution|Jumpstart Your Issue Auto Resolution]] (IAR) Accelerator provides a demonstration of the possibilities and capabilities of Issue Auto Resolution within your ServiceNow platform.
+            - [Jumpstart Your Impact Platform Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-impact-platform-health.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Impact Platform Health.
+            - [Jumpstart Your Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-integration-hub.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Integration Hub, a part of Workflow Data Fabric.
+            - [Jumpstart Your ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-itom-discovery.md) -- This accelerator provides foundational guidance for a successful IT Operations Management (ITOM) Discovery implementation, along with a demonstration of its possibilities and capabilities.
+            - [Jumpstart Your Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-knowledge-management.md) -- The [[jumpstart-knowledge-management|Jumpstart Your Knowledge Management]] Accelerator provides a demonstration of the possibilities and capabilities of Knowledge Management.
+            - [Jumpstart Your Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-major-incident-management.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Major Incident Management.
+            - [Jumpstart Your Migration of Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-migration-platform-analytics.md) -- The [[jumpstart-migration-platform-analytics|Jumpstart Your Migration of Platform Analytics]] Accelerator provides a demonstration of how to successfully prepare and migrate your Platform Analytics content.
+            - [Jumpstart Your Modern Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-modern-change-management.md) -- This accelerator provides a demonstration of the possibilities and capabilities of the modernized change management approach.
+            - [Jumpstart Your Multi-lingual Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-multi-lingual-virtual-agent.md) -- This Accelerator provides a demonstration of the possibilities and capabilities of Dynamic Translation.
+            - [Jumpstart Your Natural Language Understanding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-NLU.md) -- The [[jumpstart-NLU|Jumpstart Your Natural Language Understanding]] (NLU) Accelerator provides a demonstration of the possibilities and capabilities of Natural Language Understanding.
+            - [Jumpstart Your Now Assist for Creator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-now-assist-creator.md) -- The [[jumpstart-now-assist-creator|Jumpstart Your Now Assist for Creator]] Accelerator provides a demonstration of the possibilities and capabilities of Now Assist for Creator.
+            - [Jumpstart Your Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-now-assist-document-intelligence.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Now Assist in Document Intelligence.
+            - [Jumpstart Your Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-now-assist-virtual-agent.md) -- The [[jumpstart-now-assist-virtual-agent|Jumpstart Your Now Assist in Virtual Agent]] (VA) Accelerator provides a demonstration of the possibilities and capabilities of Now Assist in Virtual Agent.
+            - [Jumpstart Your Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-now-assist-skill-kit.md) -- This Accelerator provides a demonstration of the possibilities and capabilities of Now Assist Skill Kit.
+            - [Jumpstart Your Now Mobile for Employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-now-mobile-for-employees.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Now Mobile for Employees.
+            - [Jumpstart Your Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-platform-analytics.md) -- The [[jumpstart-platform-analytics|Jumpstart Your Platform Analytics]] Accelerator provides a demonstration of the possibilities and capabilities of Platform Analytics.
+            - [Jumpstart Your Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-predictive-intelligence.md) -- The [[jumpstart-predictive-intelligence|Jumpstart Your Predictive Intelligence]] (PI) Accelerator provides a demonstration of the possibilities and capabilities of Predictive Intelligence and the clustering framework.
+            - [Jumpstart Your Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-process-mining.md) -- [[jumpstart-process-mining|Jumpstart Your Process Mining]] Accelerator provides a demonstration of the possibilities and capabilities of Process Mining.
+            - [Jumpstart Your Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-service-mapping.md) -- The [[jumpstart-service-mapping|Jumpstart Your Service Mapping]] Accelerator provides a demonstration of the possibilities and capabilities of Service Mapping.
+            - [Jumpstart Your Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-software-asset-management.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Software Asset Management.
+            - [Jumpstart Your ServiceNow AI Journey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-snow-ai-journey.md) -- This Accelerator provides guidance on how to achieve your organization's goals and objectives with ServiceNow's AI capabilities.
+            - [Jumpstart Your Strategic Portfolio Management - Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-spm-collaborative-work-management.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Collaborative Work Management (CWM) with Strategic Portfolio Management (SPM).
+            - [Jumpstart Your Strategic Portfolio Management - Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-SPM-project-workspace.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Project Workspaces within Strategic Portfolio Management (SPM).
+            - [Jumpstart Your Strategic Portfolio Management – Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-spm-planning-workspace.md) -- The [[jumpstart-spm-planning-workspace|Jumpstart Your Strategic Portfolio Management – Planning Workspace]] Accelerator provides a demonstration of the possibilities and capabilities of Planning Workspaces within Strategic Portfolio Management (SPM).
+            - [Jumpstart Your Strategic Portfolio Management – Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-strategic-portfolio-management-resource-management-workspace.md) -- The Jumpstart Your Strategic Portfolio Management (SPM) – Resource Management Workspace Accelerator provides a demonstration of the possibilities and capabilities of Resource Management Workspaces within SPM.
+            - [Jumpstart your Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-service-operations-workspace.md) -- This Accelerator provides a demonstration of the possibilities and capabilities of Service Operations Workspace.
+            - [Jumpstart Your Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/Jumpstart-your-subscription-management.md) -- This accelerator provides a demonstration on how to efficiently manage your ServiceNow subscriptions in the Subscription Management Application.
+            - [Jumpstart Your Success Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-success-dashboard.md) -- Demonstration of what is possible with the Success Dashboard using your data via a temporary instance.
+            - [Jumpstart Your Task Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-task-intelligence.md) -- The [[jumpstart-task-intelligence|Jumpstart Your Task Intelligence]] Accelerator provides a demonstration of the possibilities and capabilities of Task Intelligence.
+            - [Jumpstart Your Upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-upgrade.md) -- Guidance on upgrade planning and preparation
+            - [Jumpstart Your Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-virtual-agent.md) -- This accelerator provides guidance on realizing benefits with the ITSM Virtual Agent.
+            - [Jumpstart Your Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-walkup-experience.md) -- This accelerator provides a demonstration of the possibilities and capabilities of ServiceNow’s Walk-Up Experience.
+            - [Jumpstart Your Workflow Automation: Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-your-workflow-automation-playbooks.md) -- This accelerator provides a demonstration of the possibilities and capabilities of Playbooks in Workflow Studio.
+            - [Jumpstart Your Workflow Automation: Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-legacy-workflow-migration.md) -- This accelerator provides an overview and applied demonstration of Flows in Workflow Studio, covering triggers, actions, sub-flows, and low-code automation capabilities.
+            - [TuneUp Your AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-ai-search.md) -- This accelerator provides guidance on fine-tuning artificial intelligent (AI) Search to optimize performance and value.
+            - [TuneUp Your Configuration Management Database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-your-cmdb.md) -- The [[tuneup-your-cmdb|TuneUp Your Configuration Management Database]] (CMDB) Accelerator provides insight and guidance to improve CMDB health.
+            - [TuneUp Your Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-employee-center.md) -- The [[tuneup-employee-center|TuneUp Your Employee Center]] Accelerator provides guidance on maintaining and governing your ServiceNow Employee Center health to optimize value.
+            - [TuneUp Your Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-hw-asset-management.md) -- The [[tuneup-hw-asset-management|TuneUp Your Hardware Asset Management]] (HAM) Accelerator provides guidance on maintaining and governing Hardware Asset Management health to optimize value.
+            - [TuneUp Your IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-your-it-asset-management.md) -- Provides prescriptive guidance to improve IT Asset Management (ITAM) health.
+            - [TuneUp Your ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-itom-discovery.md) -- Provides insight and guidance to improve the health of your Configuration Management Database (CMDB) through IT Operations Management (ITOM) Discovery.
+            - [TuneUp Your Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-now-assist-virtual-agent.md) -- This accelerator provides prescriptive guidance on fine-tuning your Now Assist in Virtual Agent.
+            - [TuneUp Your Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-platform-analytics.md) -- The [[tuneup-platform-analytics|TuneUp Your Platform Analytics]] Accelerator provides guidance on maintaining and governing Platform Analytics health to optimize value.
+            - [TuneUp Your Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-your-security.md) -- Guidance on platform security
+            - [TuneUp Your Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-sw-asset-mgmt.md) -- The [[tuneup-sw-asset-mgmt|TuneUp Your Software Asset Management]] (SAM) Accelerator provides guidance on maintaining and governing Software Asset Management health to optimize value.
+            - [TuneUp Your Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-your-virtual-agent.md) -- The [[tuneup-your-virtual-agent|TuneUp Your Virtual Agent]] Accelerators provide guidance for various aspects of Virtual Agent on your ServiceNow platform.
+              - [Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-assessment.md) -- The [[tuneup-virtual-agent-assessment|TuneUp Your Virtual Agent - Assessment]] Accelerator provides guidance on fine-tuning Virtual Agent setup to optimize value.
+              - [NLU (Natural Language Understanding)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-nlu.md) -- TuneUp Your Virtual Agent – NLU (Natural Language Understanding) Accelerator provides guidance on fine-tuning NLU models to optimize value.
+              - [Performance Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-performance-monitoring.md) -- The [[tuneup-virtual-agent-performance-monitoring|TuneUp Your Virtual Agent – Performance Monitoring]] Accelerator provides guidance on fine-tuning Virtual Agent performance to optimize value.
+      - [On-demand accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/on-demand-accelerators.md) -- Customers can complete the full accelerator fulfillment process independently, without requiring squad assistance.
+        - [Start an on-demand accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/start-ondemand-accelerator.md) -- Complete the accelerator fulfillment process without squad assistance.
+      - [Accelerator request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerator-request.md) -- Depending on the Impact package that you are subscribed to, you can request and consume a designated number of concurrent Impact Accelerators.
+        - [Request an Accelerator from IDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/request-accelerator.md) -- Depending on the Impact package that you are subscribed to, you can request and consume a designated number of concurrent Impact Accelerators, from the IDI.
+        - [Request Accelerators and Initiatives from Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/accelerators.md) -- From Impact Store application, request a designated number of concurrent Impact Accelerators according to your subscription and complete the setup.
+    - [Value management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/value-library/impact-in-platform-business-outcomes.md) -- The value management constitutes a continuous loop of the end-to-end process of managing the value lifecycle, inclusive of envisioning value, creating value, ongoing management, optimization, and validation of value realized with the Impact store app.
+      - [Gen AI based outcome summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/value-library/gen-ai-based-outcome-summarizatio.md) -- View a concise summary of your operational outcomes in the Impact store application. This summary could include positive or negative outcomes trends, adoption of recommended applications, and consumption of related accelerators.
+      - [Value Reports in Impact Delivery Instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/value-library/value-reports-in-impact-delivery-instance.md) -- Your impact squad can work with you to calculate the operational or monetized value you have realized with ServiceNow in a Value Report.
+        - [Value calculation for Impact Value Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/value-library/value-calculation-for-impact-value-reports.md) -- You can use value calculation for measurable business impact and track value using metrics.
+    - [[ide-consumption-report|Consumption Report]] -- The Consumption Report provides an overview of your Impact tier features and their usage.
+    - [[gen-ai-based-consumption-report-summarization|Gen AI based consumption report summarization]] -- View a concise summary of the consumption report in the Impact store application including adoption of recommended applications, active Now Support cases with response times, and usage of developer support and instance observer seats.
+    - [[impact-conversations_store|Impact Conversations]] -- Help Impact customers and squads to collaborate in the context of outcomes, accelerators, initiatives, platform health and other Impact entities.
+      - [[start-conversation-store|Start a conversation]] -- You can start a message thread with the Impact Experts.
+      - [[working-with-conversations|Working with Conversations]] -- Learn how to use the various features available in conversations.
+    - [[creating-work-items-using-recommendations-and-initiatives|Work items]] -- Create a Strategic Portfolio Management (SPM) or Collaborative Work Management (CWM) work item using recommendations and initiatives for faster execution and actionable goals.
+      - [[convert-spm-entity-impact-entity-recommendations|Manage with recommendations]] -- Convert an Impact entity to an SPM entity either from the Impact home page or from the Recommendations list. Creating an Impact entity and associating the SPM record details help you to avoid manual intervention in converting the entities from Impact to SPM portals, and thereafter any duplication of entities in the process.
+      - [[create-spm-work-item-impact-entity|Manage from initiatives]] -- Use the SPM work item record link within the Impact entity to view its details, after Impact entity is successfully converted to an SPM work item.
+      - [[manage-work-items-from-a-product-adoption-roadmap-in-the-impact-store-app|Manage from a capability]] -- Convert a capability linked to a product adoption roadmap to an SPM entity either from the Impact home page or from the Product Adoption Roadmaps.
+      - [[recommendation-details-page-in-impact-store|Manage Recommendation details]] -- Use the recommendations details page to view the details for a recommendation and to manage the work items created using the SPM and Collaborative Work Management (CWM) recommendation.
+  - [[impact-reference|Impact reference]] -- Several types of components are installed with activation of the Impact plugin, including tables, user roles, and scheduled jobs.
+    - [[use_manual_registration_configure_impact_store_application|Use manual registration to configure the Impact Store Application]] -- Manual registration is generally used by advanced users or to obtain configuration support from your Impact Squad. Regulated and GCC customers are also required to use manual registration.
+      - [[initiate-the-connection-impact-delivery-instance|Initiate the data connection]] -- Establish a connection between your Impact Store Application and the Impact Delivery Instance to allow the exchange of data.
+      - [[connect-instance-impact-store-app|Manually connect Impact data]] -- The named contact administrator will establish a secure connection to the Impact Delivery Instance (provider instance) to transmit data with the Impact Store Application.
+    - [[service-bridge-overview|Secure data transfer using Service Bridge]] -- Data transfer between the Impact Delivery Instance and Impact Store Application is facilitated via Service Bridge.
+    - [[impact-roles|Roles installed with Impact]] -- Impact offers many roles to assign to fit your business needs. When you log in to Impact, you’ll see a personalized view of your objectives, metrics, and recommendations tied directly to your role.
+    - [[data-sync-idi-store|Dependent applications]] -- Following is a comprehensive overview of the dependent apps that are included with the installation of the Impact Store Application Each section delineates the features that activate event-based synchronization within the various product capabilities.
+    - [[table-field-level-mapping|Table and field level mapping]] -- Following is information on the data that is synchronized between the Impact Delivery Instance and the Impact Store Application.
+      - [[value-management-mapping|Value Management tables]] -- Following are the tables that are synced with your business objectives, business outcomes, and value management metrics.
+      - [[product-adoption-roadmap-capabilities-map-mapping|Product Adoption Roadmap and Capabilities Map tables]] -- Following are the tables that are synced with your entitled capabilities, the usage status of your capabilities, and any changes made to your Product Adoption Roadmaps.
+      - [[recommendations-mapping|Recommendations tables]] -- Following are the tables that are synced with recommendations and information that will inform future recommendations (for example, recommendations you’ve used, or recommendations you’ve liked or disliked).
+      - [[accelerators-mapping|Accelerators tables]] -- Following are the tables that are synced with anything related to requesting or receiving an Accelerator (requests, status, start date, target completion date, attachments, notes, etc.).
+      - [[working-with-squad-mapping|Working with your Squad tables]] -- Following is the information that is synced: who’s on your Impact Squad, your Squad’s contact information, the status of your Impact Foundations activities, and records of your consent (for example, for Accelerators that require you to accept additional terms and conditions).
+    - [[impact-store-app-storage-estimation|Impact Store Application storage estimation]] -- The Impact store app stores data within your ServiceNow instance and contributes to your instance's overall storage footprint. Storage usage varies depending on whether your instance is connected to the Impact Delivery Instance and on the level of collaboration activity.
+    - [[impact-domain-separation|Domain Separation in Impact]] -- Domain separation is unsupported for Impact. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+    - [[proactive-code-check|Proactive Code Check]] -- Developers scan update sets for leading practice violations in non-production instances before promoting to production and Platform Owners gain insight into technical debt and stability of both non-production and production instances, resulting in improved code quality, reduced errors, and compliance verification.
+      - [[install-proactive-code-check|Use Proactive Code Check]] -- Developers can identify issues and prevent defects before they are deployed to production.
+      - [[review-address-proactive-code-check-findings|Analytics]] -- Platform Owners use Proactive Code Check to track compliance against coding best practices and organizational standards. Owners can review detailed findings and audit the status of issues that were uncovered during the scan. Historical data is available up to six months.
+      - [[proactive-code-check-scan-suite|Scan suite matrix]] -- Refer to the Proactive Code Check (PCC) scan suite matrix for details on the checks performed during a PCC scan.
+    - [Activity Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/impact-activity-center.md) -- The [[impact-activity-center|Activity Center]] provides a comprehensive view of all the activities supporting your day to day journey with Impact.
+      - [Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/conversations.md) -- Scan all conversations you are included in. Start a conversation any time to ask a question or get advice from your Impact squad.
+        - [Create and manage conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/create-manage-conversations.md) -- Create new Impact conversations or manage existing conversations.
+      - [Activity Center All Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/recommendations-value-journey.md) -- View AI driven and expert suggested recommendations for training, content, and experts-on-demand offerings.
+    - [[impact-features|Benefits & Usage]] -- Impact Benefits & Usage allows you to quickly access and review the powerful tools available in your Impact subscription.
+    - [[group-views|Group Views]] -- Impact enables multiple stakeholder groups within your organization to lead their own digital transformation.
+    - [[impact-delivery-instance-reference|Impact Delivery Instance reference]] -- The Impact Delivery Instance is the service provider for the Impact Store Application.
+      - [[configuring-impact-idi|Configure the Impact Delivery Instance]] -- The Impact Delivery Instance is delivered to you with minimal technical configuration required. Many of the setup steps involve planning within your organization and with your Impact Squad.
+        - [[ide-user-management|Manage Impact Delivery Instance users]] -- Impact admins can create, view, and manage their users with Impact User Management.
+          - [[edit-impact-user|Edit a role for an Impact user in the Impact Delivery Instance]] -- Update a role for an Impact user role after the initial assignment in the Impact Delivery Instance.
+          - [[remove-impact-user-permissions|Remove Impact user permissions in the Impact Delivery Instance]] -- Remove permissions that you've assigned to an Impact user if that user should no longer have access to the Impact Delivery Instance.
+      - [[healthscan|HealthScan]] -- ServiceNow HealthScan is a diagnostic tool for the Impact Delivery Instance that helps you understand the current health of your instance, identify potential issues and setbacks, and take quick corrective action.​
+        - [[impact-tech-kpis|HealthScan tech KPIs]] -- Tech Key Performance Indicators(KPIs) show how closely you're aligned to ServiceNow technical leading practices, offer recommendations for improvement, and help you monitor your instance health.
+          - [[health-assessment-dashboard|Health Assessment Dashboard]] -- View detailed Health Assessment results closer collaboration with the Impact squad to prioritize, review, and address best practice platform health findings.​
+            - [[manage-health-assessment-dashboard|Manage Health Assessment Dashboard]] -- Address platform health findings from the Health Assessment Dashboard.
+          - [[monthly-health-assessment|Monthly Health Assessment]] -- The Monthly Health Assessment feature provides Impact Guided customers with a self-service capability that automates Health Assessment scans and reports to provide details that can help you to improve the health of your ServiceNow platform implementation.
+            - [[schedule-monthly-health-assessment-scans|Schedule Monthly Health Assessment scans]] -- Automate monthly Health Assessment scans and reports to help improve the health of your ServiceNow platform implementation.
+          - [[healthscan-definitions|HealthScan definitions]] -- Some HealthScan definitions are deprecated or updated between releases.
+            - [[healthscan-definitions-may-store|Healthscan definitions updates: May 2025 store]] -- Some HealthScan definitions are deprecated or updated between releases.
+            - [[healthscan-definitions-aug-store|August 2024 release updates]] -- Some HealthScan definitions are deprecated or updated between releases.
+            - [[healthscan-definitions-nov-store|November 2024 release updates]] -- Some HealthScan definitions are deprecated or updated between releases.
+            - [[healthscan-definitions-oct-hotfix|October 2024 hotfix updates]] -- Some HealthScan definitions are deprecated or updated between releases.
+  - [[additional-resources-impact|Additional resources for Impact]] -- If you’re looking for Impact leading practices, troubleshooting, or other informational guidelines, select a feature or resource type to discover additional ServiceNow resources.
+
+## Related
+
+- [[impact-landing-page|Impact]]
+- [[impact-program-features|Exploring Impact]]
+- [[impact-operating-model|Impact operating model]]
+- [[impact-packages1|Impact Packages]]
+- [[impact-squad|Impact Squad]]
+- [[foundations|Impact Foundations]]
+- [[getting-started-with-impact|Getting Started with Impact]]
+- [[customer-impact-plan|Customer Impact Plan]]
+- [[impact-steady-state|Impact Steady State]]
+- [[configuring-impact|Configuring Impact]]
+- [[configuring-impact-platform|Configure the Impact Store Application]]
+- [[install-impact-innovation-lab|Install Impact]]
+- [[guided-setup-impact-in-app|Run Impact Guided Setup]]
+- [[onboard_users_impact_store_application|Use Guided Setup to onboard users to the Impact Store Application]]
+- [[assign-users-scan-engine-groups|Assign users to Platform Health groups]]
+- [[configure-initial-scan-engine-settings|Activate Scan Engine and review settings]]
+- [[configure-scan-engine-properties|Configure Scan Engine properties]]
+- [[teamdev-scanning-properties|Configure scanning properties per persona]]
+- [[add-view-scan-engine-related-lists|Configure Scan Engine instance integration settings]]
+- [[additional-scan-engine-properties|Configure definition properties]]
+- [[configure-real-time-scanning-properties|Configure real-time scanning properties]]
+- [[exception-reason-properties|Configure exception reason properties]]
+- [[update-set-scanning-properties|Configure update set scanning properties]]
+- [[run-scan-engine|Run your first scan with the Scan Engine]]
+- [[scan-engine-parallel-processing|Full and delta instance scans]]
+- [[initiate-manage-scan-engine|Initiate and manage scans]]
+- [[using-impact-scan-engine|Running on-demand scans]]
+- [[initiating-on-demand-scans-scan-engine|Initiate application scans]]
+- [[initiate-update-set-scans|Initiate update set scans]]
+- [[initiate-instance-scans|Initiate instance scans]]
+- [[initiate-limited-def-scans|Initiate limited definition scans]]
+- [[understanding-scan-blocking-override-behavior|Scan blocking and override behavior scenarios]]
+- [[start-automated-registration-IDI|Use automated registration to connect to the Impact Delivery Instance]]
+- [[verify-impact-data-connection|Verify Impact data connection]]
+- [[initiate-migration-idi|Initiate data migration from IDI]]
+- [[instance-integration-scan-engine|Scan Engine integrations]]
+- [[task-create-integration-user|Create an integration user account]]
+- [[register-your-instance|Register your instance]]
+- [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
+- [[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]]
+- [[configure-basic-auth-method|Configure the Basic authentication method]]
+- [[validate-instance-connection|Validate your instance connection]]
+- [[recover-from-account-lockout|Recover from account lockout]]
+- [[definitions-integrations|Definitions integration]]
+- [[sync-new-customized-overridden-defs|Sync definitions]]
+- [[exception-reason-integration|Exception reason integration]]
+- [[syncing-exception-reasons|Sync exception reasons]]
+- [[user-story-integration-properties|User story integration]]
+- [[configuring-sn-integration-options|Configure ServiceNow user story integration]]
+- [[configure-jira-integration-options|Configure Jira user story integration]]
+- [[configure-azure-devops-integration-options|Configure Azure DevOps story integration]]
+- [[deployment-sync-integrations|Deployment and synchronization integrations]]
+- [[aes-aemc-integration-properties|Configure AES/AEMC integration properties]]
+- [[update-set-integration|Configure update set integration]]
+- [[configure-other-integration-options|Configure other integration options]]
+- [[hop-access-impact-squad|Grant temporary instance access to your Impact Squad]]
+- [[activate-now-assist-skills-in-now-assist-for-impact|Activate Now Assist skills in Now Assist for Impact]]
+- [[data-collection-toolkit|Enable data collection for Value Management]]
+- [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]]
+- [[dc-all-modify|Modifying the Data Collection configuration]]
+- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]
+- [[data-collection-apm|Impact Value Management Data Collection for APM]]
+- [[dc-apm-install|Install the Data Collection Pack for APM]]
+- [[dc-apm-config|Configure Data Collection for APM]]
+- [[dc-apm-activate|Activate Data Collection for APM]]
+- [[dc-apm-installation-artifacts|Review APM artifacts]]
+- [[data-collection-app-engine|Impact Value Management Data Collection Content Pack for App Engine]]
+- [[dc-app-eng-install|Install the Data Collection Content Pack for App Eng]]
+- [[dc-app-eng-config|Configure Data Collection for App Engine]]
+- [[dc-app-eng-activate|Activate Data Collection for App Engine]]
+- [[dc-app-engine-installation-artifacts|Review App Engine artifacts]]
+- [[data-collection-csm|Impact Value Management Data Collection Content Pack for CSM]]
+- [[dc-csm-install|Install the Data Collection Pack for CSM]]
+- [[dc-csm-config|Configure Data Collection for CSM]]
+- [[dc-csm-activate|Activate Data Collection for CSM]]
+- [[dc-csm-install-artifacts|Review CSM artifacts]]
+- [[data-collection-sam|Impact Value Management Data Collection Content Pack for SAM]]
+- [[dc-sam-install|Install the Data Collection Pack for SAM]]
+- [[dc-sam-config|Configure Data Collection for SAM]]
+- [[dc-sam-activate|Activate Data Collection for SAM]]
+- [[dc-sam-install-artifacts|Review SAM artifacts]]
+- [[data-collection-ham|Impact Value Management Data Collection Content Pack for HAM]]
+- [[dc-ham-install|Install the Data Collection Pack for HAM]]
+- [[dc-ham-config|Configure Data Collection for HAM]]
+- [[dc-ham-activate|Activate Data Collection for HAM]]
+- [[dc-ham-install-artifacts|Review HAM artifacts]]
+- [[data-collection-itsm|Impact Value Management Data Collection Content Pack for ITSM]]
+- [[dc-itsm-install|Install the Data Collection Pack for ITSM]]
+- [[dc-itsm-config|Configure Data Collection for ITSM]]
+- [[dc-itsm-activate|Activate Data Collection for ITSM]]
+- [[dc-itsm-install-artifacts|Review ITSM artifacts]]
+- [[data-collection-itom|Impact Value Management Data Collection Content Pack for ITOM]]
+- [[dc-itom-install|Install the Data Collection Pack for ITOM]]
+- [[dc-itom-config|Configure Data Collection for ITOM]]
+- [[dc-itom-activate|Activate Data Collection for ITOM]]
+- [[dc-itom-install-artifacts|Review ITOM artifacts]]
+- [[data-collection-hr|Impact Value Management Data Collection Content Pack for HR]]
+- [[dc-hr-install|Install the Data Collection Pack for HR]]
+- [[dc-hr-config|Configure Data Collection for HR]]
+- [[dc-hr-activate|Activate Data Collection for HR]]
+- [[dc-hr-install-artifacts|Review HR artifacts]]
+- [[data-collection-secops|Impact Value Management Data Collection Content Pack for SecOps]]
+- [[dc-secops-install|Install the Data Collection Pack for SecOps]]
+- [[dc-secops-config|Configure Data Collection for SecOps]]
+- [[dc-secops-activate|Activate Data Collection for SecOps]]
+- [[dc-secops-install-artifacts|Review SecOps artifacts]]
+- [[data-collection-spm|Impact Value Management Data Collection Content Pack for SPM]]
+- [[dc-spm-install|Install the Data Collection Pack for SPM]]
+- [[dc-spm-install-artifacts|Review SPM artifacts]]
+- [[dc-spm-config|Configure Data Collection for SPM]]
+- [[dc-spm-activate|Activate Data Collection for SPM]]
+- [[data-collection-irm|Impact Value Management Data Collection Content Pack for IRM]]
+- [[dc-irm-install|Install the Data Collection Pack for IRM]]
+- [[dc-irm-config|Configure Data Collection for IRM]]
+- [[dc-irm-activate|Activate Data Collection for IRM]]
+- [[dc-irm-install-artifacts|Review IRM artifacts]]
+- [[value-blueprint|Configure Objectives and outcomes]]
+- [[impact-in-app|Using Impact]]
+- [[impact-in-platform-home|Navigating Impact]]
+- [[using-recommendations-iip-ws|Use the recommendations list]]
+- [[contextual-learning-recommendations|Outcomes based contextual learning recommendations]]
+- [[platform-health-idi|Platform Health]]
+- [[impact-healthscan-store-app|Scan Engine for the Impact Store Application]]
+- [[scan-engine-definitions|Scan Engine definitions]]
+- [[scan-engine-definitions-security|scan engine definitions security]]
+- [[scan-engine-definitions-performance|scan engine definitions performance]]
+- [[scan-engine-definitions-manageability|scan engine definitions manageability]]
+- [[scan-engine-definitions-upgradeability|scan engine definitions upgradeability]]
+- [[scan-engine-definitions-user-experience|scan engine definitions user experience]]
+- [[view-modify-scan-engine-properties|Customize Scan Engine definitions]]
+- [[create-scan-engine-definitions|Create custom Scan Engine definitions]]
+- [[create-scan-engine-definition-suites|Customize Scan Engine definition suites]]
+- [[understand-scan-engine-results-findings|Understand scan results and findings]]
+- [[viewing-scan-results-scan-engine|View scan results for Scan Engine]]
+- [[work-with-scan-engine-findings|Work with Scan Engine findings]]
+- [[working-proposed-fixes-scan-engine|View and implement proposed fixes for Scan Engine]]
+- [[creating-user-stories-tasks-scan-engine|Create user stories and tasks for Scan Engine]]
+- [[working-policies-scan-engine|Create policies for Scan Engine]]
+- [[impact-health-agent|Now Assist for Platform Health]]
+- [[real-time-prevention-monitoring-combined|Real-time prevention monitoring for Scan Engine]]
+- [[use-remediation-agent|Use Real-time prevention monitoring to fix a general guidelines finding]]
+- [[configure-exception-reasons-scan-engine|Configure exception reasons for Scan Engine]]
+- [[code-fix-ai-agent-scan-engine|Fix code in real-time with Now Assist]]
+- [[configure-ai-code-fix-for-platform-health|Configure Fix code in real-time for Platform Health]]
+- [[submitting-exception-reasons-scan-engine|Submit exceptions for Scan Engine findings]]
+- [[fix-code-with-the-ai-agent|Bulk Fix code in real-time with Now Assist]]
+- [[scan-engine-diagnostic-dashboards|Track Platform Health trends]]
+- [[access-analytics-dashboards|Accessing Analytics Dashboards]]
+- [[scan-engine-executive-dashboard|Scan Engine Executive dashboard]]
+- [[scan-engine-platform-owner-dashboard|Scan Engine Platform Owner dashboard]]
+- [[scan-engine-team-lead-dashboard|Scan Engine Team Lead dashboard]]
+- [[scan-engine-development-team-dashboard|Scan Engine Developer dashboard]]
+- [[developer-support|Impact Developer Support]]
+- [[developer-support-usage|Using Developer Support]]
+- [[create-developer-support-case|Create a Developer Support case]]
+- [[manage-developer-support-user-access|Manage Developer Support user access]]
+- [[io-overview|Monitoring instance health with Instance Observer]]
+- [[user-configurable-dashboard|Instance Observer user configurable dashboard]]
+- [[customize-instance-observer-dashboard|Create a dashboard]]
+- [[io-performance-insights|Performance insights in user-configurable dashboard]]
+- [[instance-observer-performance|Performance]]
+- [[io-getting-started-perf-charts|Getting started with Performance charts]]
+- [[anomalies-detection|Anomalies detection]]
+- [[configure-anomaly-alerts|Configure anomaly alerts]]
+- [[anomaly-detection-algorithm|Anomaly detection algorithm]]
+- [[io-long-pending-job-alert-card|Analyze job details for long pending jobs]]
+- [[io-availability|Availability]]
+- [[cloud-availability|Cloud availability]]
+- [[io-alerts-intro|Alerts in Instance Observer]]
+- [[io-alerts|Key alerts – activation and notifications]]
+- [[configuring-io-alerts|Configure Key Alerts]]
+- [[generate-thresholds-io-alerts|Generate thresholds for key alerts]]
+- [[manage-io-alerts|Manage Instance Observer alerts]]
+- [[io-app-monitor-alert-card|Set an alert to monitor the average response time of applications]]
+- [[io-alerts-guided-cust|Track instance performance with the top six timely alerts – Guided users]]
+- [[io-alerts-popular-total-adv-cust|Use popular alerts to receive notifications – Advanced and Total users]]
+- [[i-o-notifications|Instance Observer Notifications]]
+- [[io-long-pending-jobs|Configure long pending jobs alert by job priority]]
+- [[io-receive-notification-customer-conf-webhook|Configure IO alert notifications for a ServiceNow instance]]
+- [[io-receive-notification-third-party|Configure IO alert notifications for a third-party application]]
+- [[custom-payload-help-guide-impact|Custom payload in alerts integration]]
+- [[generative-ai-root-cause-anal|Generative AI powered Root cause analysis]]
+- [[root-cause-correlation|Root cause correlation]]
+- [[configure-rcc-alerts|Configure Root cause correlation alerts]]
+- [[utilizing-rcc-reports-perform-root-cause-analysis|Use the Root cause analysis history]]
+- [[io-analytics|Analytics]]
+- [[io-compare-datasets|Compare datasets in Instance Observer]]
+- [[user-experience-insights|User Experience]]
+- [[manage-user-experience|Manage User Experience]]
+- [[monitor-apps-user-experience-io|Track the response time of applications to monitor their performance]]
+- [[io-app-mon-perf-analy|Analyze user experience and monitor application performance in Instance Observer]]
+- [[io-triage-sn-instance|Triage a ServiceNow instance]]
+- [[io-triage|Triaged instance data]]
+- [[instance-observer-reporting|Instance performance telemetry reports]]
+- [[io-help|Help]]
+- [[instance-observer-reference|Instance Observer reference]]
+- [[impact-observer-roles|Roles installed with Instance Observer]]
+- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+- [[i-o-reports|Instance Observer reports overview]]
+- [[addl-inf-io-anomaly|Anomaly insights]]
+- [[io-feature-availability|Feature availability based on package]]
+- [[auriga-intelligent-report|Auriga Intelligent Alert report]]
+- [[io-core-performance-metrics|Transaction or response metrics]]
+- [[io-database-performance-metrics|Database performance metrics]]
+- [[io-semaphores-performance-metrics|Semaphores performance metrics]]
+- [[io-events-performance-metrics|Event queues performance metrics]]
+- [[io-ecc-queue-perf-metrics|ECC Queue performance metrics]]
+- [[io-emails-performance-metrics|Email performance metrics]]
+- [[io-schedulers-perf-metrics|Scheduler performance metrics]]
+- [[io-job-details-perf-metrics|Job details performance metrics]]
+- [[io-node-health-perf-metrics|Node health performance metrics]]
+- [[io-host-health-perf-metrics|Host health performance metrics]]
+- [[io-standby-replica-lag|Standby replication Lag]]
+- [[io-pool-replica-lag|Pool Replication Lag]]
+- [[io-chat-details|Chat details performance metrics]]
+- [[io-cluster-details|Cluster details performance metrics]]
+- [[io-load-balancer|Load balancer performance metrics]]
+- [[io-user-info-metrics|User information metrics]]
+- [[instance-observer-metrics|Instance Data Replication]]
+- [[ide-consumption-report|Consumption Report]]
+- [[gen-ai-based-consumption-report-summarization|Gen AI based consumption report summarization]]
+- [[impact-conversations_store|Impact Conversations]]
+- [[start-conversation-store|Start a conversation]]
+- [[working-with-conversations|Working with Conversations]]
+- [[creating-work-items-using-recommendations-and-initiatives|Work items in the Impact Store Application]]
+- [[convert-spm-entity-impact-entity-recommendations|Manage work items with recommendations for the Impact Store Application]]
+- [[create-spm-work-item-impact-entity|Manage work items from an initiative in the Impact Store Application]]
+- [[manage-work-items-from-a-product-adoption-roadmap-in-the-impact-store-app|Manage work items from a capability linked to a Product Adoption Roadmap in the Impact Store App]]
+- [[recommendation-details-page-in-impact-store|Manage Recommendation details in Impact Store]]
+- [[impact-reference|Impact reference]]
+- [[use_manual_registration_configure_impact_store_application|Use manual registration to configure the Impact Store Application]]
+- [[initiate-the-connection-impact-delivery-instance|Initiate the connection to Impact data with manual registration]]
+- [[connect-instance-impact-store-app|Use manual registration to establish the connection to the provider instance]]
+- [[service-bridge-overview|Secure data transfer using Service Bridge]]
+- [[impact-roles|Roles installed with Impact]]
+- [[data-sync-idi-store|Dependent applications installed with the Impact Store App]]
+- [[table-field-level-mapping|Table and field level mapping]]
+- [[value-management-mapping|Value Management tables]]
+- [[product-adoption-roadmap-capabilities-map-mapping|Product Adoption Roadmap and Capabilities Map tables]]
+- [[recommendations-mapping|Recommendations tables]]
+- [[accelerators-mapping|Accelerators tables]]
+- [[working-with-squad-mapping|working with squad mapping]]
+- [[impact-store-app-storage-estimation|Impact Store Application storage estimation]]
+- [[impact-domain-separation|Domain Separation in Impact]]
+- [[proactive-code-check|Proactive Code Check for the Impact Store Application]]
+- [[install-proactive-code-check|Use Proactive Code Check for the Impact Store Application]]
+- [[review-address-proactive-code-check-findings|Proactive Code Check analytics for the Impact Store Application]]
+- [[proactive-code-check-scan-suite|Proactive Code Check scan suite matrix for the Impact Store Application]]
+- [[impact-features|Benefits &amp; Usage]]
+- [[group-views|Group Views]]
+- [[impact-delivery-instance-reference|Impact Delivery Instance reference]]
+- [[configuring-impact-idi|Configure the Impact Delivery Instance]]
+- [[ide-user-management|Manage Impact Delivery Instance users]]
+- [[edit-impact-user|Edit a role for an Impact user in the Impact Delivery Instance]]
+- [[remove-impact-user-permissions|Remove Impact user permissions in the Impact Delivery Instance]]
+- [[healthscan|HealthScan for the Impact Delivery Instance]]
+- [[impact-tech-kpis|Diagnose with tech KPIs]]
+- [[health-assessment-dashboard|Health Assessment Dashboard]]
+- [[manage-health-assessment-dashboard|Manage Health Assessment Dashboard]]
+- [[monthly-health-assessment|Monthly Health Assessment]]
+- [[schedule-monthly-health-assessment-scans|Schedule Monthly Health Assessment scans]]
+- [[healthscan-definitions|HealthScan definitions]]
+- [[healthscan-definitions-may-store|healthscan definitions may store]]
+- [[healthscan-definitions-aug-store|healthscan definitions aug store]]
+- [[healthscan-definitions-nov-store|healthscan definitions nov store]]
+- [[healthscan-definitions-oct-hotfix|healthscan definitions oct hotfix]]
+- [[additional-resources-impact|Additional resources for Impact]]
+- [[impact-in-platform-business-outcomes|Value management]]
+- [[impact-par|Product Adoption Roadmaps]]
+- [[subscriptions|Subscriptions]]
+- [[product-adoption|Product Adoption]]
+- [[capabilities-map|Capabilities maps]]
+- [[capability-details|Capability Details Page]]
+- [[training-insights|Training Insights]]
+- [[access-expertise-initiative|Access to Expertise]]
+- [[getting-started-developer-support|Get started with Developer Support]]
+- [[preventive-care|Preventive Care]]
+- [[accelerator-catalog|Accelerator catalog]]
+- [[architecture-accelerators|Architecture Accelerators]]
+- [[csdm-data-modeling|CSDM Data Modeling]]
+- [[health-assessment|Health Assessment]]
+- [[release-deployment-advisory-pro-code-development|Release and Deployment Advisory for Pro-code Development]]
+- [[technical-governance|Technical Governance]]
+- [[optimization-accelerators|Optimization Accelerators]]
+- [[strategy-accelerators|Strategy Accelerators]]
+- [[champion-engagement|Champion Engagement]]
+- [[develop-partner-strategy|Develop Partner Strategy]]
+- [[servicenow-governance|ServiceNow Governance]]
+- [[stakeholder-path-to-value|Stakeholder Path to Value]]
+- [[vision-and-strategy|Vision and Strategy]]
+- [[technical-accelerators|Technical Accelerators]]
+- [[access-experts-acc|Access to Experts]]
+- [[extend-employee-center-pro|Extend Your Employee Center to Pro]]
+- [[introduction-instance-readiness-assessment|Introduction to Instance Readiness Assessment]]
+- [[jumpstart-your-ai-control-tower|jumpstart your ai control tower]]
+- [[data-management|Jumpstart Your Database Management]]
+- [[introduction-to-servicenow-vault|Introduction to ServiceNow Vault]]
+- [[jumpstart-employee-journey-management|Jumpstart Your Employee Journey Management]]
+- [[jumpstart-event-mgmt|Jumpstart Your Event Management]]
+- [[jumpstart-issue-auto-resolution|Jumpstart Your Issue Auto Resolution]]
+- [[jumpstart-knowledge-management|Jumpstart Your Knowledge Management]]
+- [[jumpstart-migration-platform-analytics|Jumpstart Your Migration of Platform Analytics]]
+- [[jumpstart-NLU|Jumpstart Your Natural Language Understanding]]
+- [[jumpstart-now-assist-creator|Jumpstart Your Now Assist for Creator]]
+- [[jumpstart-now-assist-virtual-agent|Jumpstart Your Now Assist in Virtual Agent]]
+- [[jumpstart-platform-analytics|Jumpstart Your Platform Analytics]]
+- [[jumpstart-predictive-intelligence|Jumpstart Your Predictive Intelligence]]
+- [[jumpstart-process-mining|Jumpstart Your Process Mining]]
+- [[jumpstart-service-mapping|Jumpstart Your Service Mapping]]
+- [[jumpstart-spm-planning-workspace|Jumpstart Your Strategic Portfolio Management – Planning Workspace]]
+- [[jumpstart-task-intelligence|Jumpstart Your Task Intelligence]]
+- [[tuneup-your-cmdb|TuneUp Your Configuration Management Database]]
+- [[tuneup-employee-center|TuneUp Your Employee Center]]
+- [[tuneup-hw-asset-management|TuneUp Your Hardware Asset Management]]
+- [[tuneup-platform-analytics|TuneUp Your Platform Analytics]]
+- [[tuneup-sw-asset-mgmt|TuneUp Your Software Asset Management]]
+- [[tuneup-your-virtual-agent|TuneUp Your Virtual Agent]]
+- [[tuneup-virtual-agent-assessment|TuneUp Your Virtual Agent - Assessment]]
+- [[tuneup-virtual-agent-performance-monitoring|TuneUp Your Virtual Agent – Performance Monitoring]]
+- [[impact-activity-center|Activity Center]]
