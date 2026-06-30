@@ -1,0 +1,11 @@
+# Now Assist AI — Custom Knowledge Base
+
+> LLM-optimized index for the `now-assist-ai/` vault section. This folder contains custom, curated knowledge about ServiceNow Now Assist AI features — drawn from labs, support cases, and production experience. Not official ServiceNow documentation.
+
+## AI Agents
+
+- [AI Agents Knowledge Base](ai-agents/AI%20Agents%20Knowledge%20Base.md): Troubleshooting, debugging, and best practices for ServiceNow AI Agents (Zurich release). Covers failure mode taxonomy, ReAct loop execution architecture, runtime tables (sn_aia_*), access control/role masking, performance optimization, smart tool design, and a step-by-step debugging runbook. Source: Knowledge 2026 lab CCL6230-K26.
+
+## AI Search
+
+- [Get Similar Records AIS Script Documentation](ai-search/Get%20Similar%20Records%20AIS%20Script%20Documentation.md): Semantic search (AIS) behavior and performance tuning for large-scale vector search. Covers filter impact on ANN traversal, timeout root causes (SocketTimeoutException), documentMatchThreshold tradeoffs, and indexing strategy recommendations. Based on Case CS9293768 (~5.3M records / ~9.8M embeddings scenario).
